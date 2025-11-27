@@ -37,79 +37,35 @@ Montes Maza, Augusto Sebastián – u202218645
 
 # Registro de Versiones del Informe
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 57%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Versión</th>
-<th>Fecha</th>
-<th>Autor</th>
-<th>Descripción de modificación</th>
-</tr>
-<tr class="odd">
-<th>TB1</th>
-<th>21/09/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th><p>Se realizaron los Capítulos I: Introducción, Capítulo II:
-Requirements Elicitation &amp; Analysis, Capítulo</p>
-<p>III: Requirements Specification y Capítulo IV: Product
-Design</p></th>
-</tr>
-<tr class="header">
-<th>TP</th>
-<th>10/10/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th><p>Se realizaron los puntos del Capítulo V: Sprint 2, Sprint
-Planning 2, Sprint Backlog 2, Development</p>
-<p>Evidence for Sprint Review, Testing Suite Evidence for Sprint Review,
-Execution Evidence for Sprint</p>
-<p>Review, Services Documentation Evidence for Sprint Review, Software
-Deployment Evidence for</p>
-<p>Sprint Review y Team Collaboration Insights during Sprint</p></th>
-</tr>
-<tr class="odd">
-<th>TB2</th>
-<th>16/11/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th>Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning
-3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing
-Suite Evidence for Sprint Review, Execution Evidence for Sprint Review,
-Services Documentation Evidence for Sprint Review, Software Deployment
-Evidence for Sprint Review, Team Collaboration Insights during Sprint,
-Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según
-heurísticas, Video About-the-Product, Video About-the-Team</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+
+| Versión | Fecha | Autor | Descripción de modificación |
+|---------|-------|-------|----------------------------|
+| 1.0 | 21/09/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó el Capítulo I: Introducción |
+| 1.1 | 21/09/2025 | Condori Lozano, Alessandro Ramiro | Se realizó el Capítulo II: Requirements Elicitation & Analysis |
+| 1.2 | 21/09/2025 | Murillo, Mathias Javier | Se realizó el Capítulo III: Requirements Specification |
+| 1.3 | 21/09/2025 | Mejia Aliaga, Katherine Maryory | Se realizó el Capítulo IV: Product Design |
+| 2.0 | 10/10/2025 | Montes Maza, Augusto Sebastian | Se realizó el Sprint Planning 2 y Sprint Backlog 2 |
+| 2.1 | 10/10/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó Development Evidence for Sprint Review |
+| 2.2 | 10/10/2025 | Condori Lozano, Alessandro Ramiro | Se realizó Testing Suite Evidence for Sprint Review |
+| 2.3 | 10/10/2025 | Murillo, Mathias Javier | Se realizó Execution Evidence for Sprint Review |
+| 2.4 | 10/10/2025 | Mejia Aliaga, Katherine Maryory | Se realizó Services Documentation Evidence for Sprint Review |
+| 2.5 | 10/10/2025 | Montes Maza, Augusto Sebastian | Se realizó Software Deployment Evidence for Sprint Review |
+| 3.0 | 16/11/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó Sprint Planning 3 y Sprint Backlog 3 |
+| 3.1 | 16/11/2025 | Condori Lozano, Alessandro Ramiro | Se realizó Development Evidence for Sprint Review |
+| 3.2 | 16/11/2025 | Murillo, Mathias Javier | Se realizó Testing Suite Evidence for Sprint Review |
+| 3.3 | 16/11/2025 | Mejia Aliaga, Katherine Maryory | Se realizó Execution Evidence for Sprint Review |
+| 3.4 | 16/11/2025 | Montes Maza, Augusto Sebastian | Se realizó Services Documentation Evidence for Sprint Review |
+| 3.5 | 16/11/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó Software Deployment Evidence for Sprint Review |
+| 3.6 | 16/11/2025 | Condori Lozano, Alessandro Ramiro | Se realizó Team Collaboration Insights during Sprint |
+| 3.7 | 16/11/2025 | Murillo, Mathias Javier | Se realizó Diseño de Entrevistas y Registro de Entrevistas |
+| 3.8 | 16/11/2025 | Mejia Aliaga, Katherine Maryory | Se realizó Evaluaciones según heurísticas |
+| 3.9 | 16/11/2025 | Montes Maza, Augusto Sebastian | Se realizó Video About-the-Product y Video About-the-Team |
 
 ---
 
 # Project Report Collaboration Insights
 
 A continuación, se detalla el proceso de colaboración y gestión de versiones que el equipo ha seguido para la elaboración de este informe y los productos asociados. Todas las contribuciones están centralizadas y son rastreables a través de nuestro repositorio en GitHub.
-
-- **URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
-- **URL del Frontend desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- **URL del Backend desplegado:** https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
 
 ---
 
@@ -162,12 +118,12 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    El equipo definió de manera colaborativa la separación del dominio en siete *bounded contexts*, acordando los límites funcionales y las reglas de negocio de cada módulo. Este análisis se realizó mediante reuniones técnicas, pizarras colaborativas y revisión grupal de los modelos conceptuales.
 
 2. **Arquitectura del Backend y Estructura del Proyecto:**  
-   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia: capas de *controllers*, *services*, *repositories* y *domain models*.  
-   El equipo discutió y acordó el uso de patrones como **DTOs**, **Value Objects**, **Aggregates**, así como las convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
+   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia, organizada en capas de *controllers*, *services*, *repositories* y *domain models*.  
+El equipo discutió y acordó el uso de **Resources** para el intercambio de datos en la API, así como **Value Objects** y **Aggregates** dentro del dominio, además de convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
 
 3. **Implementación de Endpoints y Casos de Uso:**  
-   Cada integrante asumió módulos específicos del backend, desarrollando controladores y casos de uso independientes, pero bajo las reglas globales del dominio.  
-   Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context.
+   Cada integrante asumió módulos específicos del backend, desarrollando controladores y servicios de manera independiente, pero bajo las reglas globales del dominio.  
+Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context correspondiente.
 
 4. **Diseño e Integración de la Base de Datos:**  
    El equipo trabajó en conjunto para finalizar el modelo relacional, asegurando que las entidades reflejaran fielmente el dominio definido en DDD. Se documentaron relaciones, claves primarias, restricciones y normalización.  
@@ -182,7 +138,7 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    Se validó la coherencia entre contratos API, tipos de datos, rutas y respuestas, asegurando que el frontend pudiera integrarse sin fricciones con la API.
 
 7. **Documentación Técnica del Backend:**  
-   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de módulos, casos de uso, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
+   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de los módulos, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
 
 ---
 
@@ -312,7 +268,7 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
 
 # Student Outcome
 
-Objetivo general, ABET – EAC - Student Outcome 5: Capacidad de comunicarse efectivamente con un rango de audiencias.
+Objetivo general, ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
 # Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
 
@@ -345,11 +301,11 @@ La propuesta de valor radica en la simplicidad y personalización del sistema. M
 
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
-| <div style="display: flex; align-items: center;">![Integrante1](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg)&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;">![Integrante2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg)&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
-| <div style="display: flex; align-items: center;">![Integrante3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png)&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;">![Integrante4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg)&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;">![Integrante5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg)&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
+| <div style="display: flex; align-items: center;">![Mathias Murillo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/MathiasJM.png)&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
+| <div style="display: flex; align-items: center;">![Alessandro Condori](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/AlessandroCondori.png)&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
+| <div style="display: flex; align-items: center;">![Sebastian Montes](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/AugustoMontes.png)&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos | C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;">![Katherine Mejia](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/KatherineAguilar.png)&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;">![Rodrigo Aguilar](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/RodrigoAguilar.png)&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software. | Tengo experiencia con Javascript, Java, C++. |
 
 
 ## 1.2 Solution Profile
@@ -1361,7 +1317,7 @@ Cada historia de usuario incluye Criterios de Aceptación redactados en formato 
 | LS-06.03 | Iniciar Proceso de Registro | Como **visitante convencido**, quiero encontrar fácilmente un botón de "Registrarse" o "Empezar ahora" para crear mi cuenta sin demoras. | **Dado** que estoy en cualquier sección de la landing page,<br>**Cuando** decido que quiero registrarme,<br>**Entonces** puedo ver un botón de llamado a la acción (CTA) claramente visible en la barra de navegación y en el pie de página que me lleva al formulario de registro. | EP-06 |
 ## 3.2. Impact Mapping
 
-![ImpactMapping](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png)
+![ImpactMapping](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_III/impact_mapping/Impact%20map%201.png)
 
 ## 3.3. Product Backlog
 
@@ -1433,21 +1389,21 @@ El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logis
 
 #### Logo:
 
-![Logo](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png) 
+![Logo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Logo.png)
 
 #### Colores:
 
-![Colores](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png)
+![Colores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Colores.png)
 
 #### Tipografía:
 
 La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra:
 
-![Tipografia](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png)
+![Tipografia](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Tipografia.png)
 
 #### Espaciado:
 
-![Espaciado](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png)
+![Espaciado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Espaciado.png)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1538,36 +1494,36 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.3.1. Landing Page Wireframe
 
 #### Home Wireframe
-![HomeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png)
+![Home Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Home.png)
 
 #### About Us Wireframe
-![AboutWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png)
+![About Us Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/About%20Us.png)
 
 #### Learn More Wireframe
-![LearnWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png)
+![Learn More Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Learn%20More%20(1).png)
 
 #### Suscribe Wireframe
-![SuscribeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png)
+![Suscribe Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Suscribe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### Home Mockup
-![HomeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png)
+![Home Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Home-Mock.png)
 
 #### About Us Mockup
-![AboutMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png)
+![About Us Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/About%20Us-Mock.png)
 
 #### Learn More Mockup
-![LearnMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png)
+![Learn More Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Learn%20More-Mock%20(1).png)
 
 #### Suscribe Mockup
-![SuscribeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png)
+![Suscribe Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Suscribe-Mock.png)
 
 #### Login Mockup
-![LoginMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png)
+![Login Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Login.png)
 
 #### Register Mockup
-![RegisterMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png)
+![Register Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Register.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1597,7 +1553,7 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![Wireflow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png)
+![Wireflow](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/wen_applications_diagrams/Wireframe-Wireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1627,7 +1583,7 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-![UserFlow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png)
+![UserFlow](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/user_flow_diagrams/Mockup-Wireflow.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -1641,23 +1597,23 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ![Design-Level Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png)
 
 ### 4.6.2. Software Architecture Context Diagram
-![Software Architecture Context Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Context%20Diagram.png)
+![Diagrama de Contexto](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/context_diagram/Software%20Architecture%20Context%20Diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
-![Software Architecture Container Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Container%20Diagrams.png)
+![Diagrama de Contenedores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/container_diagrams/Software%20Architecture%20Container%20Diagrams.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
-![Software Architecture Components Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Components%20Diagrams.png)
+![Diagrama de Componentes](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/components_diagrams/Software%20Architecture%20Components%20Diagrams.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png)
+![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/class_diagrams/Diagrama%20de%20Clases.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png)
+![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/database_diagram/Diagrama%20de%20Base%20de%20Datos.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1889,7 +1845,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 https://trello.com/invite/b/68cf9b5efdc693c0847bd189/ATTI824e909b5beee840ebf67f032d02795825FBB2F7/sprint-1-logispe
 
-![Sprint Backlog](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d253bd1316053141e81cd714db15425f7dded346/img/SprintBacklog1-LogisPe.png)
+![Sprint Backlog](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/sprint_backlog_1/SprintBacklog1-LogisPe.png)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -1910,17 +1866,17 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-![Evidence1](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
+![Evidence1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia1-LogisPe.png)
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de LogisPe, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  ![Evidence2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)    
+  ![Evidence2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png) 
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    ![Evidence3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+    ![Evidence3](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
     
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para LogisPe.
 
@@ -1951,13 +1907,13 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
 
-2. ![Evidence4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
+2. ![Evidence4](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia1-LogisPe.png)
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. ![Evidence5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+4. ![Evidence5](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
 
 Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
 
@@ -2113,15 +2069,15 @@ El objetivo del Sprint 2 fue materializar los diseños de la aplicación web en 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp1.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp1.png)
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp2.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp2.png)
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2129,7 +2085,7 @@ Durante este sprint, el desarrollo del frontend se basó en una **Fake API** uti
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2143,11 +2099,11 @@ Durante el Sprint 2, la colaboración se centró en la construcción de las pant
 | Katherine Mejia | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API. |
 | Augusto Sebastian Montes Maza | Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1. |
 
-![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
+![EvidenciaCommits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/CommitsTP.png)
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/Commits.png)
 
 ## 5.2.3. Sprint 3
 
@@ -2261,12 +2217,12 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 | US-03.03 | Implementar Módulo Stores (DDD) | TSK-07 | Crear entidades Store y Warehouse | Implementar estructura de datos para gestionar múltiples almacenes. | 6 | Murillo M. | Done |
 | | | TSK-08 | Implementar servicios del módulo Stores | Lógica para creación de tiendas, asignación de inventario y rutas. | 6 | Aguilar R. | Done |
 | | | TSK-09 | Controladores REST de Stores | Definir endpoints y validaciones específicas del módulo. | 5 | Condori A. | Done |
-| US-03.04 | Documentación Técnica del Backend | TSK-10 | Documentar arquitectura DDD | Redacción de estructura del backend, bounded contexts y flujos. | 4 | Montes A. | Done |
+| US-03.04 | Documentación Técnica del Backend | TSK-10 | Documentar arquitectura DDD | Redacción de estructura del backend, bounded contexts y flujos principales. | 4 | Montes A. | Done |
 | | | TSK-11 | Implementar Swagger para API | Generar documentación interactiva de todos los endpoints. | 3 | Mejia K. | Done |
 | US-03.05 | Preparar Despliegue del Backend | TSK-12 | Configurar entorno Docker para backend | Crear Dockerfile y docker-compose para entorno de pruebas. | 5 | Aguilar R. | Done |
 | | | TSK-13 | Deploy en servidor de pruebas | Desplegar backend en Render/Fly.io y validar funcionamiento. | 4 | Murillo M. | Done |
-| US-03.06 | Validaciones y Entrevistas Técnicas | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
-| | | TSK-15 | Realizar entrevistas de validación técnica | Validar arquitectura, endpoints y casos de uso con el equipo. | 3 | Aguilar R. | Done |
+| US-03.06 | Validaciones y Ajustes Técnicos | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
+| | | TSK-15 | Validaciones técnicas internas | Revisar arquitectura, endpoints y consistencia entre módulos. | 3 | Aguilar R. | Done |
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -2276,12 +2232,12 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-![EvidenciaSwagger](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/327dc3bb1466da1e80ddc1c34e9d5007d6cc114b/img/Swagger.png)
+![EvidenciaSwagger](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/execution_evidence_sprint_review/Swagger.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint, el desarrollo del backend se centró en la implementación de la arquitectura basada en **Domain-Driven Design (DDD)** y la creación de la **API real** de LogisPe. Toda la estructura de endpoints para los módulos Inventory, Suppliers y Stores fue documentada mediante **Swagger/OpenAPI**, permitiendo visualizar, probar y validar cada recurso del sistema.  
-La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, casos de uso, repositorios y flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
+La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, la estructura de servicios, repositorios, recursos expuestos por la API y el flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2295,11 +2251,11 @@ Durante el Sprint 3, la colaboración se centró en la construcción completa de
 
 | Author | Task completed |
 |---|---|
-| Mathias Javier Murillo | Implementó entidades, controladores y despliegue de prueba del módulo Inventory. |
+| Mathias Javier Murillo | Implementó entidades, controladores y el despliegue de prueba del módulo Inventory. |
 | Rodrigo Aguilar | Implementó servicios clave en los módulos Inventory y Stores, y configuró Docker y despliegue. |
 | Alessandro Condori | Implementó entidades, repositorios y endpoints del módulo Suppliers. |
 | Katherine Mejia | Implementó controladores, validaciones y documentación Swagger para múltiples módulos. |
-| Augusto Sebastian Montes Maza | Documentó la arquitectura DDD, refinó casos de uso y realizó validaciones técnicas internas. |
+| Augusto Sebastian Montes Maza | Documentó la arquitectura DDD y realizó validaciones técnicas internas. |
 
 ![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
 
