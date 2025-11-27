@@ -1599,23 +1599,23 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ![Design-Level Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png)
 
 ### 4.6.2. Software Architecture Context Diagram
-![Software Architecture Context Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Context%20Diagram.png)
+![Diagrama de Contexto](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/context_diagram/Software%20Architecture%20Context%20Diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
-![Software Architecture Container Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Container%20Diagrams.png)
+![Diagrama de Contenedores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/container_diagrams/Software%20Architecture%20Container%20Diagrams.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
-![Software Architecture Components Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Components%20Diagrams.png)
+![Diagrama de Componentes](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/components_diagrams/Software%20Architecture%20Components%20Diagrams.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png)
+![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/class_diagrams/Diagrama%20de%20Clases.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png)
+![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/database_diagram/Diagrama%20de%20Base%20de%20Datos.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
