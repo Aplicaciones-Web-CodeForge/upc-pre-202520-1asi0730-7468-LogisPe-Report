@@ -4,32 +4,33 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 
+**Facultad**: Ingeniería  
 **Carrera**: Ingeniería de Software  
-**Ciclo**: 2025-02  
+**Periodo**: 2025-02  
 **Curso**: 1ASI0730 - Aplicaciones Web  
 **NRC**: 7468  
-**Profesor**: Angel Augusto Velasquez Nuñez  
+**Profesor**: Ángel Augusto Velásquez Núñez  
 
 <br>
 
-# **Informe de Trabajo Final**
+**Informe de Trabajo Final**
 
 **Startup**: CodeForce  
 **Producto**: LogisPE  
 
 <br>
 
-## **Integrantes**
+**Integrantes**
 
 Aguilar Untiveros, Rodrigo Fabrizio – u202318309  
 Condori Lozano, Alessandro Ramiro – u20211a118  
 Murillo, Mathias Javier – u202022211  
-Mejia Aliaga, Katherine Maryory – u20221a118  
-Montes Maza, Augusto Sebastian – u202218645  
+Mejía Aliaga, Katherine Maryory – u20221a118  
+Montes Maza, Augusto Sebastián – u202218645  
 
 <br><br>
 
-**Agosto del 2025**
+**Diciembre del 2025**
 
 </div>
 
