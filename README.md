@@ -120,12 +120,12 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    El equipo definió de manera colaborativa la separación del dominio en siete *bounded contexts*, acordando los límites funcionales y las reglas de negocio de cada módulo. Este análisis se realizó mediante reuniones técnicas, pizarras colaborativas y revisión grupal de los modelos conceptuales.
 
 2. **Arquitectura del Backend y Estructura del Proyecto:**  
-   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia: capas de *controllers*, *services*, *repositories* y *domain models*.  
-   El equipo discutió y acordó el uso de patrones como **DTOs**, **Value Objects**, **Aggregates**, así como las convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
+   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia, organizada en capas de *controllers*, *services*, *repositories* y *domain models*.  
+El equipo discutió y acordó el uso de **Resources** para el intercambio de datos en la API, así como **Value Objects** y **Aggregates** dentro del dominio, además de convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
 
 3. **Implementación de Endpoints y Casos de Uso:**  
-   Cada integrante asumió módulos específicos del backend, desarrollando controladores y casos de uso independientes, pero bajo las reglas globales del dominio.  
-   Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context.
+   Cada integrante asumió módulos específicos del backend, desarrollando controladores y servicios de manera independiente, pero bajo las reglas globales del dominio.  
+Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context correspondiente.
 
 4. **Diseño e Integración de la Base de Datos:**  
    El equipo trabajó en conjunto para finalizar el modelo relacional, asegurando que las entidades reflejaran fielmente el dominio definido en DDD. Se documentaron relaciones, claves primarias, restricciones y normalización.  
@@ -140,7 +140,7 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    Se validó la coherencia entre contratos API, tipos de datos, rutas y respuestas, asegurando que el frontend pudiera integrarse sin fricciones con la API.
 
 7. **Documentación Técnica del Backend:**  
-   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de módulos, casos de uso, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
+   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de los módulos, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
 
 ---
 
@@ -2219,12 +2219,12 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 | US-03.03 | Implementar Módulo Stores (DDD) | TSK-07 | Crear entidades Store y Warehouse | Implementar estructura de datos para gestionar múltiples almacenes. | 6 | Murillo M. | Done |
 | | | TSK-08 | Implementar servicios del módulo Stores | Lógica para creación de tiendas, asignación de inventario y rutas. | 6 | Aguilar R. | Done |
 | | | TSK-09 | Controladores REST de Stores | Definir endpoints y validaciones específicas del módulo. | 5 | Condori A. | Done |
-| US-03.04 | Documentación Técnica del Backend | TSK-10 | Documentar arquitectura DDD | Redacción de estructura del backend, bounded contexts y flujos. | 4 | Montes A. | Done |
+| US-03.04 | Documentación Técnica del Backend | TSK-10 | Documentar arquitectura DDD | Redacción de estructura del backend, bounded contexts y flujos principales. | 4 | Montes A. | Done |
 | | | TSK-11 | Implementar Swagger para API | Generar documentación interactiva de todos los endpoints. | 3 | Mejia K. | Done |
 | US-03.05 | Preparar Despliegue del Backend | TSK-12 | Configurar entorno Docker para backend | Crear Dockerfile y docker-compose para entorno de pruebas. | 5 | Aguilar R. | Done |
 | | | TSK-13 | Deploy en servidor de pruebas | Desplegar backend en Render/Fly.io y validar funcionamiento. | 4 | Murillo M. | Done |
-| US-03.06 | Validaciones y Entrevistas Técnicas | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
-| | | TSK-15 | Realizar entrevistas de validación técnica | Validar arquitectura, endpoints y casos de uso con el equipo. | 3 | Aguilar R. | Done |
+| US-03.06 | Validaciones y Ajustes Técnicos | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
+| | | TSK-15 | Validaciones técnicas internas | Revisar arquitectura, endpoints y consistencia entre módulos. | 3 | Aguilar R. | Done |
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -2239,7 +2239,7 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint, el desarrollo del backend se centró en la implementación de la arquitectura basada en **Domain-Driven Design (DDD)** y la creación de la **API real** de LogisPe. Toda la estructura de endpoints para los módulos Inventory, Suppliers y Stores fue documentada mediante **Swagger/OpenAPI**, permitiendo visualizar, probar y validar cada recurso del sistema.  
-La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, casos de uso, repositorios y flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
+La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, la estructura de servicios, repositorios, recursos expuestos por la API y el flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2253,11 +2253,11 @@ Durante el Sprint 3, la colaboración se centró en la construcción completa de
 
 | Author | Task completed |
 |---|---|
-| Mathias Javier Murillo | Implementó entidades, controladores y despliegue de prueba del módulo Inventory. |
+| Mathias Javier Murillo | Implementó entidades, controladores y el despliegue de prueba del módulo Inventory. |
 | Rodrigo Aguilar | Implementó servicios clave en los módulos Inventory y Stores, y configuró Docker y despliegue. |
 | Alessandro Condori | Implementó entidades, repositorios y endpoints del módulo Suppliers. |
 | Katherine Mejia | Implementó controladores, validaciones y documentación Swagger para múltiples módulos. |
-| Augusto Sebastian Montes Maza | Documentó la arquitectura DDD, refinó casos de uso y realizó validaciones técnicas internas. |
+| Augusto Sebastian Montes Maza | Documentó la arquitectura DDD y realizó validaciones técnicas internas. |
 
 ![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
 
