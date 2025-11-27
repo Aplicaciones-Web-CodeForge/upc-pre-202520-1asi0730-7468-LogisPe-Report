@@ -1,14 +1,3 @@
-<style>
-.center {
-  text-align: center;
-}
-.page-break {
-  page-break-after: always;
-}
-</style>
-
-<div align="center">
-
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 **Universidad Peruana de Ciencias Aplicadas**
