@@ -1391,21 +1391,21 @@ El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logis
 
 #### Logo:
 
-![Logo](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png) 
+![Logo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Logo.png)
 
 #### Colores:
 
-![Colores](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png)
+![Colores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Colores.png)
 
 #### Tipografía:
 
 La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra:
 
-![Tipografia](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png)
+![Tipografia](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Tipografia.png)
 
 #### Espaciado:
 
-![Espaciado](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png)
+![Espaciado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Espaciado.png)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1496,36 +1496,36 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.3.1. Landing Page Wireframe
 
 #### Home Wireframe
-![HomeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png)
+![Home Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Home.png)
 
 #### About Us Wireframe
-![AboutWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png)
+![About Us Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/About%20Us.png)
 
 #### Learn More Wireframe
-![LearnWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png)
+![Learn More Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Learn%20More%20(1).png)
 
 #### Suscribe Wireframe
-![SuscribeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png)
+![Suscribe Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Suscribe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### Home Mockup
-![HomeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png)
+![Home Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Home-Mock.png)
 
 #### About Us Mockup
-![AboutMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png)
+![About Us Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/About%20Us-Mock.png)
 
 #### Learn More Mockup
-![LearnMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png)
+![Learn More Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Learn%20More-Mock%20(1).png)
 
 #### Suscribe Mockup
-![SuscribeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png)
+![Suscribe Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Suscribe-Mock.png)
 
 #### Login Mockup
-![LoginMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png)
+![Login Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Login.png)
 
 #### Register Mockup
-![RegisterMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png)
+![Register Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Register.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1555,7 +1555,7 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![Wireflow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png)
+![Wireflow](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/wen_applications_diagrams/Wireframe-Wireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1585,7 +1585,7 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-![UserFlow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png)
+![UserFlow](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/user_flow_diagrams/Mockup-Wireflow.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -1847,7 +1847,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 https://trello.com/invite/b/68cf9b5efdc693c0847bd189/ATTI824e909b5beee840ebf67f032d02795825FBB2F7/sprint-1-logispe
 
-![Sprint Backlog](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d253bd1316053141e81cd714db15425f7dded346/img/SprintBacklog1-LogisPe.png)
+![Sprint Backlog](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/sprint_backlog_1/SprintBacklog1-LogisPe.png)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -1868,17 +1868,17 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-![Evidence1](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
+![Evidence1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia1-LogisPe.png)
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de LogisPe, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  ![Evidence2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)    
+  ![Evidence2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png) 
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    ![Evidence3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+    ![Evidence3](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
     
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para LogisPe.
 
@@ -1909,13 +1909,13 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
 
-2. ![Evidence4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
+2. ![Evidence4](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia1-LogisPe.png)
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. ![Evidence5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+4. ![Evidence5](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
 
 Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
 
@@ -2071,15 +2071,15 @@ El objetivo del Sprint 2 fue materializar los diseños de la aplicación web en 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp1.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp1.png)
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp2.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp2.png)
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2087,7 +2087,7 @@ Durante este sprint, el desarrollo del frontend se basó en una **Fake API** uti
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2101,11 +2101,11 @@ Durante el Sprint 2, la colaboración se centró en la construcción de las pant
 | Katherine Mejia | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API. |
 | Augusto Sebastian Montes Maza | Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1. |
 
-![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
+![EvidenciaCommits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/CommitsTP.png)
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/Commits.png)
 
 ## 5.2.3. Sprint 3
 
@@ -2234,7 +2234,7 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-![EvidenciaSwagger](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/327dc3bb1466da1e80ddc1c34e9d5007d6cc114b/img/Swagger.png)
+![EvidenciaSwagger](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/execution_evidence_sprint_review/Swagger.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
