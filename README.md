@@ -878,7 +878,7 @@ Segmento objetivo: Restaurantes y Restobares
 
 Entrevista 1
 
-![Entrevista](assets/restaurante1.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/restaurante1.png)
 
 **Entrevistado:** Luciano De La Torre  
 **Edad:** 25 años  
@@ -896,7 +896,7 @@ Menciona que las recetas no están completamente estandarizadas, lo que genera v
 
 Entrevista 2
 
-![Entrevista](assets/restaurante2.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/restaurante2.png)
 
 **Entrevistado:** Juan José López  
 **Edad:** 28 años   
@@ -916,7 +916,7 @@ Un sistema lo motivaría si es accesible desde celular, fácil de usar, con aler
 
 Entrevista 3
 
-![Entrevista](assets/restaurante3.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/restaurante3.png)
 
 **Entrevistado:** Patricio Rodríguez Amador  
 **Edad:** 27 años  
@@ -940,7 +940,7 @@ Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo 
 
 Entrevista 1
 
-![Entrevista](assets/cafeteria1.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/cafeteria1.png)
 
 **Entrevistada:** Alejandra Martínez  
 **Edad:** 25 años  
@@ -956,7 +956,7 @@ Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera qu
 
 Entrevista 2
 
-![Entrevista](assets/cafeteria2.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/cafeteria2.png)
 
 
 **Entrevistado:** Leonardo Solís  
@@ -974,7 +974,7 @@ Considera esencial un sistema con alertas automáticas, control en tiempo real y
 
 Entrevista 3
 
-![Entrevista](assets/cafeteria3.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/cafeteria3.png)
 
 
 **Entrevistado:** Gonzalo Flores Rojas  
@@ -994,7 +994,7 @@ Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimie
 
 Entrevista 1
 
-![Entrevista](assets/emprendedor1.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/emprendedor1.png)
 
 
 **Entrevistada:** Luciana Aguilar  
@@ -1012,7 +1012,7 @@ Aunque valora el negocio, no busca expandirse, ya que lo considera complementari
 
 Entrevista 2
 
-![Entrevista](assets/emprendedor2.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/emprendedor2.png)
 
 
 **Entrevistado:** Juan Alberto Rosales  
@@ -1032,7 +1032,7 @@ Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día 
 
 Entrevista 3
 
-![Entrevista](assets/emprendedor3.png)
+![Entrevista](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/interview_record/emprendedor3.png)
 
 
 **Entrevistado:** Andrés Cieza de León  
@@ -1137,17 +1137,17 @@ Estas representaciones semi-ficticias de clientes ideales ayudan a comprender la
 Segmento objetivo: Restaurantes y Restobares
 
 
-![User Diego](assets/user3.png)
+![User Diego](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/user_person/user3.png)
 
 Segmento objetivo: Cafeterías y Bares
 
 
-![User Maria Alejandra](assets/user2.png)
+![User Maria Alejandra](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/user_person/user2.png)
 
 Segmento objetivo: Emprendimientos gastronómicos
 
 
-![User Javier](assets/user1.png)
+![User Javier](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/user_person/user1.png)
 
 ### 2.3.2. User Task Matrix
 ## User Task Matrix  
@@ -1195,40 +1195,40 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 **Segmento objetivo: Restobares y Restaurantes**
 
 
-![User Diego](assets/journey1.png)
+![User Diego](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/user_journey_mapping/journey1.png)
 
 **Segmento objetivo: Cafeterías y Bares**
 
 
-![User Maria Alejandra](assets/journey2.png)
+![User Maria Alejandra](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/user_journey_mapping/journey2.png)
 
 **Segmento objetivo: Emprendimientos Gastronómicos**
 
 
-![User Javier](assets/journey3.png)
+![User Javier](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/user_journey_mapping/journey3.png)
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento objetivo: Restaurantes y Restobares**
 
 
-![User Diego](assets/empathy1.png)
+![User Diego](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/empathy_mapping/empathy1.png)
 
 **Segmento objetivo: Cafeterías y Bares**
 
 
-![User Maria Alejandra](assets/empathy2.png)
+![User Maria Alejandra](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/empathy_mapping/empathy2.png)
 
 **Segmento objetivo: Emprendimientos gastronómicos**
 
 
-![User Javier](assets/empathy3.png)
+![User Javier](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/empathy_mapping/empathy3.png)
 
 ### 2.4. Big Picture Event Storming
 
 En esta sección se presenta el Big Picture Event Storming realizado por el equipo. Esta dinámica colaborativa permitió mapear de manera visual el dominio del negocio gastronómico, identificando los eventos clave, los comandos que los disparan, los actores involucrados, las políticas vigentes, así como los hostpots y las oportunidades de mejora.
 
-![Event Storming](assets/storming.png)
+![Event Storming](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/57bc03360592d2c126cd18e87542766ae8d96e12/assets/chapter_II/event_storming/storming.png)
 
 ### 2.5. Ubiquitous Language
 
