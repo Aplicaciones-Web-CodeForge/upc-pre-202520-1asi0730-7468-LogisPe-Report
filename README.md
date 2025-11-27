@@ -40,69 +40,29 @@
 
 # Registro de Versiones del Informe
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 57%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Versión</th>
-<th>Fecha</th>
-<th>Autor</th>
-<th>Descripción de modificación</th>
-</tr>
-<tr class="odd">
-<th>TB1</th>
-<th>21/09/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th><p>Se realizaron los Capítulos I: Introducción, Capítulo II:
-Requirements Elicitation &amp; Analysis, Capítulo</p>
-<p>III: Requirements Specification y Capítulo IV: Product
-Design</p></th>
-</tr>
-<tr class="header">
-<th>TP</th>
-<th>10/10/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th><p>Se realizaron los puntos del Capítulo V: Sprint 2, Sprint
-Planning 2, Sprint Backlog 2, Development</p>
-<p>Evidence for Sprint Review, Testing Suite Evidence for Sprint Review,
-Execution Evidence for Sprint</p>
-<p>Review, Services Documentation Evidence for Sprint Review, Software
-Deployment Evidence for</p>
-<p>Sprint Review y Team Collaboration Insights during Sprint</p></th>
-</tr>
-<tr class="odd">
-<th>TB2</th>
-<th>16/11/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th>Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning
-3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing
-Suite Evidence for Sprint Review, Execution Evidence for Sprint Review,
-Services Documentation Evidence for Sprint Review, Software Deployment
-Evidence for Sprint Review, Team Collaboration Insights during Sprint,
-Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según
-heurísticas, Video About-the-Product, Video About-the-Team</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+| Versión | Fecha | Autor | Descripción de modificación |
+|---------|-------|-------|----------------------------|
+| 1.0 | 21/09/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó el Capítulo I: Introducción |
+| 1.1 | 21/09/2025 | Condori Lozano, Alessandro Ramiro | Se realizó el Capítulo II: Requirements Elicitation & Analysis |
+| 1.2 | 21/09/2025 | Murillo, Mathias Javier | Se realizó el Capítulo III: Requirements Specification |
+| 1.3 | 21/09/2025 | Mejia Aliaga, Katherine Maryory | Se realizó el Capítulo IV: Product Design |
+| 2.0 | 10/10/2025 | Montes Maza, Augusto Sebastian | Se realizó el Sprint Planning 2 y Sprint Backlog 2 |
+| 2.1 | 10/10/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó Development Evidence for Sprint Review |
+| 2.2 | 10/10/2025 | Condori Lozano, Alessandro Ramiro | Se realizó Testing Suite Evidence for Sprint Review |
+| 2.3 | 10/10/2025 | Murillo, Mathias Javier | Se realizó Execution Evidence for Sprint Review |
+| 2.4 | 10/10/2025 | Mejia Aliaga, Katherine Maryory | Se realizó Services Documentation Evidence for Sprint Review |
+| 2.5 | 10/10/2025 | Montes Maza, Augusto Sebastian | Se realizó Software Deployment Evidence for Sprint Review |
+| 3.0 | 16/11/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó Sprint Planning 3 y Sprint Backlog 3 |
+| 3.1 | 16/11/2025 | Condori Lozano, Alessandro Ramiro | Se realizó Development Evidence for Sprint Review |
+| 3.2 | 16/11/2025 | Murillo, Mathias Javier | Se realizó Testing Suite Evidence for Sprint Review |
+| 3.3 | 16/11/2025 | Mejia Aliaga, Katherine Maryory | Se realizó Execution Evidence for Sprint Review |
+| 3.4 | 16/11/2025 | Montes Maza, Augusto Sebastian | Se realizó Services Documentation Evidence for Sprint Review |
+| 3.5 | 16/11/2025 | Aguilar Untiveros, Rodrigo Fabrizio | Se realizó Software Deployment Evidence for Sprint Review |
+| 3.6 | 16/11/2025 | Condori Lozano, Alessandro Ramiro | Se realizó Team Collaboration Insights during Sprint |
+| 3.7 | 16/11/2025 | Murillo, Mathias Javier | Se realizó Diseño de Entrevistas y Registro de Entrevistas |
+| 3.8 | 16/11/2025 | Mejia Aliaga, Katherine Maryory | Se realizó Evaluaciones según heurísticas |
+| 3.9 | 16/11/2025 | Montes Maza, Augusto Sebastian | Se realizó Video About-the-Product y Video About-the-Team |
+
 ---
 
 # Project Report Collaboration Insights
@@ -310,7 +270,7 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
 
 # Student Outcome
 
-Objetivo general, ABET – EAC - Student Outcome 5: Capacidad de comunicarse efectivamente con un rango de audiencias.
+Objetivo general, ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
 # Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
 
