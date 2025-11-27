@@ -1,3 +1,12 @@
+<style>
+.center {
+  text-align: center;
+}
+.page-break {
+  page-break-after: always;
+}
+</style>
+
 <div align="center">
 
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
@@ -35,7 +44,7 @@ Montes Maza, Augusto Sebastián – u202218645
 </div>
 
 ---
-
+ 
 
 # Registro de Versiones del Informe
 
@@ -102,6 +111,7 @@ heurísticas, Video About-the-Product, Video About-the-Team</th>
 <tbody>
 </tbody>
 </table>
+
 ---
 
 # Project Report Collaboration Insights
