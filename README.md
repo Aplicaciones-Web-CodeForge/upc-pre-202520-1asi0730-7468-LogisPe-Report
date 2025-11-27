@@ -1,44 +1,42 @@
-<div align="center">
-
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-</div>
+**Facultad**: Ingeniería  
+**Carrera**: Ingeniería de Software  
+**Periodo**: 2025-02  
+**Curso**: 1ASI0730 - Aplicaciones Web  
+**NRC**: 7468  
+**Profesor**: Ángel Augusto Velásquez Núñez  
 
-**Carrera**: Ingeniería de Software
-
-**Ciclo**: 2025-02
-
-**Curso**: 1ASI0730 - Aplicaciones Web
-
-**NRC**: 7468
-
-**Profesor**: Angel Augusto Velasquez Nuñez
+<br>
 
 **Informe de Trabajo Final**
 
-**Startup**: CodeForce
+**Startup**: CodeForce  
+**Producto**: LogisPE  
 
-**Producto**: LogisPE
+<br>
 
-**Integrantes**:
+**Integrantes**
 
-- Aguilar Untiveros, Rodrigo Fabrizio - u202318309
-- Condori Lozano, Alessandro Ramiro - u20211a118
-- Murillo, Mathias Javier - u202022211
-- Mejia Aliaga, Katherine Maryory - u20221a118
-- Montes Maza, Augusto Sebastian - u202218645
+Aguilar Untiveros, Rodrigo Fabrizio – u202318309  
+Condori Lozano, Alessandro Ramiro – u20211a118  
+Murillo, Mathias Javier – u202022211  
+Mejía Aliaga, Katherine Maryory – u20221a118  
+Montes Maza, Augusto Sebastián – u202218645  
 
-<div align="center">
+<br><br>
 
-**Agosto del 2025**
+**Diciembre del 2025**
 
 </div>
 
 ---
+ 
 
 # Registro de Versiones del Informe
+
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|----------------------------|
@@ -2360,7 +2358,31 @@ Entrevista 1
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
 **Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)   
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)  
+
+# Segmento: Dueños de Emprendimientos Gastronómicos (food trucks, dark kitchens, pequeños negocios)
+
+Entrevista 2
+
+**Entrevistado:** Juan Viera  
+**Edad:** 24 años  
+**Distrito:** Miraflores  
+**Negocio:** Propietario de un restaurante  
+**Tiempo de operación:** 4 años  
+**Minuto de inicio:** 00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip)
+
+# Segmento: Dueños de Restobares y Restaurantes
+
+Entrevista 3
+
+**Entrevistado:** Sergio Aguirre  
+**Edad:** 24 años  
+**Distrito:** Miraflores  
+**Negocio:** Dueño y Gerente de cadena de bares  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:** 0:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr)
 
 **Resumen**  
 Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
