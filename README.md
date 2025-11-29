@@ -4,29 +4,31 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-**Facultad**: Ingeniería  
-**Carrera**: Ingeniería de Software  
-**Periodo**: 2025-02  
-**Curso**: 1ASI0730 - Aplicaciones Web  
-**NRC**: 7468  
-**Profesor**: Ángel Augusto Velásquez Núñez  
+**Facultad** de Ingeniería  
+**Carrera** de Ingeniería de Software  
+**Periodo** 2025-20  
+**Curso** 1ASI0730 - Aplicaciones Web  
+**NRC** 7468  
+**Docente** Ángel Augusto Velásquez Núñez  
 
 <br>
 
 **Informe de Trabajo Final**
 
-**Startup**: CodeForce  
-**Producto**: LogisPE  
+**Startup** CodeForce  
+**Producto** LogisPE  
 
 <br>
 
 **Integrantes**
 
-Aguilar Untiveros, Rodrigo Fabrizio – u202318309  
-Condori Lozano, Alessandro Ramiro – u20211a118  
-Murillo, Mathias Javier – u202022211  
-Mejía Aliaga, Katherine Maryory – u20221a118  
-Montes Maza, Augusto Sebastián – u202218645  
+| Código | Integrantes |
+|----------|----------|
+| u202318309    | Aguilar Untiveros, Rodrigo Fabrizio   |
+| u20211a118    | Condori Lozano, Alessandro Ramiro   |
+| u202022211    | Murillo, Mathias Javier   |
+| u20221a118    | Mejía Aliaga, Katherine Maryory   |
+| u202218645    | Montes Maza, Augusto Sebastián   |
 
 <br><br>
 
@@ -250,6 +252,7 @@ Las funciones principales (creación, consulta, actualización y validación) se
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#523-sprint-4)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2274,6 +2277,94 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
 Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend:
 
 ![Commits Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Frontend.PNG)
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+
+<tr align="left">
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+</tr>
+
+<tr align="left">
+    <td><b>Date</b></td>
+    <td>30/11/2025</td>
+</tr>
+
+<tr align="left">
+    <td><b>Time</b></td>
+    <td>21:00</td>
+</tr>
+
+<tr align="left">
+    <td><b>Location</b></td>
+    <td>Modalidad Online – Vía Discord</td>
+</tr>
+
+<tr align="left">
+    <td><b>Prepared By</b></td>
+    <td>Equipo de LogisPe</td>
+</tr>
+
+<tr align="left">
+    <td><b>Attendees (to planning meeting)</b></td>
+    <td>
+        - Murillo, Mathias Javier<br>
+        - Aguilar Untiveros, Rodrigo Fabrizio<br>
+        - Condori Lozano, Alessandro Ramiro<br>
+        - Mejia Aliaga, Katherine Maryory<br>
+        - Montes Maza, Augusto Sebastián<br>
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Review Summary</b></td>
+    <td>
+        Durante el Sprint 3 se culminó el desarrollo del backend de LogisPe bajo un enfoque de 
+        Domain-Driven Design (DDD), implementando los bounded contexts principales, entidades de dominio, 
+        value objects, services, repositories y controllers. Asimismo, se documentaron los endpoints 
+        mediante Swagger/OpenAPI y se validó el correcto funcionamiento de la API con pruebas funcionales, 
+        dejando la base técnica preparada para su consumo por el frontend.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Retrospective Summary</b></td>
+    <td>
+        En la retrospectiva del Sprint 3 se identificó como principal fortaleza la correcta alineación 
+        arquitectónica del equipo y la calidad del código backend. Como oportunidad de mejora, se resaltó 
+        la necesidad de integrar completamente el frontend con el backend real, reemplazando la Fake API, 
+        así como realizar pruebas end-to-end y fortalecer el manejo de errores y validaciones desde la 
+        interfaz de usuario.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 4 Goal</b></td>
+    <td>
+        El objetivo del Sprint 4 es realizar la integración completa entre el frontend y el backend real 
+        de LogisPe, asegurando el consumo correcto de los servicios REST implementados. Además, se busca 
+        validar los flujos funcionales end-to-end, garantizar la persistencia correcta de los datos, 
+        mejorar el manejo de errores y preparar la aplicación para su despliegue en un entorno de pruebas. 
+        Este sprint se considerará exitoso cuando los módulos principales funcionen de forma integrada 
+        desde la interfaz web hasta la base de datos.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 4 Velocity</b></td>
+    <td>26</td>
+</tr>
+
+<tr align="left">
+    <td><b>Sum of Story Points</b></td>
+    <td>26</td>
+</tr>
+
+</table>
+
 
 ### 5.3. Validation Interviews
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
