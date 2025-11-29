@@ -1,30 +1,34 @@
+<div align="center">
+
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-**Facultad**: Ingeniería  
-**Carrera**: Ingeniería de Software  
-**Periodo**: 2025-02  
-**Curso**: 1ASI0730 - Aplicaciones Web  
-**NRC**: 7468  
-**Profesor**: Ángel Augusto Velásquez Núñez  
+**Facultad** de Ingeniería  
+**Carrera** de Ingeniería de Software  
+**Periodo** 2025-20  
+**Curso** 1ASI0730 - Aplicaciones Web  
+**NRC** 7468  
+**Docente** Ángel Augusto Velásquez Núñez  
 
 <br>
 
 **Informe de Trabajo Final**
 
-**Startup**: CodeForce  
-**Producto**: LogisPE  
+**Startup** CodeForce  
+**Producto** LogisPE  
 
 <br>
 
 **Integrantes**
 
-Aguilar Untiveros, Rodrigo Fabrizio – u202318309  
-Condori Lozano, Alessandro Ramiro – u20211a118  
-Murillo, Mathias Javier – u202022211  
-Mejía Aliaga, Katherine Maryory – u20221a118  
-Montes Maza, Augusto Sebastián – u202218645  
+| Código | Integrantes |
+|----------|----------|
+| u202318309    | Aguilar Untiveros, Rodrigo Fabrizio   |
+| u20211a118    | Condori Lozano, Alessandro Ramiro   |
+| u202022211    | Murillo, Mathias Javier   |
+| u20221a118    | Mejía Aliaga, Katherine Maryory   |
+| u202218645    | Montes Maza, Augusto Sebastián   |
 
 <br><br>
 
