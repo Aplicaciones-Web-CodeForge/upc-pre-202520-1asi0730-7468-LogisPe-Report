@@ -252,6 +252,7 @@ Las funciones principales (creación, consulta, actualización y validación) se
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#523-sprint-4)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
