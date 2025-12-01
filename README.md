@@ -3524,9 +3524,9 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
-![commits](assets/captura1.png)
-![commits](assets/captura2.png)
-![commits](assets/captura3.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura1.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura2.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura3.png)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
