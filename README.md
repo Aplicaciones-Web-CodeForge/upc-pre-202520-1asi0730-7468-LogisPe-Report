@@ -2400,7 +2400,7 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/class_diagrams/ClassDiagram.png)
+![Class Diagrams](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/4dcf90a3207db969fbc4bd03d8f7bcee59555cd4/assets/chapter_IV/class_diagrams/ClassDiagram.png)
 
 ## 4.8. Database Design
 
