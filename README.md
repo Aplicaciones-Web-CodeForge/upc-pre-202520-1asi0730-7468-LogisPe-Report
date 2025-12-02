@@ -2819,7 +2819,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 4. ![Evidence5](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
 
-Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -3928,7 +3928,7 @@ Durante el Sprint 4 se completó la integración del frontend con el backend rea
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-- **Landing Page desplegada:** https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- **Landing Page desplegada:** https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - **Frontend integrado desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
 - **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
 - **Enlace de verificación de integración:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/stock (consumiendo backend real)
@@ -4198,7 +4198,7 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 # Anexos
 
 - Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
-- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page <br>
-- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
+- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
 - Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
