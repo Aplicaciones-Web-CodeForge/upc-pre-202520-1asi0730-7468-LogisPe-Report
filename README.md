@@ -4,116 +4,226 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-</div>
+**Facultad** de Ingeniería  
+**Carrera** de Ingeniería de Software  
+**Periodo** 2025-20  
+**Curso** 1ASI0730 - Aplicaciones Web  
+**NRC** 7468  
+**Docente** Ángel Augusto Velásquez Núñez  
 
-**Carrera**: Ingeniería de Software
-
-**Ciclo**: 2025-02
-
-**Curso**: 1ASI0730 - Aplicaciones Web
-
-**NRC**: 7468
-
-**Profesor**: Angel Augusto Velasquez Nuñez
+<br>
 
 **Informe de Trabajo Final**
 
-**Startup**: CodeForge
+**Startup** CodeForge  
+**Producto** LogisPE  
 
-**Producto**: LogisPE
+<br>
 
-**Integrantes**:
+**Integrantes**
 
-- Aguilar Untiveros, Rodrigo Fabrizio - u202318309
-- Condori Lozano, Alessandro Ramiro - u20211a118
-- Murillo, Mathias Javier - u202022211
-- Mejia Aliaga, Katherine Maryory - u20221a118
-- Montes Maza, Augusto Sebastian - u202218645
+<table border="1" style="border-collapse: collapse; width: 50%; text-align: left;">
+  <tr>
+    <th>Código</th>
+    <th>Integrantes</th>
+  </tr>
+  <tr>
+    <td>u202318309</td>
+    <td>Aguilar Untiveros, Rodrigo Fabrizio</td>
+  </tr>
+  <tr>
+    <td>u20211a118</td>
+    <td>Condori Lozano, Alessandro Ramiro</td>
+  </tr>
+  <tr>
+    <td>u202022211</td>
+    <td>Murillo, Mathias Javier</td>
+  </tr>
+  <tr>
+    <td>u20221a118</td>
+    <td>Mejía Aliaga, Katherine Maryory</td>
+  </tr>
+  <tr>
+    <td>u202218645</td>
+    <td>Montes Maza, Augusto Sebastián</td>
+  </tr>
+</table>
 
-<div align="center">
 
-**Agosto del 2025**
+<br><br>
+
+**Diciembre del 2025**
 
 </div>
 
----
+<div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 57%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Versión</th>
-<th>Fecha</th>
-<th>Autor</th>
-<th>Descripción de modificación</th>
-</tr>
-<tr class="odd">
-<th>TB1</th>
-<th>21/09/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th><p>Se realizaron los Capítulos I: Introducción, Capítulo II:
-Requirements Elicitation &amp; Analysis, Capítulo</p>
-<p>III: Requirements Specification y Capítulo IV: Product
-Design</p></th>
-</tr>
-<tr class="header">
-<th>TP</th>
-<th>10/10/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th><p>Se realizaron los puntos del Capítulo V: Sprint 2, Sprint
-Planning 2, Sprint Backlog 2, Development</p>
-<p>Evidence for Sprint Review, Testing Suite Evidence for Sprint Review,
-Execution Evidence for Sprint</p>
-<p>Review, Services Documentation Evidence for Sprint Review, Software
-Deployment Evidence for</p>
-<p>Sprint Review y Team Collaboration Insights during Sprint</p></th>
-</tr>
-<tr class="odd">
-<th>TB2</th>
-<th>16/11/2025</th>
-<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
-<p>Condori Lozano, Alessandro Ramiro</p>
-<p>Murillo, Mathias Javier</p>
-<p>Mejia Aliaga, Katherine Maryory</p>
-<p>Montes Maza, Augusto Sebastian</p></th>
-<th>Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning
-3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing
-Suite Evidence for Sprint Review, Execution Evidence for Sprint Review,
-Services Documentation Evidence for Sprint Review, Software Deployment
-Evidence for Sprint Review, Team Collaboration Insights during Sprint,
-Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según
-heurísticas, Video About-the-Product, Video About-the-Team</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Versión</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>21/09/2025</td>
+    <td>Aguilar Untiveros, Rodrigo Fabrizio</td>
+    <td>Se realizó el Capítulo I: Introducción</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>21/09/2025</td>
+    <td>Condori Lozano, Alessandro Ramiro</td>
+    <td>Se realizó el Capítulo II: Requirements Elicitation & Analysis</td>
+  </tr>
+  <tr>
+    <td>1.2</td>
+    <td>21/09/2025</td>
+    <td>Murillo, Mathias Javier</td>
+    <td>Se realizó el Capítulo III: Requirements Specification</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>21/09/2025</td>
+    <td>Mejia Aliaga, Katherine Maryory</td>
+    <td>Se realizó el Capítulo IV: Product Design</td>
+  </tr>
+  <tr>
+    <td>2.0</td>
+    <td>10/10/2025</td>
+    <td>Montes Maza, Augusto Sebastian</td>
+    <td>Se realizó el Sprint Planning 2 y Sprint Backlog 2</td>
+  </tr>
+  <tr>
+    <td>2.1</td>
+    <td>10/10/2025</td>
+    <td>Aguilar Untiveros, Rodrigo Fabrizio</td>
+    <td>Se realizó Development Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>2.2</td>
+    <td>10/10/2025</td>
+    <td>Condori Lozano, Alessandro Ramiro</td>
+    <td>Se realizó Testing Suite Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>10/10/2025</td>
+    <td>Murillo, Mathias Javier</td>
+    <td>Se realizó Execution Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>2.4</td>
+    <td>10/10/2025</td>
+    <td>Mejia Aliaga, Katherine Maryory</td>
+    <td>Se realizó Services Documentation Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>2.5</td>
+    <td>10/10/2025</td>
+    <td>Montes Maza, Augusto Sebastian</td>
+    <td>Se realizó Software Deployment Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>3.0</td>
+    <td>16/11/2025</td>
+    <td>Aguilar Untiveros, Rodrigo Fabrizio</td>
+    <td>Se realizó Sprint Planning 3 y Sprint Backlog 3</td>
+  </tr>
+  <tr>
+    <td>3.1</td>
+    <td>16/11/2025</td>
+    <td>Condori Lozano, Alessandro Ramiro</td>
+    <td>Se realizó Development Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>3.2</td>
+    <td>16/11/2025</td>
+    <td>Murillo, Mathias Javier</td>
+    <td>Se realizó Testing Suite Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>3.3</td>
+    <td>16/11/2025</td>
+    <td>Mejia Aliaga, Katherine Maryory</td>
+    <td>Se realizó Execution Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>3.4</td>
+    <td>16/11/2025</td>
+    <td>Montes Maza, Augusto Sebastian</td>
+    <td>Se realizó Services Documentation Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>3.5</td>
+    <td>16/11/2025</td>
+    <td>Aguilar Untiveros, Rodrigo Fabrizio</td>
+    <td>Se realizó Software Deployment Evidence for Sprint Review</td>
+  </tr>
+  <tr>
+    <td>3.6</td>
+    <td>16/11/2025</td>
+    <td>Condori Lozano, Alessandro Ramiro</td>
+    <td>Se realizó Team Collaboration Insights during Sprint</td>
+  </tr>
+  <tr>
+    <td>3.7</td>
+    <td>16/11/2025</td>
+    <td>Murillo, Mathias Javier</td>
+    <td>Se realizó Diseño de Entrevistas y Registro de Entrevistas</td>
+  </tr>
+  <tr>
+    <td>3.8</td>
+    <td>16/11/2025</td>
+    <td>Mejia Aliaga, Katherine Maryory</td>
+    <td>Se realizó Evaluaciones según heurísticas</td>
+  </tr>
+  <tr>
+    <td>3.9</td>
+    <td>16/11/2025</td>
+    <td>Montes Maza, Augusto Sebastian</td>
+    <td>Se realizó Video About-the-Product y Video About-the-Team</td>
+  </tr>
+  <tr>
+    <td>4.0</td>
+    <td>30/11/2025</td>
+    <td>Aguilar Untiveros, Rodrigo Fabrizio</td>
+    <td>Aporto en el orden y correccion del reporte ademas del back y front</td>
+  </tr>
+  <tr>
+    <td>4.1</td>
+    <td>30/11/2025</td>
+    <td>Condori Lozano, Alessandro Ramiro</td>
+    <td>Realizo el orden y correccion del reporte y colaboro en la app web</td>
+  </tr>
+  <tr>
+    <td>4.2</td>
+    <td>30/11/2025</td>
+    <td>Murillo, Mathias Javier</td>
+    <td>Aporto en el reporte y vio el front y back</td>
+  </tr>
+  <tr>
+    <td>4.3</td>
+    <td>30/11/2025</td>
+    <td>Mejia Aliaga, Katherine Maryory</td>
+    <td>Aporto en el reporte y guio el front y back</td>
+  </tr>
+  <tr>
+    <td>4.4</td>
+    <td>30/11/2025</td>
+    <td>Montes Maza, Augusto Sebastian</td>
+    <td>Realizo la correccion de diagramas dentro del proyecto y aporto en back y front</td>
+  </tr>
 </table>
----
+
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 
 A continuación, se detalla el proceso de colaboración y gestión de versiones que el equipo ha seguido para la elaboración de este informe y los productos asociados. Todas las contribuciones están centralizadas y son rastreables a través de nuestro repositorio en GitHub.
-
-- **URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
-- **URL del Frontend desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- **URL del Backend desplegado:** https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
-
----
 
 ### **Entrega N°1: TB1**
 
@@ -131,9 +241,6 @@ La elaboración del informe y los artefactos se gestionó siguiendo un flujo de 
 
 4.  **Commits Convencionales:** Todos los commits siguieron la especificación de **Conventional Commits** (ej. `docs(report): add user personas section`). Esto nos permitió mantener un historial de cambios limpio, legible y fácil de auditar.
 
-
----
-
 ### **Entrega N°2: TP1**
 
 Para la segunda entrega, el foco principal fue la materialización de los diseños en la aplicación web, la definición de la arquitectura de software y la incorporación de las mejoras identificadas a partir del feedback recibido.
@@ -150,8 +257,6 @@ El proceso colaborativo evolucionó para abordar la mayor complejidad técnica d
 
 4.  **Revisión de Código y Coherencia Visual:** Los *Pull Requests* para la aplicación web fueron revisados no solo por su funcionalidad, sino también para garantizar que se adhirieran a los **Style Guidelines** definidos en el Capítulo IV. Esto aseguró una experiencia de usuario consistente en toda la aplicación.
 
-
----
 ### **Entrega N°3: TB2**
 
 Para la tercera entrega, el foco principal fue el desarrollo del backend avanzado, la implementación de la arquitectura basada en Domain-Driven Design (DDD) y la integración técnica con la aplicación web desarrollada en el TP1.
@@ -164,12 +269,12 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    El equipo definió de manera colaborativa la separación del dominio en siete *bounded contexts*, acordando los límites funcionales y las reglas de negocio de cada módulo. Este análisis se realizó mediante reuniones técnicas, pizarras colaborativas y revisión grupal de los modelos conceptuales.
 
 2. **Arquitectura del Backend y Estructura del Proyecto:**  
-   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia: capas de *controllers*, *services*, *repositories* y *domain models*.  
-   El equipo discutió y acordó el uso de patrones como **DTOs**, **Value Objects**, **Aggregates**, así como las convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
+   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia, organizada en capas de *controllers*, *services*, *repositories* y *domain models*.  
+El equipo discutió y acordó el uso de **Resources** para el intercambio de datos en la API, así como **Value Objects** y **Aggregates** dentro del dominio, además de convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
 
 3. **Implementación de Endpoints y Casos de Uso:**  
-   Cada integrante asumió módulos específicos del backend, desarrollando controladores y casos de uso independientes, pero bajo las reglas globales del dominio.  
-   Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context.
+   Cada integrante asumió módulos específicos del backend, desarrollando controladores y servicios de manera independiente, pero bajo las reglas globales del dominio.  
+Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context correspondiente.
 
 4. **Diseño e Integración de la Base de Datos:**  
    El equipo trabajó en conjunto para finalizar el modelo relacional, asegurando que las entidades reflejaran fielmente el dominio definido en DDD. Se documentaron relaciones, claves primarias, restricciones y normalización.  
@@ -184,9 +289,36 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    Se validó la coherencia entre contratos API, tipos de datos, rutas y respuestas, asegurando que el frontend pudiera integrarse sin fricciones con la API.
 
 7. **Documentación Técnica del Backend:**  
-   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de módulos, casos de uso, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
+   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de los módulos, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
 
----
+### **Entrega N°4: TF**
+
+Para la cuarta entrega, el foco principal fue el cierre integral del proyecto LogisPe: estabilización de la aplicación, integración final entre el frontend y el backend, corrección de observaciones y elaboración del Informe de Trabajo Final. Cada integrante reforzó su rol aportando tanto en el código (front y back) como en el orden y corrección del reporte escrito, tal como se evidencia en el registro de versiones del informe. :contentReference[oaicite:0]{index=0}  
+
+#### Proceso de Colaboración:
+
+El proceso colaborativo se adaptó una vez más para abordar las necesidades específicas del Trabajo Final:
+
+1. **Consolidación de ramas y limpieza del repositorio**  
+   El equipo revisó las ramas `feature/*` utilizadas en entregas anteriores, fusionando cambios pendientes hacia la rama de trabajo principal y resolviendo conflictos. Se mantuvo el uso de commits convencionales para conservar un historial de cambios limpio y trazable, alineado con el flujo GitFlow definido en entregas previas. :contentReference[oaicite:1]{index=1}  
+
+2. **Integración final Frontend–Backend**  
+   Se organizaron sesiones de trabajo conjunto para conectar todos los flujos críticos de la aplicación (gestión de stock, órdenes, recetas y proveedores) con los endpoints reales del backend definidos en TB2. Durante estas sesiones se identificaron y corrigieron inconsistencias en contratos API, tipos de datos y respuestas, apoyándose en pruebas manuales y herramientas como Postman y las funciones de consumo desde el frontend. :contentReference[oaicite:2]{index=2}  
+
+3. **Cierre de aspectos técnicos y despliegue**  
+   A partir de la base de arquitectura, DDD y base de datos ya establecida en TB2, el equipo ajustó configuraciones y scripts necesarios para el despliegue del sistema en un entorno estable. Se documentaron los pasos finales para levantar backend y frontend, asegurando que cualquier integrante pudiera replicar el entorno del TF siguiendo el informe y el repositorio. :contentReference[oaicite:3]{index=3}  
+
+4. **Coautoría y refinamiento del Informe de Trabajo Final**  
+   Cada miembro actualizó y refinó las secciones del informe relacionadas con su aporte (sprints, evidencias de desarrollo, diagramas, despliegue y resultados), mientras que otros integrantes revisaban redacción, coherencia y alineación con los objetivos del curso y el Student Outcome ABET 5. Este trabajo en paralelo permitió unificar el tono, corregir inconsistencias y reflejar de manera clara la contribución de todos en la versión final del documento. :contentReference[oaicite:4]{index=4}  
+
+5. **Preparación de la demo y alineamiento con las evidencias previas**  
+   Para la presentación del TF, el equipo reutilizó y articuló los artefactos generados en TB1, TP1 y TB2 (landing page, aplicación web, backend DDD, entrevistas y heurísticas, videos) dentro de un guion coherente. Se definió quién presentaría cada parte, qué flujos se mostrarían en vivo y qué evidencias se usarían como soporte, reforzando la conexión entre el trabajo técnico y los resultados documentados en el informe. :contentReference[oaicite:5]{index=5}  
+
+6. **Retrospectiva y cierre de colaboración**  
+   Finalmente, el equipo realizó una retrospectiva centrada en la forma de trabajo: uso de GitHub para trazabilidad, definición de responsabilidades por versión del informe y coordinación para integrar front y back en tiempos de entrega ajustados. Las lecciones aprendidas durante el TF se consolidaron en las conclusiones del Sprint 4 y en las secciones de Student Outcome, evidenciando cómo la colaboración mejoró a lo largo de todo el proyecto. :contentReference[oaicite:6]{index=6}  
+
+
+<div style="page-break-after: always;"></div>
 
 # Contenido
 
@@ -294,6 +426,15 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#523-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5231-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5233-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -310,20 +451,142 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
 
 ### [Anexos](#anexos)
 
----
+<div style="page-break-after: always;"></div>
 
 # Student Outcome
 
-Objetivo general, ABET – EAC - Student Outcome 5: Capacidad de comunicarse efectivamente con un rango de audiencias.
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
 
 # Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|---|---|---|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Argumenté y defendí propuestas sobre la estructura de la landing page durante las reuniones de equipo (audiencia técnica). Moderé discusiones para sintetizar las ideas de todos en pilares de producto claros, facilitando un consenso sobre el mensaje a comunicar a nuestros futuros usuarios (audiencia externa).<br>**TP1**: Lideré la presentación del Product Backlog al equipo, explicando oralmente la priorización de User Stories y justificando su valor de negocio. Comuniqué las decisiones de diseño de la arquitectura de software (C4 Model) en términos claros, asegurando que todos los miembros, independientemente de su rol, comprendieran la estructura y el flujo de datos de la solución.<br>**TB2**: Guié las reuniones técnicas de arquitectura del backend, explicando la estructura DDD, los bounded contexts y cómo se integrarían los módulos entre sí. Presenté oralmente la propuesta del backend avanzado, facilitando que todos los integrantes entendieran la interacción entre controladores, servicios, repositorios y la base de datos.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Traduje los objetivos técnicos del proyecto a un lenguaje centrado en beneficios para el usuario durante nuestras sesiones de brainstorming. Esta explicación ayudó a que el equipo, como audiencia interna, pudiera visualizar y acordar el discurso comercial que se implementaría en la landing page.<br>**TP1**: Expuse los User Journey Maps al equipo, narrando la experiencia del usuario paso a paso para ilustrar los puntos de dolor y las oportunidades. Esta presentación oral fue clave para que el equipo empatizara con el usuario final y validara los flujos de la aplicación web.<br>**TB2**: Expliqué verbalmente los flujos de comunicación de los endpoints del backend, detallando cómo las peticiones viajan desde el controlador hasta el repositorio. Presenté al equipo las validaciones y reglas de negocio para garantizar una comprensión clara de la lógica implementada.<br><br>**Mathias Javier Murillo**<br>**TB1**: Propuse y justifiqué verbalmente la adaptación del tono de comunicación para dos segmentos de audiencia distintos en la landing page. Expliqué al equipo cómo un mismo pilar del producto debía presentarse de forma diferente para un usuario técnico versus un usuario de negocio, logrando alinear la estrategia de contenido.<br>**TP1**: Presenté los Mockups y prototipos de la aplicación web, guiando al equipo a través de la interfaz y explicando las decisiones de diseño UX/UI. Adapté mi discurso para una audiencia de desarrolladores, enfocándome en la funcionalidad y componentes, y luego para una audiencia de "negocio", resaltando la facilidad de uso y los beneficios.<br>**TB2**: Expliqué oralmente los modelos de dominio del backend, detallando entidades, agregados, value objects y su transformación en tablas. Clarifiqué al equipo cómo se estructurarían los módulos internos y cómo se validarían los datos en cada fase del backend.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Expuse verbalmente propuestas para la arquitectura de la información y la jerarquía visual de la landing page. Mi rol fue transformar los conceptos abstractos del equipo en una narrativa oral clara que describía el "viaje" del usuario, permitiendo que todos entendieran cómo se comunicarían visualmente las ideas.<br>**TP1**: Expliqué al equipo los Style Guidelines definidos para el proyecto, comunicando de forma oral las reglas sobre tipografía, colores y espaciado. Mi presentación aseguró que todos tuvieran una comprensión compartida de la identidad visual que se implementaría en la aplicación web.<br>**TB2**: Expliqué de forma oral la estructura de validaciones del backend, el manejo de excepciones y cómo se garantizaría la integridad de los datos. Facilitó la alineación entre frontend y backend comunicando cómo se consumirían los servicios API.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Participé activamente en los debates de planificación, enfocándome en asegurar la coherencia verbal entre los objetivos de negocio y las funcionalidades propuestas. Cuestioné y validé oralmente que nuestro discurso interno fuera lo suficientemente robusto como para sostener el mensaje público en la landing page.<br>**TP1**: Argumenté las decisiones sobre el diseño de la base de datos durante las sesiones técnicas. Simplifiqué conceptos complejos de modelado de datos para que todo el equipo pudiera participar en la validación, asegurando que el diseño fuera escalable y respondiera a las necesidades funcionales.<br>**TB2**: Expliqué oralmente la estructura completa de la base de datos del backend, detallando relaciones, normalización y reglas de integridad. Presenté al equipo cómo se integraría la base de datos con los bounded contexts y cómo cada módulo consumiría los datos. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La habilidad para mediar y sintetizar diferentes puntos de vista oralmente fue crucial para unificar la visión del equipo y asegurar que el mensaje final del producto fuera coherente y potente para nuestra audiencia objetivo.<br>**TP1**: Comunicar oralmente la arquitectura y el backlog demostró que traducir decisiones técnicas complejas a un lenguaje accesible para todo el equipo es fundamental para mantener la alineación y el enfoque durante el desarrollo.<br>**TB2**: Explicar el diseño del backend reforzó la importancia de comunicar arquitecturas complejas de manera simple para evitar malinterpretaciones y asegurar cohesión técnica en el equipo.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La traducción de conceptos técnicos a un discurso oral centrado en el usuario demostró ser fundamental para alinear al equipo, permitiendo que la comunicación del producto fuera más empática y efectiva en la landing page.<br>**TP1**: Narrar la experiencia del usuario a través de los Journey Maps consolidó mi entendimiento de que la comunicación oral efectiva es una herramienta poderosa para generar empatía y guiar el diseño de productos centrado en las personas.<br>**TB2**: Explicar los flujos del backend me permitió entender que la claridad técnica en la comunicación oral es clave para asegurar integraciones correctas y evitar retrasos en el desarrollo.<br><br>**Mathias Javier Murillo**<br>**TB1**: La comunicación oral adaptativa fue clave para definir una estrategia de contenido inclusiva, reconociendo que un mensaje efectivo no es universal, sino que debe ajustarse a las necesidades y perspectivas de cada audiencia.<br>**TP1**: Presentar los mismos prototipos a diferentes audiencias me enseñó a modular mi comunicación oral, concluyendo que la efectividad radica en resaltar los aspectos más relevantes para cada grupo, ya sea técnico o estratégico.<br>**TB2**: Explicar verbalmente los modelos y estructuras del backend me enseñó que comunicar conceptos técnicos con claridad evita errores en la implementación y mejora la colaboración entre áreas.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La comunicación oral de una estrategia visual fue un puente esencial entre la idea y la ejecución, demostrando que la capacidad de "narrar" una interfaz es vital para que un equipo técnico y creativo trabaje hacia un mismo objetivo comunicacional.<br>**TP1**: La exposición oral de guías de estilo confirmó que establecer y comunicar reglas de diseño de manera clara previene inconsistencias y agiliza el trabajo de desarrollo, asegurando la cohesión visual del producto final.<br>**TB2**: La comunicación oral sobre validaciones, excepciones y reglas de negocio del backend confirmó que explicar estos elementos en detalle permite una implementación más sólida y consistente.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Mantener la coherencia en la comunicación oral interna previno desviaciones conceptuales, concluyendo que un discurso de equipo sólido y bien alineado es la base para una comunicación externa clara y confiable.<br>**TP1**: La capacidad de simplificar y argumentar decisiones técnicas oralmente no solo valida el diseño, sino que también empodera a todo el equipo, permitiendo una toma de decisiones más informada y colaborativa.<br>**TB2**: Comunicar oralmente la estructura de la base de datos y la interacción entre los módulos del backend demostró que la claridad técnica es esencial para garantizar un desarrollo sin ambigüedades. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Redacté la versión inicial de la propuesta de valor y los textos para la sección principal (Hero) de la landing page, utilizando un lenguaje persuasivo y claro dirigido a una audiencia no técnica.<br>**TP1**: Desarrollé y documenté las User Stories principales del proyecto, redactando los Criterios de Aceptación con la estructura Gherkin (Given-When-Then). Este formato técnico y preciso fue diseñado para que el equipo de desarrollo tuviera una guía sin ambigüedades.<br>**TB2**: Documenté por escrito la arquitectura completa del backend, la estructura DDD, los bounded contexts, la definición de entidades y la descripción de endpoints, asegurando una comunicación técnica precisa para desarrollo y QA.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Contribuí en la redacción de la sección "Introducción" del informe del proyecto y adapté estos conceptos a mensajes más directos y concisos para la landing page.<br>**TP1**: Redacté el análisis competitivo en el informe del proyecto, utilizando un lenguaje formal y analítico para una audiencia académica. Además, plasmé las conclusiones de este análisis en comentarios escritos dentro de Figma para guiar las decisiones de diseño del UI.<br>**TB2**: Documenté la estructura de carpetas, el estándar de nombrado del backend y los lineamientos técnicos para mantener consistencia. Elaboré documentación escrita sobre el consumo de servicios y expectativas del contrato API.<br><br>**Mathias Javier Murillo**<br>**TB1**: Elaboré y ajusté los textos descriptivos de las características del producto, creando variantes del mensaje escrito para dos perfiles de usuario identificados.<br>**TP1**: Documenté por escrito las especificaciones de varios componentes de la aplicación web en el informe, describiendo su comportamiento y relación con otros elementos. Esta comunicación escrita fue esencial para guiar la implementación técnica posterior.<br>**TB2**: Documenté los modelos del backend, sus relaciones, reglas de negocio y transformaciones de datos, produciendo descripciones claras para asegurar correcta implementación del dominio.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Estructuré el contenido del informe en la sección de "Requisitos" para asegurar una lectura lógica y organicé la disposición de los bloques de texto en el wireframe de la landing page.<br>**TP1**: Contribuí a la redacción del capítulo de Arquitectura de la Información del informe. Documenté por escrito las decisiones sobre los sistemas de organización y etiquetado, creando una referencia formal para que el equipo consultara al construir la navegación de la aplicación.<br>**TB2**: Redacté la documentación del manejo de validaciones, excepciones y reglas de negocio aplicadas en los bounded contexts del backend. Escribí guías técnicas sobre la estructura del API y las interacciones frontend-backend.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Realicé la revisión y edición de los textos finales tanto de la landing page como del informe TB1, unificando el tono de voz y asegurando la correcta aplicación de la terminología del proyecto.<br>**TP1**: Fui responsable de documentar el Ubiquitous Language del proyecto en el informe, creando un glosario de términos de negocio. Esta comunicación escrita fue vital para evitar malentendidos y asegurar que todos los miembros del equipo, tanto técnicos como no técnicos, hablaran el mismo "idioma".<br>**TB2**: Documenté la estructura de la base de datos, normalización, entidades del modelo y estándares de desarrollo del backend, asegurando referencias claras para todos los integrantes del equipo. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La redacción orientada a la audiencia me permitió comprender que la comunicación escrita efectiva no se trata solo de informar, sino de conectar y persuadir, adaptando el mensaje al contexto del lector.<br>**TP1**: Redactar Criterios de Aceptación me enseñó que la precisión en la comunicación escrita técnica es fundamental para reducir errores y retrabajo, demostrando que un lenguaje claro y estructurado es una herramienta de productividad.<br>**TB2**: Documentar el backend me enseñó que una arquitectura sólida depende de una comunicación escrita técnica clara, precisa y consistente.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La tarea de adaptar un mismo mensaje para un informe técnico y una web comercial me enseñó que la efectividad de la comunicación escrita reside en la capacidad de síntesis y en la selección precisa del lenguaje.<br>**TP1**: Documentar el análisis de competidores por escrito me demostró que la comunicación formal es clave para presentar hallazgos de manera objetiva y profesional, mientras que los comentarios escritos en herramientas de diseño son un canal ágil para la comunicación contextual.<br>**TB2**: Documentar estándares técnicos y estructura del backend me confirmó que la claridad escrita es esencial para mantener escalabilidad y coherencia en el desarrollo.<br><br>**Mathias Javier Murillo**<br>**TB1**: La redacción de contenidos para distintos perfiles de usuario reforzó mi entendimiento de que la comunicación escrita empática es clave; es necesario escribir para que cada audiencia sienta que le hablas directamente.<br>**TP1**: La documentación escrita de especificaciones funcionales me hizo concluir que un registro claro y detallado es indispensable para la escalabilidad del proyecto, sirviendo como una fuente de verdad para el equipo a lo largo del tiempo.<br>**TB2**: Documentar el modelo de dominio del backend me enseñó que escribir con precisión evita errores de interpretación y facilita una implementación más sólida.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La organización del contenido demostró que la estructura es un componente silencioso pero poderoso de la comunicación escrita. Un texto bien ordenado guía al lector y refuerza la claridad del mensaje.<br>**TP1**: Documentar por escrito la Arquitectura de la Información me permitió valorar la importancia de formalizar las decisiones de diseño, concluyendo que un documento bien estructurado sirve como pilar para construir experiencias de usuario coherentes.<br>**TB2**: Documentar reglas de negocio y validaciones del backend reforzó que la documentación técnica clara es esencial para evitar inconsistencias entre módulos.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: El proceso de edición y unificación de textos me permitió concluir que la consistencia en la comunicación escrita es fundamental para construir una identidad de producto sólida y profesional.<br>**TP1**: Establecer un lenguaje ubicuo por escrito fue una lección clave sobre la importancia de crear una base terminológica común, concluyendo que esta práctica elimina la ambigüedad y fomenta una comunicación más eficiente y precisa en equipos multidisciplinarios.<br>**TB2**: Documentar la estructura técnica del backend me permitió comprender que una documentación clara es vital para asegurar que todo el equipo trabaje con las mismas reglas y estándares. |
----
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th><strong>Criterio específico</strong></th>
+    <th><strong>Acciones realizadas</strong></th>
+    <th><strong>Conclusiones</strong></th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</strong>
+    </td>
+    <td>
+      <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
+      <strong>TB1</strong>: Argumenté y defendí propuestas sobre la estructura de la landing page durante las reuniones de equipo (audiencia técnica). Moderé discusiones para sintetizar las ideas de todos en pilares de producto claros, facilitando un consenso sobre el mensaje a comunicar a nuestros futuros usuarios (audiencia externa).<br>
+      <strong>TP1</strong>: Lideré la presentación del Product Backlog al equipo, explicando oralmente la priorización de User Stories y justificando su valor de negocio. Comuniqué las decisiones de diseño de la arquitectura de software (C4 Model) en términos claros, asegurando que todos los miembros, independientemente de su rol, comprendieran la estructura y el flujo de datos de la solución.<br>
+      <strong>TB2</strong>: Guié las reuniones técnicas de arquitectura del backend, explicando la estructura DDD, los bounded contexts y cómo se integrarían los módulos entre sí. Presenté oralmente la propuesta del backend avanzado, facilitando que todos los integrantes entendieran la interacción entre controladores, servicios, repositorios y la base de datos.<br>
+      <strong>TF</strong>: Durante el TF tomé el rol de coordinar al equipo en la integración final entre el frontend y el backend. Organicé reuniones cortas para destrabar bloqueos técnicos, guié al equipo en la revisión de los endpoints críticos y lideré la preparación del despliegue de la aplicación para la demo final. En cada sesión, expliqué el estado del proyecto, prioricé tareas de último minuto y aseguré que todos tuvieran claro qué entregar y en qué tiempos.<br><br>
+      <strong>Alessandro Ramiro Condori Lozano</strong><br>
+      <strong>TB1</strong>: Traduje los objetivos técnicos del proyecto a un lenguaje centrado en beneficios para el usuario durante nuestras sesiones de brainstorming. Esta explicación ayudó a que el equipo, como audiencia interna, pudiera visualizar y acordar el discurso comercial que se implementaría en la landing page.<br>
+      <strong>TP1</strong>: Expuse los User Journey Maps al equipo, narrando la experiencia del usuario paso a paso para ilustrar los puntos de dolor y las oportunidades. Esta presentación oral fue clave para que el equipo empatizara con el usuario final y validara los flujos de la aplicación web.<br>
+      <strong>TB2</strong>: Expliqué verbalmente los flujos de comunicación de los endpoints del backend, detallando cómo las peticiones viajan desde el controlador hasta el repositorio. Presenté al equipo las validaciones y reglas de negocio para garantizar una comprensión clara de la lógica implementada.<br>
+      <strong>TF</strong>: En el TF asumí la responsabilidad de liderar la preparación del pitch y la demo funcional del producto. Organicé el guion de la presentación, asigné las partes que explicaría cada integrante y me encargué de articular el discurso de valor de LogisPe para que el equipo se enfocara en los beneficios clave al momento de presentar. Además, moderé los ensayos, dando feedback para mejorar el orden, el tiempo y la claridad del mensaje.<br><br>
+      <strong>Mathias Javier Murillo</strong><br>
+      <strong>TB1</strong>: Propuse y justifiqué verbalmente la adaptación del tono de comunicación para dos segmentos de audiencia distintos en la landing page. Expliqué al equipo cómo un mismo pilar del producto debía presentarse de forma diferente para un usuario técnico versus un usuario de negocio, logrando alinear la estrategia de contenido.<br>
+      <strong>TP1</strong>: Presenté los Mockups y prototipos de la aplicación web, guiando al equipo a través de la interfaz y explicando las decisiones de diseño UX/UI. Adapté mi discurso para una audiencia de desarrolladores, enfocándome en la funcionalidad y componentes, y luego para una audiencia de "negocio", resaltando la facilidad de uso y los beneficios.<br>
+      <strong>TB2</strong>: Expliqué oralmente los modelos de dominio del backend, detallando entidades, agregados, value objects y su transformación en tablas. Clarifiqué al equipo cómo se estructurarían los módulos internos y cómo se validarían los datos en cada fase del backend.<br>
+      <strong>TF</strong>: Durante el TF lideré la presentación de la interfaz y los flujos principales de usuario. Guié al equipo en cómo mostrar la navegación dentro del sistema, coordiné qué vistas se debían priorizar en la demo y propuse ajustes visuales de último minuto para que el producto se viera más consistente. También ayudé a ordenar el flujo de la demo para que la experiencia contada al público fuera clara y coherente.<br><br>
+      <strong>Katherine Maryory Mejia Aliaga</strong><br>
+      <strong>TB1</strong>: Expuse verbalmente propuestas para la arquitectura de la información y la jerarquía visual de la landing page. Mi rol fue transformar los conceptos abstractos del equipo en una narrativa oral clara que describía el "viaje" del usuario, permitiendo que todos entendieran cómo se comunicarían visualmente las ideas.<br>
+      <strong>TP1</strong>: Expliqué al equipo los Style Guidelines definidos para el proyecto, comunicando de forma oral las reglas sobre tipografía, colores y espaciado. Mi presentación aseguró que todos tuvieran una comprensión compartida de la identidad visual que se implementaría en la aplicación web.<br>
+      <strong>TB2</strong>: Expliqué de forma oral la estructura de validaciones del backend, el manejo de excepciones y cómo se garantizaría la integridad de los datos. Facilitó la alineación entre frontend y backend comunicando cómo se consumirían los servicios API.<br>
+      <strong>TF</strong>: En el TF me encargué de organizar y explicar al equipo el recorrido del usuario dentro de la aplicación desde una perspectiva de experiencia de usuario. Propuse cómo estructurar la narración durante la demo, sugiriendo qué pantallas debían mostrarse primero y cómo conectar visualmente cada módulo. Además, apoyé en coordinar los tiempos de intervención de cada integrante para que la presentación se sintiera fluida y bien sincronizada.<br><br>
+      <strong>Augusto Sebastian Montes Maza</strong><br>
+      <strong>TB1</strong>: Participé activamente en los debates de planificación, enfocándome en asegurar la coherencia verbal entre los objetivos de negocio y las funcionalidades propuestas. Cuestioné y validé oralmente que nuestro discurso interno fuera lo suficientemente robusto como para sostener el mensaje público en la landing page.<br>
+      <strong>TP1</strong>: Argumenté las decisiones sobre el diseño de la base de datos durante las sesiones técnicas. Simplifiqué conceptos complejos de modelado de datos para que todo el equipo pudiera participar en la validación, asegurando que el diseño fuera escalable y respondiera a las necesidades funcionales.<br>
+      <strong>TB2</strong>: Expliqué oralmente la estructura completa de la base de datos del backend, detallando relaciones, normalización y reglas de integridad. Presenté al equipo cómo se integraría la base de datos con los bounded contexts y cómo cada módulo consumiría los datos.<br>
+      <strong>TF</strong>: Durante el TF lideré las explicaciones técnicas relacionadas con la base de datos y la consistencia de la información mostrada en la demo. Coordiné con el equipo para revisar los datos de prueba, validé que las operaciones críticas funcionaran correctamente y apoyé en la toma de decisiones rápidas cuando se detectaron errores cerca de la entrega. También asumí un rol activo en las reuniones finales para asegurar que los aspectos técnicos estuvieran listos para ser presentados.<br>
+    </td>
+    <td>
+      <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
+      <strong>TB1</strong>: La habilidad para mediar y sintetizar diferentes puntos de vista oralmente fue crucial para unificar la visión del equipo y asegurar que el mensaje final del producto fuera coherente y potente para nuestra audiencia objetivo.<br>
+      <strong>TP1</strong>: Comunicar oralmente la arquitectura y el backlog demostró que traducir decisiones técnicas complejas a un lenguaje accesible para todo el equipo es fundamental para mantener la alineación y el enfoque durante el desarrollo.<br>
+      <strong>TB2</strong>: Explicar el diseño del backend reforzó la importancia de comunicar arquitecturas complejas de manera simple para evitar malinterpretaciones y asegurar cohesión técnica en el equipo.<br>
+      <strong>TF</strong>: Liderar la integración final y coordinar al equipo en el cierre del proyecto me permitió concluir que un liderazgo efectivo en la etapa crítica no solo consiste en tomar decisiones técnicas, sino en mantener al equipo enfocado, calmado y alineado con el objetivo común de entregar un producto funcional y presentable.<br><br>
+      <strong>Alessandro Ramiro Condori Lozano</strong><br>
+      <strong>TB1</strong>: La traducción de conceptos técnicos a un discurso oral centrado en el usuario demostró ser fundamental para alinear al equipo, permitiendo que la comunicación del producto fuera más empática y efectiva en la landing page.<br>
+      <strong>TP1</strong>: Narrar la experiencia del usuario a través de los Journey Maps consolidó mi entendimiento de que la comunicación oral efectiva es una herramienta poderosa para generar empatía y guiar el diseño de productos centrado en las personas.<br>
+      <strong>TB2</strong>: Explicar los flujos del backend me permitió entender que la claridad técnica en la comunicación oral es clave para asegurar integraciones correctas y evitar retrasos en el desarrollo.<br>
+      <strong>TF</strong>: Encargarme del pitch y la organización de la demo final me reafirmó que una buena presentación es resultado de un trabajo en equipo bien coordinado. Entendí que alinear el discurso, los tiempos y las intervenciones de cada integrante es clave para transmitir con claridad el valor del proyecto.<br><br>
+      <strong>Mathias Javier Murillo</strong><br>
+      <strong>TB1</strong>: La comunicación oral adaptativa fue clave para definir una estrategia de contenido inclusiva, reconociendo que un mensaje efectivo no es universal, sino que debe ajustarse a las necesidades y perspectivas de cada audiencia.<br>
+      <strong>TP1</strong>: Presentar los mismos prototipos a diferentes audiencias me enseñó a modular mi comunicación oral, concluyendo que la efectividad radica en resaltar los aspectos más relevantes para cada grupo, ya sea técnico o estratégico.<br>
+      <strong>TB2</strong>: Explicar verbalmente los modelos y estructuras del backend me enseñó que comunicar conceptos técnicos con claridad evita errores en la implementación y mejora la colaboración entre áreas.<br>
+      <strong>TF</strong>: Liderar la demostración de la interfaz me hizo ver que la forma en la que mostramos el producto influye directamente en cómo se percibe el trabajo del equipo. Comprendí que ordenar el flujo visual y priorizar las pantallas correctas es una forma de liderazgo que ayuda a que el esfuerzo técnico de todos se valore mejor.<br><br>
+      <strong>Katherine Maryory Mejia Aliaga</strong><br>
+      <strong>TB1</strong>: La comunicación oral de una estrategia visual fue un puente esencial entre la idea y la ejecución, demostrando que la capacidad de "narrar" una interfaz es vital para que un equipo técnico y creativo trabaje hacia un mismo objetivo comunicacional.<br>
+      <strong>TP1</strong>: La exposición oral de guías de estilo confirmó que establecer y comunicar reglas de diseño de manera clara previene inconsistencias y agiliza el trabajo de desarrollo, asegurando la cohesión visual del producto final.<br>
+      <strong>TB2</strong>: La comunicación oral sobre validaciones, excepciones y reglas de negocio del backend confirmó que explicar estos elementos en detalle permite una implementación más sólida y consistente.<br>
+      <strong>TF</strong>: Coordinar la experiencia del usuario durante la demo me llevó a concluir que pensar en el recorrido del público es tan importante como pensar en el recorrido dentro del sistema. Un equipo funciona mejor cuando todos entienden qué historia se quiere contar y cómo cada parte de la aplicación aporta a esa narrativa.<br><br>
+      <strong>Augusto Sebastian Montes Maza</strong><br>
+      <strong>TB1</strong>: Mantener la coherencia en la comunicación oral interna previno desviaciones conceptuales, concluyendo que un discurso de equipo sólido y bien alineado es la base para una comunicación externa clara y confiable.<br>
+      <strong>TP1</strong>: La capacidad de simplificar y argumentar decisiones técnicas oralmente no solo valida el diseño, sino que también empodera a todo el equipo, permitiendo una toma de decisiones más informada y colaborativa.<br>
+      <strong>TB2</strong>: Comunicar oralmente la estructura de la base de datos y la interacción entre los módulos del backend demostró que la claridad técnica es esencial para garantizar un desarrollo sin ambigüedades.<br>
+      <strong>TF</strong>: Ser responsable de garantizar la solidez técnica en la etapa final me enseñó que el liderazgo también se ejerce cuidando los detalles “invisibles” para la audiencia. Asegurar la consistencia de datos y el correcto funcionamiento del sistema fue clave para que el equipo pudiera presentar con confianza.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong>
+    </td>
+    <td>
+      <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
+      <strong>TB1</strong>: Redacté la versión inicial de la propuesta de valor y los textos para la sección principal (Hero) de la landing page, utilizando un lenguaje persuasivo y claro dirigido a una audiencia no técnica.<br>
+      <strong>TP1</strong>: Desarrollé y documenté las User Stories principales del proyecto, redactando los Criterios de Aceptación con la estructura Gherkin (Given-When-Then). Este formato técnico y preciso fue diseñado para que el equipo de desarrollo tuviera una guía sin ambigüedades.<br>
+      <strong>TB2</strong>: Documenté por escrito la arquitectura completa del backend, la estructura DDD, los bounded contexts, la definición de entidades y la descripción de endpoints, asegurando una comunicación técnica precisa para desarrollo y QA.<br>
+      <strong>TF</strong>: En el TF documenté los pasos finales para el despliegue, la configuración del backend y los endpoints clave, dejando guías claras para que cualquier integrante pudiera replicar el entorno. Además, ayudé a definir las tareas de cierre en el tablero del proyecto, asignando responsables y verificando el estado de avance para cumplir con la fecha límite.<br><br>
+      <strong>Alessandro Ramiro Condori Lozano</strong><br>
+      <strong>TB1</strong>: Contribuí en la redacción de la sección "Introducción" del informe del proyecto y adapté estos conceptos a mensajes más directos y concisos para la landing page.<br>
+      <strong>TP1</strong>: Redacté el análisis competitivo en el informe del proyecto, utilizando un lenguaje formal y analítico para una audiencia académica. Además, plasmé las conclusiones de este análisis en comentarios escritos dentro de Figma para guiar las decisiones de diseño del UI.<br>
+      <strong>TB2</strong>: Documenté la estructura de carpetas, el estándar de nombrado del backend y los lineamientos técnicos para mantener consistencia. Elaboré documentación escrita sobre el consumo de servicios y expectativas del contrato API.<br>
+      <strong>TF</strong>: Durante el TF redacté y consolidé las secciones finales del informe relacionadas con la visión del producto, conclusiones generales y recomendaciones. Organicé comentarios escritos en las herramientas de colaboración para integrar sugerencias de todos, manteniendo un tono unificado y asegurando que cada aporte del equipo quedara reflejado en el documento final.<br><br>
+      <strong>Mathias Javier Murillo</strong><br>
+      <strong>TB1</strong>: Elaboré y ajusté los textos descriptivos de las características del producto, creando variantes del mensaje escrito para dos perfiles de usuario identificados.<br>
+      <strong>TP1</strong>: Documenté por escrito las especificaciones de varios componentes de la aplicación web en el informe, describiendo su comportamiento y relación con otros elementos. Esta comunicación escrita fue esencial para guiar la implementación técnica posterior.<br>
+      <strong>TB2</strong>: Documenté los modelos del backend, sus relaciones, reglas de negocio y transformaciones de datos, produciendo descripciones claras para asegurar correcta implementación del dominio.<br>
+      <strong>TF</strong>: En el TF me dediqué a documentar por escrito los componentes principales del frontend, sus responsabilidades y su relación con los módulos del sistema. Dejé descripciones claras de los flujos de navegación y de cómo debían utilizarse ciertos componentes reutilizables, con el objetivo de que el equipo tuviera una guía de mantenimiento y futuras mejoras.<br><br>
+      <strong>Katherine Maryory Mejia Aliaga</strong><br>
+      <strong>TB1</strong>: Estructuré el contenido del informe en la sección de "Requisitos" para asegurar una lectura lógica y organicé la disposición de los bloques de texto en el wireframe de la landing page.<br>
+      <strong>TP1</strong>: Contribuí a la redacción del capítulo de Arquitectura de la Información del informe. Documenté por escrito las decisiones sobre los sistemas de organización y etiquetado, creando una referencia formal para que el equipo consultara al construir la navegación de la aplicación.<br>
+      <strong>TB2</strong>: Redacté la documentación del manejo de validaciones, excepciones y reglas de negocio aplicadas en los bounded contexts del backend. Escribí guías técnicas sobre la estructura del API y las interacciones frontend-backend.<br>
+      <strong>TF</strong>: Durante el TF estructuré y corregí partes del informe relacionadas con la experiencia de usuario, la arquitectura de la información y la coherencia visual del producto. Organicé el contenido para que la lectura fuera más clara y me aseguré de que las decisiones de diseño quedaran registradas de manera ordenada y accesible para todo el equipo.<br><br>
+      <strong>Augusto Sebastian Montes Maza</strong><br>
+      <strong>TB1</strong>: Realicé la revisión y edición de los textos finales tanto de la landing page como del informe TB1, unificando el tono de voz y asegurando la correcta aplicación de la terminología del proyecto.<br>
+      <strong>TP1</strong>: Fui responsable de documentar el Ubiquitous Language del proyecto en el informe, creando un glosario de términos de negocio. Esta comunicación escrita fue vital para evitar malentendidos y asegurar que todos los miembros del equipo, tanto técnicos como no técnicos, hablaran el mismo "idioma".<br>
+      <strong>TB2</strong>: Documenté la estructura de la base de datos, normalización, entidades del modelo y estándares de desarrollo del backend, asegurando referencias claras para todos los integrantes del equipo.<br>
+      <strong>TF</strong>: En el TF actualicé y documenté el modelo de datos final, las relaciones entre tablas y ejemplos de consultas clave utilizadas en el sistema. Además, revisé y ajusté diagramas técnicos para que reflejaran fielmente la implementación actual, dejando una base documental sólida para que el equipo pudiera seguir trabajando sobre la misma estructura.<br>
+    </td>
+    <td>
+      <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
+      <strong>TB1</strong>: La redacción orientada a la audiencia me permitió comprender que la comunicación escrita efectiva no se trata solo de informar, sino de conectar y persuadir, adaptando el mensaje al contexto del lector.<br>
+      <strong>TP1</strong>: Redactar Criterios de Aceptación me enseñó que la precisión en la comunicación escrita técnica es fundamental para reducir errores y retrabajo, demostrando que un lenguaje claro y estructurado es una herramienta de productividad.<br>
+      <strong>TB2</strong>: Documentar el backend me enseñó que una arquitectura sólida depende de una comunicación escrita técnica clara, precisa y consistente.<br>
+      <strong>TF</strong>: Documentar los procesos finales y organizar las tareas de cierre me permitió concluir que un entorno colaborativo se fortalece cuando todos saben exactamente qué hacer y dónde encontrar la información necesaria. Una buena planificación escrita reduce la incertidumbre y facilita que el equipo cumpla sus objetivos.<br><br>
+      <strong>Alessandro Ramiro Condori Lozano</strong><br>
+      <strong>TB1</strong>: La tarea de adaptar un mismo mensaje para un informe técnico y una web comercial me enseñó que la efectividad de la comunicación escrita reside en la capacidad de síntesis y en la selección precisa del lenguaje.<br>
+      <strong>TP1</strong>: Documentar el análisis de competidores por escrito me demostró que la comunicación formal es clave para presentar hallazgos de manera objetiva y profesional, mientras que los comentarios escritos en herramientas de diseño son un canal ágil para la comunicación contextual.<br>
+      <strong>TB2</strong>: Documentar estándares técnicos y estructura del backend me confirmó que la claridad escrita es esencial para mantener escalabilidad y coherencia en el desarrollo.<br>
+      <strong>TF</strong>: Redactar las conclusiones y unificar el informe final me enseñó que la comunicación escrita es una herramienta clave para visibilizar el trabajo de todos. Comprendí que integrar distintas voces en un solo documento fortalece el sentido de pertenencia y hace que el resultado se sienta realmente colectivo.<br><br>
+      <strong>Mathias Javier Murillo</strong><br>
+      <strong>TB1</strong>: La redacción de contenidos para distintos perfiles de usuario reforzó mi entendimiento de que la comunicación escrita empática es clave; es necesario escribir para que cada audiencia sienta que le hablas directamente.<br>
+      <strong>TP1</strong>: La documentación escrita de especificaciones funcionales me hizo concluir que un registro claro y detallado es indispensable para la escalabilidad del proyecto, sirviendo como una fuente de verdad para el equipo a lo largo del tiempo.<br>
+      <strong>TB2</strong>: Documentar el modelo de dominio del backend me enseñó que escribir con precisión evita errores de interpretación y facilita una implementación más sólida.<br>
+      <strong>TF</strong>: Documentar los componentes del frontend y los flujos de navegación me hizo ver que escribir pensando en otros desarrolladores es una forma concreta de colaboración. Un sistema mejor descrito permite que cualquier miembro pueda continuar el trabajo sin depender de explicaciones orales constantes.<br><br>
+      <strong>Katherine Maryory Mejia Aliaga</strong><br>
+      <strong>TB1</strong>: La organización del contenido demostró que la estructura es un componente silencioso pero poderoso de la comunicación escrita. Un texto bien ordenado guía al lector y refuerza la claridad del mensaje.<br>
+      <strong>TP1</strong>: Documentar por escrito la Arquitectura de la Información me permitió valorar la importancia de formalizar las decisiones de diseño, concluyendo que un documento bien estructurado sirve como pilar para construir experiencias de usuario coherentes.<br>
+      <strong>TB2</strong>: Documentar reglas de negocio y validaciones del backend reforzó que la documentación técnica clara es esencial para evitar inconsistencias entre módulos.<br>
+      <strong>TF</strong>: Estructurar y mejorar el contenido del informe desde la perspectiva de UX me llevó a concluir que la claridad en la documentación también es parte de crear un entorno inclusivo. Cuando la información está ordenada y bien explicada, todos pueden participar y aportar sin sentirse perdidos.<br><br>
+      <strong>Augusto Sebastian Montes Maza</strong><br>
+      <strong>TB1</strong>: El proceso de edición y unificación de textos me permitió concluir que la consistencia en la comunicación escrita es fundamental para construir una identidad de producto sólida y profesional.<br>
+      <strong>TP1</strong>: Establecer un lenguaje ubicuo por escrito fue una lección clave sobre la importancia de crear una base terminológica común, concluyendo que esta práctica elimina la ambigüedad y fomenta una comunicación más eficiente y precisa en equipos multidisciplinarios.<br>
+      <strong>TB2</strong>: Documentar la estructura técnica del backend me permitió comprender que una documentación clara es vital para asegurar que todo el equipo trabaje con las mismas reglas y estándares.<br>
+      <strong>TF</strong>: Actualizar y documentar el modelo de datos final me mostró que una base técnica bien registrada es esencial para que el equipo pueda seguir creciendo sobre el mismo proyecto. Comprendí que la colaboración efectiva requiere no solo programar, sino dejar huellas claras de lo que se hizo y por qué se decidió así.<br>
+    </td>
+  </tr>
+</table>
 
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo I: Introducción
 
@@ -343,16 +606,89 @@ La propuesta de valor radica en la simplicidad y personalización del sistema. M
 
 **Visión**: Convertirse en la aplicación de referencia para la gestión de inventarios en el sector gastronómico y de servicios, reconocida por su confiabilidad, usabilidad y capacidad de adaptación a las necesidades del cliente.
 
+<div style="page-break-after: always;"></div>
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| Integrantes | Descripción | Conocimientos |
-| :---------- | :---------- | :------------ |
-| <div style="display: flex; align-items: center;">![Integrante1](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg)&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;">![Integrante2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg)&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
-| <div style="display: flex; align-items: center;">![Integrante3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png)&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;">![Integrante4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg)&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;">![Integrante5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg)&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Integrantes</th>
+    <th>Descripción</th>
+    <th>Conocimientos</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/MathiasJM.png"
+             alt="Mathias Murillo"
+             style="width: 300px; height: auto;">
+      </div>
+    </td>
+    <td>
+      <br><strong>Mathias Javier Murillo</strong><br>
+      Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos
+    </td>
+    <td>Conocimientos en SQL, HTML, JS, CSS y Python</td>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/AlessandroCondori.png"
+             alt="Alessandro Condori"
+             style="width: 300px; height: auto;">
+      </div>
+    </td>
+    <td>
+      <br><strong>Alessandro Condori</strong><br>
+      Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación
+    </td>
+    <td>Java, C++, Python, html, css, javascrip, C# y SQL</td>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/AugustoMontes.png"
+             alt="Sebastian Montes"
+             style="width: 300px; height: auto;">
+      </div>
+    </td>
+    <td>
+      <br><strong>Augusto Montes</strong><br>
+      Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos
+    </td>
+    <td>C++, C#, SQL, Html, css, javascript, python y java</td>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/KatherineAguilar.png"
+             alt="Katherine Mejia"
+             style="width: 300px; height: auto;">
+      </div>
+    </td>
+    <td>
+      <br><strong>Katherine Mejia</strong><br>
+      Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones.
+    </td>
+    <td>C++, C#, SQL, Html, css, javascript, python y java</td>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_I/profiles/RodrigoAguilar.png"
+             alt="Rodrigo Aguilar"
+             style="width: 300px; height: auto;">
+      </div>
+    </td>
+    <td>
+      <br><strong>Rodrigo Aguilar</strong><br>
+      Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.
+    </td>
+    <td>Tengo experiencia con Javascript, Java, C++.</td>
+  </tr>
+</table>
 
+<div style="page-break-after: always;"></div>
 
 ## 1.2 Solution Profile
 
@@ -555,7 +891,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 - Finalmente, un módulo de capacitación digital permitiría que los usuarios accedan a tutoriales, manuales y webinars dentro del mismo sistema, facilitando la adopción tecnológica.
 
-**_Desde la cuenta de administración de PcPedia:_**
+**_Desde la cuenta de administración de LogisPe:_**
 
 - Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados. Esto debe incluir un mapa interactivo de clientes (geolocalización) para optimizar la distribución de técnicos y recursos.
 
@@ -567,7 +903,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 - Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing. Dicho repositorio debería estar acompañado de un sistema de benchmarking, que compare el desempeño de diferentes clientes y ofrezca insights personalizados para la optimización.
 
-- PcPedia también podría contar con un módulo de administración de inventario interno, que permita verificar la disponibilidad de equipos, repuestos y accesorios antes de aprobar solicitudes de clientes.
+- LogisPe también podría contar con un módulo de administración de inventario interno, que permita verificar la disponibilidad de equipos, repuestos y accesorios antes de aprobar solicitudes de clientes.
 
 - Finalmente, un sistema de auditoría y trazabilidad registrará todas las acciones realizadas por administradores y clientes, garantizando seguridad, transparencia y cumplimiento normativo (por ejemplo, GDPR o regulaciones locales de protección de datos).
 
@@ -587,7 +923,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Logo UPC](https://i.imgur.com/SZVlLz9.png)
+![Lean UX Canvas](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_I/lean_ux_canvas/Lean_UX_Canvas.png)
 
 ## 1.3. Segmentos objetivo
 
@@ -605,6 +941,8 @@ En nuestro proyecto, los segmentos han sido definidos a partir de criterios como
 
    Los nuevos negocios enfrentan grandes desafíos en sus primeros años, y uno de los más frecuentes es la mala gestión de inventarios y finanzas, que puede llevar al cierre prematuro del emprendimiento. Un sistema accesible y escalable les brinda a los emprendedores la posibilidad de iniciar con procesos claros, medibles y organizados desde el primer día. Esto no solo ayuda a evitar errores comunes, como sobrecompras o falta de insumos críticos, sino que también genera información clave para proyectar el crecimiento del negocio. Además, un estudio reciente en el contexto peruano muestra cómo una gestión eficaz de costos, basada en sistemas organizados, contribuye a mantener márgenes de rentabilidad saludables incluso en situaciones adversas (Martin, C. Selena, V. Miguel A. (2024)). Asimismo, el notable auge del sector gastronómico en Perú, con un crecimiento del 63.59 % en emprendimientos, subraya el potencial y la necesidad de contar con bases tecnológicas sólidas desde el inicio (Infobae 2024).
 
+<div style="page-break-after: always;"></div>
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -621,162 +959,128 @@ Finalmente, es importante mencionar que algunos negocios en Perú aún recurren 
 
 ## 2.1.1. Análisis competitivo
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 15%" />
-<col style="width: 18%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-</colgroup>
-
-<thead>
-<tr class="header">
-    <th colspan="6"><strong>Competitive Analysis Landscape</strong></th>
-</tr>
-
-<tr class="odd">
-    <th rowspan="2">
-        <p>¿Por qué llevar a cabo este análisis?</p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th colspan="6" style="text-align: center;">
+      <strong>Competitive Analysis Landscape</strong>
     </th>
-    <th colspan="5">
-        Analizar la competencia directa en soluciones de facturación e inventarios en Perú, identificando fortalezas, debilidades, oportunidades y amenazas para posicionar nuestra startup gastronómica.
-    </th>
-</tr>
+  </tr>
 
-<tr class="header">
-    <th colspan="2">
-        <p>(En la cabecera colocar por</p>
-        <p>cada competidor nombre y</p>
-        <p>logo)</p>
+  <!-- MOTIVO DEL ANÁLISIS -->
+  <tr>
+    <th style="width: 16%;">¿Por qué llevar a cabo este análisis?</th>
+    <td colspan="5">
+      Analizar la competencia directa en soluciones de facturación e inventarios en Perú, identificando fortalezas,
+      debilidades, oportunidades y amenazas para posicionar nuestra startup gastronómica.
+    </td>
+  </tr>
+
+  <!-- CABECERA COMPETIDORES -->
+  <tr>
+    <th></th>
+    <th>
+      (En la cabecera colocar por<br>
+      cada competidor nombre y<br>
+      logo)
     </th>
-    <th>Su Startup</th>
+    <th>LogisPe</th>
     <th>Nubefact</th>
     <th>Siigo Perú</th>
     <th>Factura Perú</th>
-</tr>
+  </tr>
 
-<!-- PERFIL -->
-<tr class="header">
+  <!-- PERFIL -->
+  <tr>
     <th rowspan="2">Perfil</th>
     <th>Overview</th>
-    <th>Aplicación web especializada en gestión de inventarios para el sector gastronómico.</th>
-    <th>Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios.</th>
-    <th>Sistema contable y administrativo con funciones de inventario, compras y ventas.</th>
-    <th>Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños.</th>
-</tr>
-
-<tr class="odd">
+    <td>Aplicación web especializada en gestión de inventarios para el sector gastronómico.</td>
+    <td>Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios.</td>
+    <td>Sistema contable y administrativo con funciones de inventario, compras y ventas.</td>
+    <td>Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños.</td>
+  </tr>
+  <tr>
     <th>
-        <p>Ventaja competitiva</p>
-        <p>¿Qué valor</p>
-        <p>ofrece a los</p>
-        <p>clientes?</p>
+      Ventaja competitiva<br>
+      ¿Qué valor ofrece a los clientes?
     </th>
-    <th>Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas.</th>
-    <th>Cumplimiento con SUNAT y alta adopción en negocios peruanos.</th>
-    <th>Amplia trayectoria, soporte contable y administrativo.</th>
-    <th>Costos accesibles y facilidad de uso para microempresas.</th>
-</tr>
+    <td>Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas.</td>
+    <td>Cumplimiento con SUNAT y alta adopción en negocios peruanos.</td>
+    <td>Amplia trayectoria, soporte contable y administrativo.</td>
+    <td>Costos accesibles y facilidad de uso para microempresas.</td>
+  </tr>
 
-<!-- PERFIL DE MARKETING -->
-<tr class="header">
+  <!-- PERFIL DE MARKETING -->
+  <tr>
     <th rowspan="2">Perfil de Marketing</th>
     <th>Mercado objetivo</th>
-    <th>Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos.</th>
-    <th>Empresas de todos los rubros que requieren facturación electrónica.</th>
-    <th>PYMEs que buscan un sistema administrativo y contable.</th>
-    <th>Negocios pequeños: bodegas, tiendas, etc.</th>
-</tr>
+    <td>Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos.</td>
+    <td>Empresas de todos los rubros que requieren facturación electrónica.</td>
+    <td>PYMEs que buscan un sistema administrativo y contable.</td>
+    <td>Negocios pequeños: bodegas, tiendas, etc.</td>
+  </tr>
+  <tr>
+    <th>Estrategias de marketing</th>
+    <td>Marketing digital, alianzas con gremios gastronómicos, referidos.</td>
+    <td>Posicionamiento como líder en facturación electrónica en Perú.</td>
+    <td>Presencia corporativa y convenios contables.</td>
+    <td>Promoción de precios bajos y cumplimiento legal.</td>
+  </tr>
 
-<tr class="odd">
-    <th>
-        <p>Estrategias de</p>
-        <p>marketing</p>
-    </th>
-    <th>Marketing digital, alianzas con gremios gastronómicos, referidos.</th>
-    <th>Posicionamiento como líder en facturación electrónica en Perú.</th>
-    <th>Presencia corporativa y convenios contables.</th>
-    <th>Promoción de precios bajos y cumplimiento legal.</th>
-</tr>
-
-<!-- PERFIL DE PRODUCTO -->
-<tr class="header">
+  <!-- PERFIL DE PRODUCTO -->
+  <tr>
     <th rowspan="3">Perfil de Producto</th>
-    <th>
-        <p>Productos &amp;</p>
-        <p>Servicios</p>
-    </th>
-    <th>Inventario en tiempo real, recetas, proveedores, reportes y alertas automáticas.</th>
-    <th>Facturación electrónica + inventarios básicos.</th>
-    <th>Contabilidad, inventarios, compras y ventas.</th>
-    <th>Facturación e inventarios simples.</th>
-</tr>
-
-<tr class="odd">
+    <th>Productos &amp; Servicios</th>
+    <td>Inventario en tiempo real, recetas, proveedores, reportes y alertas automáticas.</td>
+    <td>Facturación electrónica + inventarios básicos.</td>
+    <td>Contabilidad, inventarios, compras y ventas.</td>
+    <td>Facturación e inventarios simples.</td>
+  </tr>
+  <tr>
     <th>Precios &amp; Costos</th>
-    <th>Planes escalables y accesibles para pymes gastronómicas.</th>
-    <th>Suscripciones orientadas a facturación.</th>
-    <th>Costos más altos, orientados a contabilidad integral.</th>
-    <th>Costos bajos para pequeños negocios.</th>
-</tr>
+    <td>Planes escalables y accesibles para pymes gastronómicas.</td>
+    <td>Suscripciones orientadas a facturación.</td>
+    <td>Costos más altos, orientados a contabilidad integral.</td>
+    <td>Costos bajos para pequeños negocios.</td>
+  </tr>
+  <tr>
+    <th>Canales de distribución (Web y/o Móvil)</th>
+    <td>100% web responsive. Disponible en móviles.</td>
+    <td>Web.</td>
+    <td>Web y aplicaciones conectadas.</td>
+    <td>Web (principalmente escritorio).</td>
+  </tr>
 
-<tr class="header">
-    <th>
-        <p>Canales de</p>
-        <p>distribución</p>
-        <p>(Web y/o Móvil)</p>
-    </th>
-    <th>100% web responsive. Disponible en móviles.</th>
-    <th>Web.</th>
-    <th>Web y aplicaciones conectadas.</th>
-    <th>Web (principalmente escritorio).</th>
-</tr>
-
-<!-- SWOT -->
-<tr class="odd">
-    <th rowspan="5">Análisis SWOT</th>
-    <th colspan="5"></th>
-</tr>
-
-<tr class="header">
+  <!-- SWOT -->
+  <tr>
+    <th rowspan="4">Análisis SWOT</th>
     <th>Fortalezas</th>
-    <th>Especialización en gastronomía, interfaz intuitiva, reportes claros.</th>
-    <th>Cumplimiento legal con SUNAT y gran base de clientes.</th>
-    <th>Trayectoria, soporte técnico local.</th>
-    <th>Precio accesible y fácil implementación.</th>
-</tr>
-
-<tr class="odd">
+    <td>Especialización en gastronomía, interfaz intuitiva, reportes claros.</td>
+    <td>Cumplimiento legal con SUNAT y gran base de clientes.</td>
+    <td>Trayectoria, soporte técnico local.</td>
+    <td>Precio accesible y fácil implementación.</td>
+  </tr>
+  <tr>
     <th>Debilidades</th>
-    <th>Nueva en el mercado, menos reconocimiento.</th>
-    <th>Módulo de inventarios poco desarrollado.</th>
-    <th>Complejidad de uso y enfoque contable.</th>
-    <th>Funciones limitadas en gastronomía.</th>
-</tr>
-
-<tr class="header">
+    <td>Nueva en el mercado, menos reconocimiento.</td>
+    <td>Módulo de inventarios poco desarrollado.</td>
+    <td>Complejidad de uso y enfoque contable.</td>
+    <td>Funciones limitadas en gastronomía.</td>
+  </tr>
+  <tr>
     <th>Oportunidades</th>
-    <th>Crecimiento del sector gastronómico y digitalización de pymes.</th>
-    <th>Ampliar funciones hacia sectores especializados.</th>
-    <th>Integrar más módulos sectoriales.</th>
-    <th>Expandirse en microempresas.</th>
-</tr>
-
-<tr class="odd">
+    <td>Crecimiento del sector gastronómico y digitalización de pymes.</td>
+    <td>Ampliar funciones hacia sectores especializados.</td>
+    <td>Integrar más módulos sectoriales.</td>
+    <td>Expandirse en microempresas.</td>
+  </tr>
+  <tr>
     <th>Amenazas</th>
-    <th>Resistencia al cambio tecnológico y competencia consolidada.</th>
-    <th>Aparición de softwares especializados en gastronomía.</th>
-    <th>Competidores más simples y accesibles.</th>
-    <th>Migración a plataformas más completas.</th>
-</tr>
-
-</thead>
-<tbody>
-</tbody>
+    <td>Resistencia al cambio tecnológico y competencia consolidada.</td>
+    <td>Aparición de softwares especializados en gastronomía.</td>
+    <td>Competidores más simples y accesibles.</td>
+    <td>Migración a plataformas más completas.</td>
+  </tr>
 </table>
-
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -794,7 +1098,6 @@ Estrategias: 
     
 *   Promover una experiencia de usuario intuitiva y accesible, diseñada específicamente para negocios gastronómicos, lo que facilita la adopción rápida del sistema sin necesidad de conocimientos técnicos avanzados.
     
-
 Tácticas:
 
 *   Campañas de marketing digital enfocadas en redes sociales y asociaciones con gremios gastronómicos, destacando la facilidad de uso y el ahorro en pérdidas de insumos.
@@ -922,9 +1225,9 @@ Preguntas complementarias: 
 
 Segmento objetivo: Restaurantes y Restobares
 
-Entrevista 1
+**Entrevista 1**
 
-![Entrevista](assets/restaurante1.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/restaurante1.png)
 
 **Entrevistado:** Luciano De La Torre  
 **Edad:** 25 años  
@@ -938,11 +1241,9 @@ El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueb
 
 Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
 
----
+**Entrevista 2**
 
-Entrevista 2
-
-![Entrevista](assets/restaurante2.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/restaurante2.png)
 
 **Entrevistado:** Juan José López  
 **Edad:** 28 años   
@@ -958,11 +1259,9 @@ La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emerg
 
 Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
 
----
+**Entrevista 3**
 
-Entrevista 3
-
-![Entrevista](assets/restaurante3.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/restaurante3.png)
 
 **Entrevistado:** Patricio Rodríguez Amador  
 **Edad:** 27 años  
@@ -979,14 +1278,11 @@ La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene
 
 Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
 
----
-
 **Segmento objetivo: Cafeterías y Bares**
 
+**Entrevista 1**
 
-Entrevista 1
-
-![Entrevista](assets/cafeteria1.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/cafeteria1.png)
 
 **Entrevistada:** Alejandra Martínez  
 **Edad:** 25 años  
@@ -1000,9 +1296,9 @@ Entrevista 1
 La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
 Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
 
-Entrevista 2
+**Entrevista 2**
 
-![Entrevista](assets/cafeteria2.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/cafeteria2.png)
 
 
 **Entrevistado:** Leonardo Solís  
@@ -1018,9 +1314,9 @@ El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los prod
 
 Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
 
-Entrevista 3
+**Entrevista 3**
 
-![Entrevista](assets/cafeteria3.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/cafeteria3.png)
 
 
 **Entrevistado:** Gonzalo Flores Rojas  
@@ -1034,13 +1330,11 @@ Entrevista 3
 Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
 Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
 
----
-
 **Segmento objetivo: Emprendimientos Gastronómicos**
 
-Entrevista 1
+**Entrevista 1**
 
-![Entrevista](assets/emprendedor1.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/emprendedor1.png)
 
 
 **Entrevistada:** Luciana Aguilar  
@@ -1056,9 +1350,9 @@ Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de rep
 Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
 Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
 
-Entrevista 2
+**Entrevista 2**
 
-![Entrevista](assets/emprendedor2.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/emprendedor2.png)
 
 
 **Entrevistado:** Juan Alberto Rosales  
@@ -1076,9 +1370,9 @@ Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos
 
 Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
 
-Entrevista 3
+**Entrevista 3**
 
-![Entrevista](assets/emprendedor3.png)
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/interview_record/emprendedor3.png)
 
 
 **Entrevistado:** Andrés Cieza de León  
@@ -1183,17 +1477,17 @@ Estas representaciones semi-ficticias de clientes ideales ayudan a comprender la
 Segmento objetivo: Restaurantes y Restobares
 
 
-![User Diego](assets/user3.png)
+![User Diego](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/user_person/user3.png)
 
 Segmento objetivo: Cafeterías y Bares
 
 
-![User Maria Alejandra](assets/user2.png)
+![User Maria Alejandra](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/user_person/user2.png)
 
 Segmento objetivo: Emprendimientos gastronómicos
 
 
-![User Javier](assets/user1.png)
+![User Javier](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/user_person/user1.png)
 
 ### 2.3.2. User Task Matrix
 ## User Task Matrix  
@@ -1207,18 +1501,107 @@ Las tareas corresponden a actividades necesarias para el funcionamiento de sus n
 
 ### Cuadro de User Task Matrix  
 
-| **Tareas** | **Diego Fernández**<br>(Restobares y Restaurantes)<br>Frecuencia | **Diego Fernández**<br>Importancia | **María Alejandra**<br>(Cafeterías y Bares)<br>Frecuencia | **María Alejandra**<br>Importancia | **Javier Ramírez**<br>(Emprendimientos Gastronómicos)<br>Frecuencia | **Javier Ramírez**<br>Importancia |
-|------------|-------------------------------------------------|-------------------------------|-------------------------------------------------|-------------------------------|---------------------------------------------------|-----------------------------------|
-| Gestionar inventario de insumos | Alta | Alta | Alta | Alta | Alta | Alta |
-| Coordinar pedidos con proveedores | Alta | Alta | Media | Alta | Alta | Alta |
-| Controlar costos y rentabilidad de productos | Alta | Alta | Media | Alta | Alta | Alta |
-| Estandarizar recetas y procesos | Media | Alta | Alta | Alta | Media | Alta |
-| Evitar quiebres de stock | Alta | Alta | Alta | Alta | Alta | Alta |
-| Gestionar la rotación de productos perecibles | Alta | Alta | Alta | Alta | Media | Alta |
-| Proyectar compras según demanda | Media | Alta | Media | Alta | Media | Alta |
-| Monitorear ventas diarias y márgenes | Alta | Alta | Media | Media | Alta | Alta |
-| Organizar la apertura y operación diaria | Alta | Alta | Alta | Alta | Alta | Alta |
-| Planificar crecimiento del negocio | Media | Alta | Baja | Media | Alta | Alta |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr>
+    <th><strong>Tareas</strong></th>
+    <th><strong>Diego Fernández</strong><br>(Restobares y Restaurantes)<br>Frecuencia</th>
+    <th><strong>Diego Fernández</strong><br>Importancia</th>
+    <th><strong>María Alejandra</strong><br>(Cafeterías y Bares)<br>Frecuencia</th>
+    <th><strong>María Alejandra</strong><br>Importancia</th>
+    <th><strong>Javier Ramírez</strong><br>(Emprendimientos Gastronómicos)<br>Frecuencia</th>
+    <th><strong>Javier Ramírez</strong><br>Importancia</th>
+  </tr>
+  <tr>
+    <td>Gestionar inventario de insumos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar pedidos con proveedores</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Controlar costos y rentabilidad de productos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Estandarizar recetas y procesos</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Evitar quiebres de stock</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar la rotación de productos perecibles</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Proyectar compras según demanda</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear ventas diarias y márgenes</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Organizar la apertura y operación diaria</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Planificar crecimiento del negocio</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</table>
 
 ### Explicación de las tareas principales  
 
@@ -1241,40 +1624,40 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 **Segmento objetivo: Restobares y Restaurantes**
 
 
-![User Diego](assets/journey1.png)
+![User Diego](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/user_journey_mapping/journey1.png)
 
 **Segmento objetivo: Cafeterías y Bares**
 
 
-![User Maria Alejandra](assets/journey2.png)
+![User Maria Alejandra](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/user_journey_mapping/journey2.png)
 
 **Segmento objetivo: Emprendimientos Gastronómicos**
 
 
-![User Javier](assets/journey3.png)
+![User Javier](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/user_journey_mapping/journey3.png)
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento objetivo: Restaurantes y Restobares**
 
 
-![User Diego](assets/empathy1.png)
+![User Diego](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/empathy_mapping/empathy1.png)
 
 **Segmento objetivo: Cafeterías y Bares**
 
 
-![User Maria Alejandra](assets/empathy2.png)
+![User Maria Alejandra](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/empathy_mapping/empathy2.png)
 
 **Segmento objetivo: Emprendimientos gastronómicos**
 
 
-![User Javier](assets/empathy3.png)
+![User Javier](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/empathy_mapping/empathy3.png)
 
 ### 2.4. Big Picture Event Storming
 
 En esta sección se presenta el Big Picture Event Storming realizado por el equipo. Esta dinámica colaborativa permitió mapear de manera visual el dominio del negocio gastronómico, identificando los eventos clave, los comandos que los disparan, los actores involucrados, las políticas vigentes, así como los hostpots y las oportunidades de mejora.
 
-![Event Storming](assets/storming.png)
+![Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_II/event_storming/storming.png)
 
 ### 2.5. Ubiquitous Language
 
@@ -1318,6 +1701,8 @@ En esta sección se presenta el Big Picture Event Storming realizado por el equi
 
 **Alert Notification (Notificación de Alerta):** Aviso automático que manda el sistema cuando un insumo está a punto de agotarse.
 
+<div style="page-break-after: always;"></div>
+
 # Capítulo III: Especificación de Requisitos
 
 ## 3.1. Historias de Usuario
@@ -1328,80 +1713,497 @@ Cada historia de usuario incluye Criterios de Aceptación redactados en formato 
 
 ### Epic Stories
 
-| Epic ID | Título | Descripción | Criterios de Aceptación Generales |
-| :--- | :--- | :--- | :--- |
-| EP-01 | Gestión de Autenticación y Cuentas | Proporcionar un sistema seguro para el registro, inicio de sesión y gestión de perfiles de usuario y roles dentro de la empresa. | - El sistema debe permitir el registro de nuevas empresas validando su información fiscal.<br>- Se deben poder crear y asignar roles con diferentes niveles de permiso (ej. Administrador, Cocinero).<br>- Un usuario debe poder iniciar y cerrar sesión de forma segura y gestionar su perfil. |
-| EP-02 | Administración del Inventario | Permitir a los usuarios registrar, visualizar, auditar y gestionar todos los insumos y productos del inventario en tiempo real. | - Se deben poder crear, editar, buscar y eliminar productos e insumos.<br>- El stock debe actualizarse automáticamente con las ventas, compras y mermas.<br>- El sistema debe mostrar el estado del inventario (disponible, bajo, agotado) y un historial de movimientos. |
-| EP-03 | Gestión de Recetas y Costos | Facilitar la creación y administración de recetas, vinculando los insumos del inventario para calcular costos, estandarizar la producción y gestionar la rentabilidad. | - Se deben poder crear recetas asociando insumos y cantidades exactas.<br>- El costo de cada plato debe calcularse automáticamente basado en el costo de los insumos.<br>- Al registrar una venta de un plato, el stock de los insumos de la receta debe descontarse automáticamente. |
-| EP-04 | Gestión de Proveedores y Compras | Centralizar la información de los proveedores y agilizar el proceso de creación, seguimiento y registro de órdenes de compra para reabastecer el inventario. | - Se debe poder registrar, editar y gestionar una lista de proveedores con sus datos de contacto y productos.<br>- El sistema debe permitir generar y enviar órdenes de compra a los proveedores.<br>- El estado de las órdenes de compra debe ser rastreable (pendiente, recibido, cancelado). |
-| EP-05 | Generación de Alertas y Reportes | Proveer notificaciones automáticas y reportes analíticos para optimizar la toma de decisiones, prevenir problemas operativos y analizar el rendimiento del negocio. | - El sistema debe generar alertas personalizables de stock bajo y fechas de caducidad próximas.<br>- Se deben poder generar reportes detallados de consumo, ventas, costos y mermas.<br>- Los reportes deben ser visuales (gráficos) y exportables a formatos comunes (CSV/PDF). |
-| EP-06 | Presentación y Captación (Landing Page) | Ofrecer un sitio web informativo y persuasivo que presente la propuesta de valor de LogisPe, sus características y planes, y guíe a los potenciales clientes al registro. | - La página debe describir claramente los beneficios y características de la solución.<br>- Debe contener llamados a la acción (CTA) claros y visibles para registrarse o solicitar una demo.<br>- Debe ser visualmente atractiva, profesional y completamente adaptable a dispositivos móviles. |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Epic ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación Generales</th>
+  </tr>
+  <tr>
+    <td>EP-01</td>
+    <td>Gestión de Autenticación y Cuentas</td>
+    <td>Proporcionar un sistema seguro para el registro, inicio de sesión y gestión de perfiles de usuario y roles dentro de la empresa.</td>
+    <td>
+      - El sistema debe permitir el registro de nuevas empresas validando su información fiscal.<br>
+      - Se deben poder crear y asignar roles con diferentes niveles de permiso (ej. Administrador, Cocinero).<br>
+      - Un usuario debe poder iniciar y cerrar sesión de forma segura y gestionar su perfil.
+    </td>
+  </tr>
+  <tr>
+    <td>EP-02</td>
+    <td>Administración del Inventario</td>
+    <td>Permitir a los usuarios registrar, visualizar, auditar y gestionar todos los insumos y productos del inventario en tiempo real.</td>
+    <td>
+      - Se deben poder crear, editar, buscar y eliminar productos e insumos.<br>
+      - El stock debe actualizarse automáticamente con las ventas, compras y mermas.<br>
+      - El sistema debe mostrar el estado del inventario (disponible, bajo, agotado) y un historial de movimientos.
+    </td>
+  </tr>
+  <tr>
+    <td>EP-03</td>
+    <td>Gestión de Recetas y Costos</td>
+    <td>Facilitar la creación y administración de recetas, vinculando los insumos del inventario para calcular costos, estandarizar la producción y gestionar la rentabilidad.</td>
+    <td>
+      - Se deben poder crear recetas asociando insumos y cantidades exactas.<br>
+      - El costo de cada plato debe calcularse automáticamente basado en el costo de los insumos.<br>
+      - Al registrar una venta de un plato, el stock de los insumos de la receta debe descontarse automáticamente.
+    </td>
+  </tr>
+  <tr>
+    <td>EP-04</td>
+    <td>Gestión de Proveedores y Compras</td>
+    <td>Centralizar la información de los proveedores y agilizar el proceso de creación, seguimiento y registro de órdenes de compra para reabastecer el inventario.</td>
+    <td>
+      - Se debe poder registrar, editar y gestionar una lista de proveedores con sus datos de contacto y productos.<br>
+      - El sistema debe permitir generar y enviar órdenes de compra a los proveedores.<br>
+      - El estado de las órdenes de compra debe ser rastreable (pendiente, recibido, cancelado).
+    </td>
+  </tr>
+  <tr>
+    <td>EP-05</td>
+    <td>Generación de Alertas y Reportes</td>
+    <td>Proveer notificaciones automáticas y reportes analíticos para optimizar la toma de decisiones, prevenir problemas operativos y analizar el rendimiento del negocio.</td>
+    <td>
+      - El sistema debe generar alertas personalizables de stock bajo y fechas de caducidad próximas.<br>
+      - Se deben poder generar reportes detallados de consumo, ventas, costos y mermas.<br>
+      - Los reportes deben ser visuales (gráficos) y exportables a formatos comunes (CSV/PDF).
+    </td>
+  </tr>
+  <tr>
+    <td>EP-06</td>
+    <td>Presentación y Captación (Landing Page)</td>
+    <td>Ofrecer un sitio web informativo y persuasivo que presente la propuesta de valor de LogisPe, sus características y planes, y guíe a los potenciales clientes al registro.</td>
+    <td>
+      - La página debe describir claramente los beneficios y características de la solución.<br>
+      - Debe contener llamados a la acción (CTA) claros y visibles para registrarse o solicitar una demo.<br>
+      - Debe ser visualmente atractiva, profesional y completamente adaptable a dispositivos móviles.
+    </td>
+  </tr>
+</table>
 
 ### User Stories
 
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-| :--- | :--- | :--- | :--- | :--- |
-| **_User Stories para la Aplicación Web_** |
-| US-01.01 | Registro de Nueva Empresa | Como **administrador de un restaurante**, quiero registrar mi negocio en la plataforma para empezar a gestionar mi inventario de forma digital. | **Dado** que soy un nuevo usuario y no tengo una cuenta,<br>**Cuando** completo el formulario de registro con datos válidos (RUC, nombre del negocio, email, contraseña),<br>**Entonces** el sistema crea mi cuenta, me asigna el rol de administrador y me envía un correo de bienvenida. | EP-01 |
-| US-01.02 | Inicio de Sesión Seguro | Como **usuario registrado**, quiero iniciar sesión con mi correo y contraseña para acceder al dashboard de mi negocio de forma segura. | **Dado** que tengo una cuenta activa y estoy en la página de login,<br>**Cuando** ingreso mis credenciales correctas,<br>**Entonces** soy redirigido al panel principal de la aplicación. | EP-01 |
-| US-01.03 | Gestión de Roles de Usuario | Como **administrador**, quiero asignar roles (ej. Cocinero, Almacenero) a los miembros de mi equipo para controlar su acceso a diferentes módulos y proteger la información sensible. | **Dado** que estoy en la sección de "Administración de Usuarios",<br>**Cuando** selecciono un usuario existente y le asigno el rol "Cocinero",<br>**Entonces** ese usuario solo podrá ver y utilizar los módulos de "Recetas" e "Inventario", pero no "Reportes Financieros". | EP-01 |
-| US-02.01 | Añadir Nuevo Insumo | Como **administrador**, quiero añadir un nuevo insumo a mi inventario con su nombre, unidad de medida, proveedor y stock inicial para tener un control preciso. | **Dado** que estoy en la vista de "Inventario",<br>**Cuando** hago clic en "Añadir Insumo" y lleno el formulario (ej. "Harina Preparada", "Kg", "Proveedor A", 50),<br>**Entonces** el insumo aparece en mi lista de inventario con el stock y proveedor indicados. | EP-02 |
-| US-02.02 | Actualizar Stock Manualmente | Como **almacenero**, quiero poder ajustar manualmente la cantidad de un insumo para corregir discrepancias después de un conteo físico. | **Dado** que el sistema muestra 20 Kg de "Azúcar" pero el conteo físico es de 18 Kg,<br>**Cuando** selecciono "Ajustar Stock", ingreso la nueva cantidad (18) y un motivo (ej. "Merma"),<br>**Entonces** el stock del insumo se actualiza a 18 Kg y se registra un movimiento en el historial. | EP-02 |
-| US-02.03 | Búsqueda y Filtro de Insumos | Como **cocinero**, quiero buscar y filtrar insumos por nombre o categoría para encontrar rápidamente lo que necesito para mis preparaciones. | **Dado** que estoy en la pantalla de "Inventario" con más de 100 insumos,<br>**Cuando** escribo "Leche" en la barra de búsqueda y selecciono el filtro "Lácteos",<br>**Entonces** la lista se reduce para mostrar solo las leches de la categoría "Lácteos". | EP-02 |
-| US-03.01 | Crear una Receta | Como **administrador**, quiero crear una receta para un plato del menú, especificando los insumos y las cantidades necesarias para estandarizar la producción y controlar costos. | **Dado** que tengo insumos registrados en el inventario,<br>**Cuando** creo una nueva receta (ej. "Lomo Saltado") y asocio los insumos (ej. 200g de Lomo, 100g de Cebolla),<br>**Entonces** la receta queda guardada y el costo del plato se calcula automáticamente. | EP-03 |
-| US-04.01 | Registrar un Proveedor | Como **administrador**, quiero registrar los datos de mis proveedores (nombre, contacto, RUC) para tener un directorio centralizado y agilizar las compras. | **Dado** que estoy en el módulo de "Proveedores",<br>**Cuando** completo el formulario con la información de un nuevo proveedor,<br>**Entonces** el proveedor se añade a mi lista de contactos y puedo asociarle insumos. | EP-04 |
-| US-04.02 | Generar Orden de Compra | Como **administrador**, quiero generar una orden de compra para un proveedor específico, seleccionando los insumos y cantidades que necesito reponer. | **Dado** que he recibido una alerta de stock bajo para "Aceite",<br>**Cuando** voy a "Órdenes de Compra", selecciono "Proveedor B" y añado 10 litros de "Aceite",<br>**Entonces** se genera una orden de compra en estado "Pendiente" y puedo enviarla al proveedor. | EP-04 |
-| US-05.01 | Alerta de Stock Bajo | Como **administrador**, quiero recibir una notificación cuando el stock de un insumo llegue a un nivel mínimo predefinido para poder reabastecer a tiempo y evitar quiebres de stock. | **Dado** que el punto de reorden para "Tomates" es de 5 Kg,<br>**Cuando** el stock actual baja a 4.5 Kg debido a una venta,<br>**Entonces** recibo una alerta visual en el dashboard y un correo electrónico notificándome. | EP-05 |
-| US-05.02 | Generar Reporte de Consumo | Como **dueño del negocio**, quiero generar un reporte de consumo de insumos por rango de fechas para analizar cuáles son los más utilizados y planificar mejor mis compras. | **Dado** que he registrado ventas durante la última semana,<br>**Cuando** voy a "Reportes", selecciono "Consumo de Insumos" y el rango de fechas,<br>**Entonces** el sistema me muestra un gráfico y una tabla con los insumos más consumidos, y me permite exportarlo a CSV. | EP-05 |
-| **_Technical Stories_** |
-| TS-02.01 | Obtener Insumos de Inventario | Como **developer**, quiero un endpoint `GET /api/inventory/supplies` para obtener la lista completa de insumos de un negocio, con opción de paginación. | **Dado** que realizo una petición GET autenticada a `/api/inventory/supplies?page=1&limit=20`,<br>**Cuando** la petición es válida,<br>**Entonces** la API debe devolver un objeto JSON con un array de 20 insumos, información de paginación y un código de estado 200 (OK). | EP-02 |
-| TS-03.01 | Crear Nueva Receta (API) | Como **developer**, quiero un endpoint `POST /api/recipes` para que la aplicación web pueda crear una nueva receta enviando sus datos en formato JSON. | **Dado** que envío una petición POST a `/api/recipes` con un cuerpo JSON válido (nombre, array de insumos con cantidades),<br>**Cuando** los datos son procesados correctamente,<br>**Entonces** la API debe devolver el objeto de la nueva receta creada con su ID y un código de estado 201 (Created). | EP-03 |
-| TS-05.01 | Endpoint de Reporte de Ventas | Como **developer**, quiero un endpoint `GET /api/reports/sales` que acepte parámetros de fecha para generar datos de ventas. | **Dado** que realizo una petición GET autenticada a `/api/reports/sales?startDate=2025-09-01&endDate=2025-09-30`,<br>**Cuando** la petición es válida,<br>**Entonces** la API debe devolver un JSON con el resumen de ventas de ese período y un código de estado 200 (OK). | EP-05 |
-| **_User Stories para Landing Page_** |
-| LS-06.01 | Ver Propuesta de Valor | Como **visitante y dueño de un restaurante**, quiero entender rápidamente los beneficios principales de LogisPe en la página de inicio para decidir si es la solución que necesito. | **Dado** que ingreso a la página de inicio de LogisPe,<br>**Cuando** observo la sección principal (Hero),<br>**Entonces** puedo leer un titular claro y un subtítulo que resumen la propuesta de valor en menos de 15 segundos. | EP-06 |
-| LS-06.02 | Explorar Características | Como **visitante interesado**, quiero navegar a una sección de "Características" para conocer en detalle qué funcionalidades ofrece el sistema. | **Dado** que estoy en la página de inicio,<br>**Cuando** hago clic en el enlace "Características" del menú de navegación,<br>**Entonces** la página se desplaza suavemente hasta la sección que detalla las funcionalidades con texto e imágenes. | EP-06 |
-| LS-06.03 | Iniciar Proceso de Registro | Como **visitante convencido**, quiero encontrar fácilmente un botón de "Registrarse" o "Empezar ahora" para crear mi cuenta sin demoras. | **Dado** que estoy en cualquier sección de la landing page,<br>**Cuando** decido que quiero registrarme,<br>**Entonces** puedo ver un botón de llamado a la acción (CTA) claramente visible en la barra de navegación y en el pie de página que me lleva al formulario de registro. | EP-06 |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>User Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación (Gherkin)</th>
+    <th>Relacionado con (Epic ID)</th>
+  </tr>
+  <tr>
+    <td colspan="5"><strong><em>User Stories para la Aplicación Web</em></strong></td>
+  </tr>
+  <tr>
+    <td>US-01.01</td>
+    <td>Registro de Nueva Empresa</td>
+    <td>Como <strong>administrador de un restaurante</strong>, quiero registrar mi negocio en la plataforma para empezar a gestionar mi inventario de forma digital.</td>
+    <td>
+      <strong>Dado</strong> que soy un nuevo usuario y no tengo una cuenta,<br>
+      <strong>Cuando</strong> completo el formulario de registro con datos válidos (RUC, nombre del negocio, email, contraseña),<br>
+      <strong>Entonces</strong> el sistema crea mi cuenta, me asigna el rol de administrador y me envía un correo de bienvenida.
+    </td>
+    <td>EP-01</td>
+  </tr>
+  <tr>
+    <td>US-01.02</td>
+    <td>Inicio de Sesión Seguro</td>
+    <td>Como <strong>usuario registrado</strong>, quiero iniciar sesión con mi correo y contraseña para acceder al dashboard de mi negocio de forma segura.</td>
+    <td>
+      <strong>Dado</strong> que tengo una cuenta activa y estoy en la página de login,<br>
+      <strong>Cuando</strong> ingreso mis credenciales correctas,<br>
+      <strong>Entonces</strong> soy redirigido al panel principal de la aplicación.
+    </td>
+    <td>EP-01</td>
+  </tr>
+  <tr>
+    <td>US-01.03</td>
+    <td>Gestión de Roles de Usuario</td>
+    <td>Como <strong>administrador</strong>, quiero asignar roles (ej. Cocinero, Almacenero) a los miembros de mi equipo para controlar su acceso a diferentes módulos y proteger la información sensible.</td>
+    <td>
+      <strong>Dado</strong> que estoy en la sección de "Administración de Usuarios",<br>
+      <strong>Cuando</strong> selecciono un usuario existente y le asigno el rol "Cocinero",<br>
+      <strong>Entonces</strong> ese usuario solo podrá ver y utilizar los módulos de "Recetas" e "Inventario", pero no "Reportes Financieros".
+    </td>
+    <td>EP-01</td>
+  </tr>
+  <tr>
+    <td>US-02.01</td>
+    <td>Añadir Nuevo Insumo</td>
+    <td>Como <strong>administrador</strong>, quiero añadir un nuevo insumo a mi inventario con su nombre, unidad de medida, proveedor y stock inicial para tener un control preciso.</td>
+    <td>
+      <strong>Dado</strong> que estoy en la vista de "Inventario",<br>
+      <strong>Cuando</strong> hago clic en "Añadir Insumo" y lleno el formulario (ej. "Harina Preparada", "Kg", "Proveedor A", 50),<br>
+      <strong>Entonces</strong> el insumo aparece en mi lista de inventario con el stock y proveedor indicados.
+    </td>
+    <td>EP-02</td>
+  </tr>
+  <tr>
+    <td>US-02.02</td>
+    <td>Actualizar Stock Manualmente</td>
+    <td>Como <strong>almacenero</strong>, quiero poder ajustar manualmente la cantidad de un insumo para corregir discrepancias después de un conteo físico.</td>
+    <td>
+      <strong>Dado</strong> que el sistema muestra 20 Kg de "Azúcar" pero el conteo físico es de 18 Kg,<br>
+      <strong>Cuando</strong> selecciono "Ajustar Stock", ingreso la nueva cantidad (18) y un motivo (ej. "Merma"),<br>
+      <strong>Entonces</strong> el stock del insumo se actualiza a 18 Kg y se registra un movimiento en el historial.
+    </td>
+    <td>EP-02</td>
+  </tr>
+  <tr>
+    <td>US-02.03</td>
+    <td>Búsqueda y Filtro de Insumos</td>
+    <td>Como <strong>cocinero</strong>, quiero buscar y filtrar insumos por nombre o categoría para encontrar rápidamente lo que necesito para mis preparaciones.</td>
+    <td>
+      <strong>Dado</strong> que estoy en la pantalla de "Inventario" con más de 100 insumos,<br>
+      <strong>Cuando</strong> escribo "Leche" en la barra de búsqueda y selecciono el filtro "Lácteos",<br>
+      <strong>Entonces</strong> la lista se reduce para mostrar solo las leches de la categoría "Lácteos".
+    </td>
+    <td>EP-02</td>
+  </tr>
+  <tr>
+    <td>US-03.01</td>
+    <td>Crear una Receta</td>
+    <td>Como <strong>administrador</strong>, quiero crear una receta para un plato del menú, especificando los insumos y las cantidades necesarias para estandarizar la producción y controlar costos.</td>
+    <td>
+      <strong>Dado</strong> que tengo insumos registrados en el inventario,<br>
+      <strong>Cuando</strong> creo una nueva receta (ej. "Lomo Saltado") y asocio los insumos (ej. 200g de Lomo, 100g de Cebolla),<br>
+      <strong>Entonces</strong> la receta queda guardada y el costo del plato se calcula automáticamente.
+    </td>
+    <td>EP-03</td>
+  </tr>
+  <tr>
+    <td>US-04.01</td>
+    <td>Registrar un Proveedor</td>
+    <td>Como <strong>administrador</strong>, quiero registrar los datos de mis proveedores (nombre, contacto, RUC) para tener un directorio centralizado y agilizar las compras.</td>
+    <td>
+      <strong>Dado</strong> que estoy en el módulo de "Proveedores",<br>
+      <strong>Cuando</strong> completo el formulario con la información de un nuevo proveedor,<br>
+      <strong>Entonces</strong> el proveedor se añade a mi lista de contactos y puedo asociarle insumos.
+    </td>
+    <td>EP-04</td>
+  </tr>
+  <tr>
+    <td>US-04.02</td>
+    <td>Generar Orden de Compra</td>
+    <td>Como <strong>administrador</strong>, quiero generar una orden de compra para un proveedor específico, seleccionando los insumos y cantidades que necesito reponer.</td>
+    <td>
+      <strong>Dado</strong> que he recibido una alerta de stock bajo para "Aceite",<br>
+      <strong>Cuando</strong> voy a "Órdenes de Compra", selecciono "Proveedor B" y añado 10 litros de "Aceite",<br>
+      <strong>Entonces</strong> se genera una orden de compra en estado "Pendiente" y puedo enviarla al proveedor.
+    </td>
+    <td>EP-04</td>
+  </tr>
+  <tr>
+    <td>US-05.01</td>
+    <td>Alerta de Stock Bajo</td>
+    <td>Como <strong>administrador</strong>, quiero recibir una notificación cuando el stock de un insumo llegue a un nivel mínimo predefinido para poder reabastecer a tiempo y evitar quiebres de stock.</td>
+    <td>
+      <strong>Dado</strong> que el punto de reorden para "Tomates" es de 5 Kg,<br>
+      <strong>Cuando</strong> el stock actual baja a 4.5 Kg debido a una venta,<br>
+      <strong>Entonces</strong> recibo una alerta visual en el dashboard y un correo electrónico notificándome.
+    </td>
+    <td>EP-05</td>
+  </tr>
+  <tr>
+    <td>US-05.02</td>
+    <td>Generar Reporte de Consumo</td>
+    <td>Como <strong>dueño del negocio</strong>, quiero generar un reporte de consumo de insumos por rango de fechas para analizar cuáles son los más utilizados y planificar mejor mis compras.</td>
+    <td>
+      <strong>Dado</strong> que he registrado ventas durante la última semana,<br>
+      <strong>Cuando</strong> voy a "Reportes", selecciono "Consumo de Insumos" y el rango de fechas,<br>
+      <strong>Entonces</strong> el sistema me muestra un gráfico y una tabla con los insumos más consumidos, y me permite exportarlo a CSV.
+    </td>
+    <td>EP-05</td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong><em>Technical Stories</em></strong></td>
+  </tr>
+  <tr>
+    <td>TS-02.01</td>
+    <td>Obtener Insumos de Inventario</td>
+    <td>Como <strong>developer</strong>, quiero un endpoint <code>GET /api/inventory/supplies</code> para obtener la lista completa de insumos de un negocio, con opción de paginación.</td>
+    <td>
+      <strong>Dado</strong> que realizo una petición GET autenticada a <code>/api/inventory/supplies?page=1&amp;limit=20</code>,<br>
+      <strong>Cuando</strong> la petición es válida,<br>
+      <strong>Entonces</strong> la API debe devolver un objeto JSON con un array de 20 insumos, información de paginación y un código de estado 200 (OK).
+    </td>
+    <td>EP-02</td>
+  </tr>
+  <tr>
+    <td>TS-03.01</td>
+    <td>Crear Nueva Receta (API)</td>
+    <td>Como <strong>developer</strong>, quiero un endpoint <code>POST /api/recipes</code> para que la aplicación web pueda crear una nueva receta enviando sus datos en formato JSON.</td>
+    <td>
+      <strong>Dado</strong> que envío una petición POST a <code>/api/recipes</code> con un cuerpo JSON válido (nombre, array de insumos con cantidades),<br>
+      <strong>Cuando</strong> los datos son procesados correctamente,<br>
+      <strong>Entonces</strong> la API debe devolver el objeto de la nueva receta creada con su ID y un código de estado 201 (Created).
+    </td>
+    <td>EP-03</td>
+  </tr>
+  <tr>
+    <td>TS-05.01</td>
+    <td>Endpoint de Reporte de Ventas</td>
+    <td>Como <strong>developer</strong>, quiero un endpoint <code>GET /api/reports/sales</code> que acepte parámetros de fecha para generar datos de ventas.</td>
+    <td>
+      <strong>Dado</strong> que realizo una petición GET autenticada a <code>/api/reports/sales?startDate=2025-09-01&amp;endDate=2025-09-30</code>,<br>
+      <strong>Cuando</strong> la petición es válida,<br>
+      <strong>Entonces</strong> la API debe devolver un JSON con el resumen de ventas de ese período y un código de estado 200 (OK).
+    </td>
+    <td>EP-05</td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong><em>User Stories para Landing Page</em></strong></td>
+  </tr>
+  <tr>
+    <td>LS-06.01</td>
+    <td>Ver Propuesta de Valor</td>
+    <td>Como <strong>visitante y dueño de un restaurante</strong>, quiero entender rápidamente los beneficios principales de LogisPe en la página de inicio para decidir si es la solución que necesito.</td>
+    <td>
+      <strong>Dado</strong> que ingreso a la página de inicio de LogisPe,<br>
+      <strong>Cuando</strong> observo la sección principal (Hero),<br>
+      <strong>Entonces</strong> puedo leer un titular claro y un subtítulo que resumen la propuesta de valor en menos de 15 segundos.
+    </td>
+    <td>EP-06</td>
+  </tr>
+  <tr>
+    <td>LS-06.02</td>
+    <td>Explorar Características</td>
+    <td>Como <strong>visitante interesado</strong>, quiero navegar a una sección de "Características" para conocer en detalle qué funcionalidades ofrece el sistema.</td>
+    <td>
+      <strong>Dado</strong> que estoy en la página de inicio,<br>
+      <strong>Cuando</strong> hago clic en el enlace "Características" del menú de navegación,<br>
+      <strong>Entonces</strong> la página se desplaza suavemente hasta la sección que detalla las funcionalidades con texto e imágenes.
+    </td>
+    <td>EP-06</td>
+  </tr>
+  <tr>
+    <td>LS-06.03</td>
+    <td>Iniciar Proceso de Registro</td>
+    <td>Como <strong>visitante convencido</strong>, quiero encontrar fácilmente un botón de "Registrarse" o "Empezar ahora" para crear mi cuenta sin demoras.</td>
+    <td>
+      <strong>Dado</strong> que estoy en cualquier sección de la landing page,<br>
+      <strong>Cuando</strong> decido que quiero registrarme,<br>
+      <strong>Entonces</strong> puedo ver un botón de llamado a la acción (CTA) claramente visible en la barra de navegación y en el pie de página que me lleva al formulario de registro.
+    </td>
+    <td>EP-06</td>
+  </tr>
+</table>
+
 ## 3.2. Impact Mapping
 
-![ImpactMapping](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png)
+![ImpactMapping](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_III/impact_mapping/Impact%20map%201.png)
 
 ## 3.3. Product Backlog
 
 El **Product Backlog** es una lista ordenada y priorizada de todo el trabajo pendiente para el proyecto "LogisPe". Las Historias de Usuario se han estimado utilizando **Story Points** (siguiendo la secuencia 1, 2, 3, 5, 8) y se han organizado en función del **valor que aportan al negocio** y al usuario final. La priorización busca entregar las funcionalidades más críticas y de mayor impacto en las primeras iteraciones. Se han incluido las historias de la **Landing Page** al inicio, ya que son cruciales para la captación de clientes, seguidas por las funcionalidades centrales de la aplicación que resuelven los problemas más urgentes identificados en la fase de investigación.
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>#Orden</th>
+    <th>User Story ID</th>
+    <th>Título</th>
+    <th>Descripción (resumen)</th>
+    <th>Story Points</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>LS-06.01</td>
+    <td>Ver Propuesta de Valor</td>
+    <td>Como visitante, quiero entender los beneficios de LogisPe en la página de inicio.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>US-02.02</td>
+    <td>Visualizar Stock en Tiempo Real</td>
+    <td>Como cocinero, quiero ver la lista de insumos con su cantidad disponible.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>US-02.01</td>
+    <td>Añadir Nuevo Insumo</td>
+    <td>Como administrador, quiero añadir un nuevo insumo a mi inventario con su stock inicial.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>US-03.01</td>
+    <td>Crear una Receta</td>
+    <td>Como administrador, quiero crear una receta especificando insumos y cantidades.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>US-05.01</td>
+    <td>Alerta de Stock Bajo</td>
+    <td>Como administrador, quiero recibir una notificación cuando el stock de un insumo esté bajo.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>US-05.02</td>
+    <td>Generar Reporte de Consumo</td>
+    <td>Como dueño, quiero generar un reporte de consumo de insumos por rango de fechas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>US-02.03</td>
+    <td>Búsqueda y Filtro de Insumos</td>
+    <td>Como cocinero, quiero buscar y filtrar insumos por nombre o categoría.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>LS-06.02</td>
+    <td>Explorar Características</td>
+    <td>Como visitante, quiero navegar a una sección de "Características" en la Landing Page.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>US-01.01</td>
+    <td>Registro de Nueva Empresa</td>
+    <td>Como administrador, quiero registrar mi negocio en la plataforma.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>LS-06.03</td>
+    <td>Iniciar Proceso de Registro</td>
+    <td>Como visitante, quiero encontrar fácilmente un botón para registrarme.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>US-04.01</td>
+    <td>Registrar un Proveedor</td>
+    <td>Como administrador, quiero registrar los datos de mis proveedores.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>US-01.02</td>
+    <td>Inicio de Sesión Seguro</td>
+    <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>US-04.02</td>
+    <td>Generar Orden de Compra</td>
+    <td>Como administrador, quiero generar una orden de compra para un proveedor.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US-02.04</td>
+    <td>Registrar Merma o Desperdicio</td>
+    <td>Como almacenero, quiero registrar la pérdida de un insumo para mantener el stock exacto.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US-03.02</td>
+    <td>Calcular Costo de Receta</td>
+    <td>Como administrador, quiero que el sistema calcule el costo de una receta automáticamente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>US-02.05</td>
+    <td>Ver Historial de Movimientos</td>
+    <td>Como administrador, quiero ver el historial de movimientos de un insumo (compras, ventas, mermas).</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US-05.03</td>
+    <td>Reporte de Rentabilidad por Plato</td>
+    <td>Como dueño, quiero un reporte que muestre la rentabilidad de cada plato del menú.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US-04.03</td>
+    <td>Registrar Recepción de Compra</td>
+    <td>Como almacenero, quiero marcar una orden de compra como "Recibida" para que el stock se actualice.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US-02.06</td>
+    <td>Asignar Categorías a Insumos</td>
+    <td>Como administrador, quiero poder crear y asignar categorías a mis insumos (ej. Lácteos, Carnes).</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US-01.03</td>
+    <td>Gestión de Roles de Usuario</td>
+    <td>Como administrador, quiero asignar roles (Cocinero, Almacenero) a los miembros de mi equipo.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>US-05.04</td>
+    <td>Exportar Reportes a PDF/CSV</td>
+    <td>Como administrador, quiero exportar cualquier reporte en formato PDF o CSV.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>US-03.03</td>
+    <td>Editar una Receta Existente</td>
+    <td>Como administrador, quiero poder editar los ingredientes o cantidades de una receta ya creada.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>US-04.04</td>
+    <td>Directorio de Proveedores</td>
+    <td>Como administrador, quiero tener una vista de todos mis proveedores con sus datos de contacto.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>US-01.04</td>
+    <td>Editar Perfil de Usuario</td>
+    <td>Como usuario, quiero poder cambiar mi nombre y contraseña en mi perfil.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>US-05.05</td>
+    <td>Dashboard Principal con KPIs</td>
+    <td>Como administrador, quiero ver un dashboard con indicadores clave al iniciar sesión.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>US-02.07</td>
+    <td>Alerta de Caducidad Próxima</td>
+    <td>Como almacenero, quiero recibir alertas sobre insumos que están por vencer.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>US-04.05</td>
+    <td>Ver Historial de Compras</td>
+    <td>Como administrador, quiero ver un historial de todas las órdenes de compra realizadas a un proveedor.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>US-05.06</td>
+    <td>Reporte de Mermas</td>
+    <td>Como dueño, quiero un reporte que me muestre las mermas por insumo en un período.</td>
+    <td>5</td>
+  </tr>
+</table>
 
-***
-
-| #Orden | User Story ID | Título | Descripción (resumen) | Story Points |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | LS-06.01 | Ver Propuesta de Valor | Como visitante, quiero entender los beneficios de LogisPe en la página de inicio. | 2 |
-| 2 | US-02.02 | Visualizar Stock en Tiempo Real | Como cocinero, quiero ver la lista de insumos con su cantidad disponible. | 5 |
-| 3 | US-02.01 | Añadir Nuevo Insumo | Como administrador, quiero añadir un nuevo insumo a mi inventario con su stock inicial. | 3 |
-| 4 | US-03.01 | Crear una Receta | Como administrador, quiero crear una receta especificando insumos y cantidades. | 5 |
-| 5 | US-05.01 | Alerta de Stock Bajo | Como administrador, quiero recibir una notificación cuando el stock de un insumo esté bajo. | 3 |
-| 6 | US-05.02 | Generar Reporte de Consumo | Como dueño, quiero generar un reporte de consumo de insumos por rango de fechas. | 5 |
-| 7 | US-02.03 | Búsqueda y Filtro de Insumos | Como cocinero, quiero buscar y filtrar insumos por nombre o categoría. | 3 |
-| 8 | LS-06.02 | Explorar Características | Como visitante, quiero navegar a una sección de "Características" en la Landing Page. | 1 |
-| 9 | US-01.01 | Registro de Nueva Empresa | Como administrador, quiero registrar mi negocio en la plataforma. | 3 |
-| 10 | LS-06.03 | Iniciar Proceso de Registro | Como visitante, quiero encontrar fácilmente un botón para registrarme. | 1 |
-| 11 | US-04.01 | Registrar un Proveedor | Como administrador, quiero registrar los datos de mis proveedores. | 2 |
-| 12 | US-01.02 | Inicio de Sesión Seguro | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña. | 2 |
-| 13 | US-04.02 | Generar Orden de Compra | Como administrador, quiero generar una orden de compra para un proveedor. | 3 |
-| 14 | US-02.04 | Registrar Merma o Desperdicio | Como almacenero, quiero registrar la pérdida de un insumo para mantener el stock exacto. | 3 |
-| 15 | US-03.02 | Calcular Costo de Receta | Como administrador, quiero que el sistema calcule el costo de una receta automáticamente. | 3 |
-| 16 | US-02.05 | Ver Historial de Movimientos | Como administrador, quiero ver el historial de movimientos de un insumo (compras, ventas, mermas). | 5 |
-| 17 | US-05.03 | Reporte de Rentabilidad por Plato | Como dueño, quiero un reporte que muestre la rentabilidad de cada plato del menú. | 8 |
-| 18 | US-04.03 | Registrar Recepción de Compra | Como almacenero, quiero marcar una orden de compra como "Recibida" para que el stock se actualice. | 3 |
-| 19 | US-02.06 | Asignar Categorías a Insumos | Como administrador, quiero poder crear y asignar categorías a mis insumos (ej. Lácteos, Carnes). | 2 |
-| 20 | US-01.03 | Gestión de Roles de Usuario | Como administrador, quiero asignar roles (Cocinero, Almacenero) a los miembros de mi equipo. | 3 |
-| 21 | US-05.04 | Exportar Reportes a PDF/CSV | Como administrador, quiero exportar cualquier reporte en formato PDF o CSV. | 3 |
-| 22 | US-03.03 | Editar una Receta Existente | Como administrador, quiero poder editar los ingredientes o cantidades de una receta ya creada. | 2 |
-| 23 | US-04.04 | Directorio de Proveedores | Como administrador, quiero tener una vista de todos mis proveedores con sus datos de contacto. | 2 |
-| 24 | US-01.04 | Editar Perfil de Usuario | Como usuario, quiero poder cambiar mi nombre y contraseña en mi perfil. | 2 |
-| 25 | US-05.05 | Dashboard Principal con KPIs | Como administrador, quiero ver un dashboard con indicadores clave al iniciar sesión. | 8 |
-| 26 | US-02.07 | Alerta de Caducidad Próxima | Como almacenero, quiero recibir alertas sobre insumos que están por vencer. | 5 |
-| 27 | US-04.05 | Ver Historial de Compras | Como administrador, quiero ver un historial de todas las órdenes de compra realizadas a un proveedor. | 3 |
-| 28 | US-05.06 | Reporte de Mermas | Como dueño, quiero un reporte que me muestre las mermas por insumo en un período. | 5 |
-
+<div style="page-break-after: always;"></div>
 
 # Capítulo IV: Product Design
 
@@ -1435,21 +2237,21 @@ El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logis
 
 #### Logo:
 
-![Logo](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png) 
+![Logo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Logo.png)
 
 #### Colores:
 
-![Colores](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png)
+![Colores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Colores.png)
 
 #### Tipografía:
 
 La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra:
 
-![Tipografia](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png)
+![Tipografia](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Tipografia.png)
 
 #### Espaciado:
 
-![Espaciado](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png)
+![Espaciado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_I/Basic%20Images/Espaciado.png)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1540,36 +2342,36 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.3.1. Landing Page Wireframe
 
 #### Home Wireframe
-![HomeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png)
+![Home Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Home.png)
 
 #### About Us Wireframe
-![AboutWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png)
+![About Us Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/About%20Us.png)
 
 #### Learn More Wireframe
-![LearnWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png)
+![Learn More Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Learn%20More%20(1).png)
 
 #### Suscribe Wireframe
-![SuscribeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png)
+![Suscribe Wireframe](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_wireframe/Suscribe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### Home Mockup
-![HomeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png)
+![Home Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Home-Mock.png)
 
 #### About Us Mockup
-![AboutMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png)
+![About Us Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/About%20Us-Mock.png)
 
 #### Learn More Mockup
-![LearnMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png)
+![Learn More Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Learn%20More-Mock%20(1).png)
 
 #### Suscribe Mockup
-![SuscribeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png)
+![Suscribe Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Suscribe-Mock.png)
 
 #### Login Mockup
-![LoginMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png)
+![Login Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Login.png)
 
 #### Register Mockup
-![RegisterMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png)
+![Register Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/landing_page_mockup/Register.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1599,7 +2401,7 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![Wireflow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png)
+![Wireflow](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/wen_applications_diagrams/Wireframe-Wireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1629,7 +2431,7 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-![UserFlow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png)
+![UserFlow](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_IV/user_flow_diagrams/Mockup-Wireflow.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -1640,26 +2442,28 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
-![Design-Level Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png)
+![Design-Level Event Storming](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/event_storming/DesignLevelEventStorming.png)
 
 ### 4.6.2. Software Architecture Context Diagram
-![Software Architecture Context Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Context%20Diagram.png)
+![Diagrama de Contexto](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/context_diagram/ContextDiagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
-![Software Architecture Container Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Container%20Diagrams.png)
+![Diagrama de Contenedores](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/container_diagrams/ContainerDiagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
-![Software Architecture Components Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Components%20Diagrams.png)
+![Diagrama de Componentes](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/0e7acaf5a66d10729dbd11f31250259339b28403/assets/chapter_IV/components_diagrams/ComponentDiagram.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png)
+![Class Diagrams](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/4dcf90a3207db969fbc4bd03d8f7bcee59555cd4/assets/chapter_IV/class_diagrams/ClassDiagram.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png)
+![Database Diagram](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/database_diagram/Database.png)
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1701,7 +2505,7 @@ El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para
 
 - URL para acceder a nuestro reporte en GitHub: https://github.com/Aplicaciones-Web-CodeForge/Report
 
-- URL para acceder nuestro repositorio de Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page
+- URL para acceder nuestro repositorio de Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1875,13 +2679,51 @@ Para la puesta en línea de nuestro proyecto, utilizamos GitHub Pages, una plata
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) |
-| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
-| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
-| Rodrigo Fabrizio Aguilar Untiveros  | Rodri2712       | (C)                                                     | (C)                                                            | (C)                                                |
-| Alessandro Ramiro Condori Lozano    | AlessandroRCL   | (C)                                                     | (C)                                                            | (C)                                                |
-| Katherine Maryory Mejia Aliaga      | KathMJ          | (C)                                                     | (C)                                                            | (C)                                                |
-| Augusto Sebastian Montes Maza       | asmmaza         | (C)                                                     | (C)                                                            | (C)                                                |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>Github Username</th>
+    <th>Diseño, wireframes landing Leader (L), Collaborator (C)</th>
+    <th>Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C)</th>
+    <th>Desplegar el servicio Leader (L), Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>K1ngHulk</td>
+    <td>(L)</td>
+    <td>(L)</td>
+    <td>(L)</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Fabrizio Aguilar Untiveros</td>
+    <td>Rodri2712</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Alessandro Ramiro Condori Lozano</td>
+    <td>AlessandroRCL</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Katherine Maryory Mejia Aliaga</td>
+    <td>KathMJ</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>asmmaza</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+</table>
+
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -1891,20 +2733,84 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 https://trello.com/invite/b/68cf9b5efdc693c0847bd189/ATTI824e909b5beee840ebf67f032d02795825FBB2F7/sprint-1-logispe
 
-![Sprint Backlog](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d253bd1316053141e81cd714db15425f7dded346/img/SprintBacklog1-LogisPe.png)
+![Sprint Backlog](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/sprint_backlog_1/SprintBacklog1-LogisPe.png)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
-| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|Landing Page|main| 23b653a | Initial commit  | create the README.md  | 16/09/2025 |
-|            |main| ac6322f | Create index.html  | create the index.html  | 17/09/2025 |
-|            |main| e557e41 | feat: added Section Home | added content in the section Home  | 17/09/2025 |
-|            |main| 3dab5df | feat: added assets carpet | create the assets carpet  | 17/09/2025 |
-|            |main| 80d023b | feat: added css carpet | create the css carpet  | 17/09/2025 |
-|            |main| 5b06e21 | feat: added javascript carpet | create the javascript carpet  | 17/09/2025 |
-|            |main| 0a8a575 | feat: added i18n.js file | create the i18n.js file | 17/09/2025 |
-|            |main| 6b71c13 | feat: added scripts | added content in the scripts section | 17/09/2025 |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td>Landing Page</td>
+    <td>main</td>
+    <td>23b653a</td>
+    <td>Initial commit</td>
+    <td>create the README.md</td>
+    <td>16/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>ac6322f</td>
+    <td>Create index.html</td>
+    <td>create the index.html</td>
+    <td>17/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>e557e41</td>
+    <td>feat: added Section Home</td>
+    <td>added content in the section Home</td>
+    <td>17/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>3dab5df</td>
+    <td>feat: added assets carpet</td>
+    <td>create the assets carpet</td>
+    <td>17/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>80d023b</td>
+    <td>feat: added css carpet</td>
+    <td>create the css carpet</td>
+    <td>17/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>5b06e21</td>
+    <td>feat: added javascript carpet</td>
+    <td>create the javascript carpet</td>
+    <td>17/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>0a8a575</td>
+    <td>feat: added i18n.js file</td>
+    <td>create the i18n.js file</td>
+    <td>17/09/2025</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>main</td>
+    <td>6b71c13</td>
+    <td>feat: added scripts</td>
+    <td>added content in the scripts section</td>
+    <td>17/09/2025</td>
+  </tr>
+</table>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1912,17 +2818,17 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-![Evidence1](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
+![Evidence1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia1-LogisPe.png)
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de LogisPe, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  ![Evidence2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)    
+  ![Evidence2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png) 
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    ![Evidence3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+    ![Evidence3](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
     
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para LogisPe.
 
@@ -1953,15 +2859,15 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
 
-2. ![Evidence4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
+2. ![Evidence4](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia1-LogisPe.png)
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. ![Evidence5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+4. ![Evidence5](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
 
-Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -1969,13 +2875,34 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
 
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de LogisPe. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.  
 
-| Author           | Task completed                                     |
-|------------------|----------------------------------------------------|
-| Mathias Javier    | create landing page design with HTML, CSS and JS  |
-| Rodrigo Aguilar   | desing landing page wireframes                    |
-| Alessandro Condori| desing landing page mockups                       |
-| Katherine Mejia   | deploy landing page with Github Pages             |
-| Augusto Montes    | support to deploy and fix errors with landing page|
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Author</th>
+    <th>Task completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier</td>
+    <td>create landing page design with HTML, CSS and JS</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Aguilar</td>
+    <td>desing landing page wireframes</td>
+  </tr>
+  <tr>
+    <td>Alessandro Condori</td>
+    <td>desing landing page mockups</td>
+  </tr>
+  <tr>
+    <td>Katherine Mejia</td>
+    <td>deploy landing page with Github Pages</td>
+  </tr>
+  <tr>
+    <td>Augusto Montes</td>
+    <td>support to deploy and fix errors with landing page</td>
+  </tr>
+</table>
+
+![Insights - TB1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
 
 ### 5.2.2. Sprint 2
 
@@ -2085,45 +3012,209 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | Github Username | Desarrollo Frontend de Vistas (Vue.js) Leader (L), Collaborator (C) | Configuración de Fake API (JSON Server) Leader (L), Collaborator (C) | Documentación y Corrección de Feedback Leader (L), Collaborator (C) |
-|---|---|---|---|---|
-| Mathias Javier Murillo | K1ngHulk | (L) | (L) | (C) |
-| Rodrigo Fabrizio Aguilar Untiveros | Rodri2712 | (C) | (C) | (C) |
-| Alessandro Ramiro Condori Lozano | AlessandroRCL | (C) | (L) | (C) |
-| Katherine Maryory Mejia Aliaga | KathMJ | (C) | (C) | (C) |
-| Augusto Sebastian Montes Maza | asmmaza | (C) | (C) | (L) |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>Github Username</th>
+    <th>Desarrollo Frontend de Vistas (Vue.js) Leader (L), Collaborator (C)</th>
+    <th>Configuración de Fake API (JSON Server) Leader (L), Collaborator (C)</th>
+    <th>Documentación y Corrección de Feedback Leader (L), Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>K1ngHulk</td>
+    <td>(L)</td>
+    <td>(L)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Fabrizio Aguilar Untiveros</td>
+    <td>Rodri2712</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Alessandro Ramiro Condori Lozano</td>
+    <td>AlessandroRCL</td>
+    <td>(C)</td>
+    <td>(L)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Katherine Maryory Mejia Aliaga</td>
+    <td>KathMJ</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>asmmaza</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(L)</td>
+  </tr>
+</table>
 
 #### 5.2.2.3. Sprint Backlog 2
 
 El objetivo del Sprint 2 fue materializar los diseños de la aplicación web en componentes funcionales. El equipo se enfocó en desarrollar las pantallas principales (Login, Register, Home, Stock, Orders, Recipes, Suppliers), asegurando una correcta gestión del estado y la interacción con una API simulada (Fake API) que proveyó los datos de prueba.
 
-| Sprint # | Sprint 2 | | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **User Story** | | | **Work-Item/Task** | | | | |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| US-01.01 | Registro de Nueva Empresa | TSK-01 | Maquetar la vista de Registro (Register) | Crear el componente con los campos de formulario requeridos (RUC, email, etc.). | 6 | Aguilar R. | Done |
-| US-01.02 | Inicio de Sesión Seguro | TSK-02 | Maquetar la vista de Inicio de Sesión (Login) | Crear el componente con los campos de email y contraseña. | 5 | Aguilar R. | Done |
-| N/A | Configuración de Fake API | TSK-03 | Definir y configurar los endpoints en JSON Server | Crear los archivos JSON con datos de prueba para usuarios, insumos, órdenes, etc. | 8 | Condori A. | Done |
-| | | TSK-04 | Implementar la lógica de autenticación simulada | Crear la lógica en el frontend para simular el login/register contra la Fake API. | 6 | Murillo M. | Done |
-| US-02.02 | Visualizar Stock en Tiempo Real | TSK-05 | Maquetar la vista "Stock Available" | Desarrollar la tabla principal que listará los insumos del inventario. | 8 | Murillo M. | Done |
-| | | TSK-06 | Conectar la vista "Stock Available" a la Fake API | Consumir el endpoint de insumos y renderizar los datos en la tabla. | 5 | Mejia K. | Done |
-| N/A | Maquetación Vistas Adicionales | TSK-07 | Desarrollar la vista "Orders" | Crear la interfaz para visualizar el listado de órdenes de compra. | 7 | Aguilar R. | Done |
-| | | TSK-08 | Desarrollar la vista "Recipes and Supplies" | Implementar la UI para listar y crear nuevas recetas. | 8 | Mejia K. | Done |
-| | | TSK-09 | Desarrollar la vista "Suppliers" | Crear la interfaz para visualizar el directorio de proveedores. | 6 | Condori A. | Done |
-| N/A | Documentación y Bugs | TSK-10 | Documentar el uso de los nuevos componentes | Actualizar el informe y el `README` con la descripción de las vistas creadas. | 5 | Montes A. | Done |
-| | | TSK-11 | Corregir errores de feedback de TB1 | Aplicar las correcciones observadas en el diseño y la estructura del informe. | 6 | Montes A. | Done |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th></th>
+    <th></th>
+    <th><strong>Work-Item/Task</strong></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td>US-01.01</td>
+    <td>Registro de Nueva Empresa</td>
+    <td>TSK-01</td>
+    <td>Maquetar la vista de Registro (Register)</td>
+    <td>Crear el componente con los campos de formulario requeridos (RUC, email, etc.).</td>
+    <td>6</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-01.02</td>
+    <td>Inicio de Sesión Seguro</td>
+    <td>TSK-02</td>
+    <td>Maquetar la vista de Inicio de Sesión (Login)</td>
+    <td>Crear el componente con los campos de email y contraseña.</td>
+    <td>5</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>N/A</td>
+    <td>Configuración de Fake API</td>
+    <td>TSK-03</td>
+    <td>Definir y configurar los endpoints en JSON Server</td>
+    <td>Crear los archivos JSON con datos de prueba para usuarios, insumos, órdenes, etc.</td>
+    <td>8</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-04</td>
+    <td>Implementar la lógica de autenticación simulada</td>
+    <td>Crear la lógica en el frontend para simular el login/register contra la Fake API.</td>
+    <td>6</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-02.02</td>
+    <td>Visualizar Stock en Tiempo Real</td>
+    <td>TSK-05</td>
+    <td>Maquetar la vista "Stock Available"</td>
+    <td>Desarrollar la tabla principal que listará los insumos del inventario.</td>
+    <td>8</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-06</td>
+    <td>Conectar la vista "Stock Available" a la Fake API</td>
+    <td>Consumir el endpoint de insumos y renderizar los datos en la tabla.</td>
+    <td>5</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>N/A</td>
+    <td>Maquetación Vistas Adicionales</td>
+    <td>TSK-07</td>
+    <td>Desarrollar la vista "Orders"</td>
+    <td>Crear la interfaz para visualizar el listado de órdenes de compra.</td>
+    <td>7</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-08</td>
+    <td>Desarrollar la vista "Recipes and Supplies"</td>
+    <td>Implementar la UI para listar y crear nuevas recetas.</td>
+    <td>8</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-09</td>
+    <td>Desarrollar la vista "Suppliers"</td>
+    <td>Crear la interfaz para visualizar el directorio de proveedores.</td>
+    <td>6</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>N/A</td>
+    <td>Documentación y Bugs</td>
+    <td>TSK-10</td>
+    <td>Documentar el uso de los nuevos componentes</td>
+    <td>Actualizar el informe y el <code>README</code> con la descripción de las vistas creadas.</td>
+    <td>5</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-11</td>
+    <td>Corregir errores de feedback de TB1</td>
+    <td>Aplicar las correcciones observadas en el diseño y la estructura del informe.</td>
+    <td>6</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp1.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp1.png)
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp2.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp2.png)
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2131,25 +3222,46 @@ Durante este sprint, el desarrollo del frontend se basó en una **Fake API** uti
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+![EvidenciaDeploy](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 2, la colaboración se centró en la construcción de las pantallas principales de la aplicación web. El equipo trabajó de manera coordinada para transformar los diseños en componentes de software funcionales, utilizando una API simulada para desacoplar el trabajo.
 
-| Author | Task completed |
-|---|---|
-| Mathias Javier Murillo | Lideró el desarrollo frontend, implementó la vista "Stock Available" y la lógica de autenticación simulada. |
-| Rodrigo Aguilar | Desarrolló las vistas de "Login", "Register" y "Orders", asegurando su correcta funcionalidad. |
-| Alessandro Condori | Lideró la configuración de la Fake API con JSON Server, definiendo los datos de prueba. También desarrolló la vista "Suppliers". |
-| Katherine Mejia | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API. |
-| Augusto Sebastian Montes Maza | Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1. |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Author</th>
+    <th>Task completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>Lideró el desarrollo frontend, implementó la vista "Stock Available" y la lógica de autenticación simulada.</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Aguilar</td>
+    <td>Desarrolló las vistas de "Login", "Register" y "Orders", asegurando su correcta funcionalidad.</td>
+  </tr>
+  <tr>
+    <td>Alessandro Condori</td>
+    <td>Lideró la configuración de la Fake API con JSON Server, definiendo los datos de prueba. También desarrolló la vista "Suppliers".</td>
+  </tr>
+  <tr>
+    <td>Katherine Mejia</td>
+    <td>Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API.</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1.</td>
+  </tr>
+</table>
 
-![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
+![EvidenciaCommits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/CommitsTP.png)
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/Commits.png)
+
+![Insights - TP](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
 
 ## 5.2.3. Sprint 3
 
@@ -2238,76 +3350,295 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
-<!-- Igual, un cuadro igual al anterior, con las diferentes tareas realizadas, los miembros del equipo asignados y si son Leader (L) o Collaborator (C) -->
-| Team Member (Last Name, First Name) | Github Username | Desarrollo Backend Avanzado (DDD) Leader (L), Collaborator (C) | Integración Frontend–Backend Sprint 3 Leader (L), Collaborator (C) | Entrevistas de Validación y Análisis Leader (L), Collaborator (C) |
-| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
-| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
-| Rodrigo Fabrizio Aguilar Untiveros  | Rodri2712       | (C)                                                     | (C)                                                            | (C)                                                |
-| Alessandro Ramiro Condori Lozano    | AlessandroRCL   | (C)                                                     | (C)                                                            | (C)                                                |
-| Katherine Maryory Mejia Aliaga      | KathMJ          | (C)                                                     | (C)                                                            | (C)                                                |
-| Augusto Sebastian Montes Maza       | asmmaza         | (C)                                                     | (C)                                                            | (C)                                                |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>Github Username</th>
+    <th>Desarrollo Backend Avanzado (DDD) Leader (L), Collaborator (C)</th>
+    <th>Integración Frontend–Backend Sprint 3 Leader (L), Collaborator (C)</th>
+    <th>Entrevistas de Validación y Análisis Leader (L), Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>K1ngHulk</td>
+    <td>(L)</td>
+    <td>(L)</td>
+    <td>(L)</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Fabrizio Aguilar Untiveros</td>
+    <td>Rodri2712</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Alessandro Ramiro Condori Lozano</td>
+    <td>AlessandroRCL</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Katherine Maryory Mejia Aliaga</td>
+    <td>KathMJ</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>asmmaza</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+</table>
+
 ### 5.2.3.3. Sprint Backlog 3
 
 El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de LogisPe, incluyendo los módulos Inventory, Suppliers y Stores, siguiendo un enfoque de bounded contexts. Además, se documentaron los endpoints con Swagger y se preparó el entorno de despliegue para dejar listo el backend para su integración con el frontend en siguientes iteraciones.
 
-| Sprint # | Sprint 3 | | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **User Story** | | | **Work-Item/Task** | | | | |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| US-03.01 | Implementar Módulo Inventory (DDD) | TSK-01 | Crear entidades y Value Objects del módulo Inventory | Implementar entidades Item, Category y StockMovement siguiendo DDD. | 8 | Murillo M. | Done |
-| | | TSK-02 | Implementar servicios del módulo Inventory | Crear lógica de dominio para registrar insumos, actualizar stock y registrar movimientos. | 6 | Aguilar R. | Done |
-| | | TSK-03 | Crear controladores REST del módulo Inventory | Implementar endpoints CRUD para Items, Categories y Stock Movements. | 5 | Mejia K. | Done |
-| US-03.02 | Implementar Módulo Suppliers (DDD) | TSK-04 | Implementar entidades y repositorios de Suppliers | Crear entidades Supplier, ContactInfo y repositorios asociados. | 7 | Condori A. | Done |
-| | | TSK-05 | Implementar servicios del módulo Suppliers | Lógica de registro, actualización y búsqueda de proveedores. | 5 | Montes A. | Done |
-| | | TSK-06 | Crear controladores REST para Suppliers | Definir endpoints CRUD con validaciones. | 5 | Mejia K. | Done |
-| US-03.03 | Implementar Módulo Stores (DDD) | TSK-07 | Crear entidades Store y Warehouse | Implementar estructura de datos para gestionar múltiples almacenes. | 6 | Murillo M. | Done |
-| | | TSK-08 | Implementar servicios del módulo Stores | Lógica para creación de tiendas, asignación de inventario y rutas. | 6 | Aguilar R. | Done |
-| | | TSK-09 | Controladores REST de Stores | Definir endpoints y validaciones específicas del módulo. | 5 | Condori A. | Done |
-| US-03.04 | Documentación Técnica del Backend | TSK-10 | Documentar arquitectura DDD | Redacción de estructura del backend, bounded contexts y flujos. | 4 | Montes A. | Done |
-| | | TSK-11 | Implementar Swagger para API | Generar documentación interactiva de todos los endpoints. | 3 | Mejia K. | Done |
-| US-03.05 | Preparar Despliegue del Backend | TSK-12 | Configurar entorno Docker para backend | Crear Dockerfile y docker-compose para entorno de pruebas. | 5 | Aguilar R. | Done |
-| | | TSK-13 | Deploy en servidor de pruebas | Desplegar backend en Render/Fly.io y validar funcionamiento. | 4 | Murillo M. | Done |
-| US-03.06 | Validaciones y Entrevistas Técnicas | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
-| | | TSK-15 | Realizar entrevistas de validación técnica | Validar arquitectura, endpoints y casos de uso con el equipo. | 3 | Aguilar R. | Done |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th></th>
+    <th></th>
+    <th><strong>Work-Item/Task</strong></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td>US-03.01</td>
+    <td>Implementar Módulo Inventory (DDD)</td>
+    <td>TSK-01</td>
+    <td>Crear entidades y Value Objects del módulo Inventory</td>
+    <td>Implementar entidades Item, Category y StockMovement siguiendo DDD.</td>
+    <td>8</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-02</td>
+    <td>Implementar servicios del módulo Inventory</td>
+    <td>Crear lógica de dominio para registrar insumos, actualizar stock y registrar movimientos.</td>
+    <td>6</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-03</td>
+    <td>Crear controladores REST del módulo Inventory</td>
+    <td>Implementar endpoints CRUD para Items, Categories y Stock Movements.</td>
+    <td>5</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-03.02</td>
+    <td>Implementar Módulo Suppliers (DDD)</td>
+    <td>TSK-04</td>
+    <td>Implementar entidades y repositorios de Suppliers</td>
+    <td>Crear entidades Supplier, ContactInfo y repositorios asociados.</td>
+    <td>7</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-05</td>
+    <td>Implementar servicios del módulo Suppliers</td>
+    <td>Lógica de registro, actualización y búsqueda de proveedores.</td>
+    <td>5</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-06</td>
+    <td>Crear controladores REST para Suppliers</td>
+    <td>Definir endpoints CRUD con validaciones.</td>
+    <td>5</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-03.03</td>
+    <td>Implementar Módulo Stores (DDD)</td>
+    <td>TSK-07</td>
+    <td>Crear entidades Store y Warehouse</td>
+    <td>Implementar estructura de datos para gestionar múltiples almacenes.</td>
+    <td>6</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-08</td>
+    <td>Implementar servicios del módulo Stores</td>
+    <td>Lógica para creación de tiendas, asignación de inventario y rutas.</td>
+    <td>6</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-09</td>
+    <td>Controladores REST de Stores</td>
+    <td>Definir endpoints y validaciones específicas del módulo.</td>
+    <td>5</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-03.04</td>
+    <td>Documentación Técnica del Backend</td>
+    <td>TSK-10</td>
+    <td>Documentar arquitectura DDD</td>
+    <td>Redacción de estructura del backend, bounded contexts y flujos principales.</td>
+    <td>4</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-11</td>
+    <td>Implementar Swagger para API</td>
+    <td>Generar documentación interactiva de todos los endpoints.</td>
+    <td>3</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-03.05</td>
+    <td>Preparar Despliegue del Backend</td>
+    <td>TSK-12</td>
+    <td>Configurar entorno Docker para backend</td>
+    <td>Crear Dockerfile y docker-compose para entorno de pruebas.</td>
+    <td>5</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-13</td>
+    <td>Deploy en servidor de pruebas</td>
+    <td>Desplegar backend en Render/Fly.io y validar funcionamiento.</td>
+    <td>4</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-03.06</td>
+    <td>Validaciones y Ajustes Técnicos</td>
+    <td>TSK-14</td>
+    <td>Ajustar backend según feedback del equipo</td>
+    <td>Resolver bugs, mejorar estructura y normalización.</td>
+    <td>4</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-15</td>
+    <td>Validaciones técnicas internas</td>
+    <td>Revisar arquitectura, endpoints y consistencia entre módulos.</td>
+    <td>3</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
-![commits](assets/captura1.png)
-![commits](assets/captura2.png)
-![commits](assets/captura3.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura1.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura2.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura3.png)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-![EvidenciaSwagger](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/327dc3bb1466da1e80ddc1c34e9d5007d6cc114b/img/Swagger.png)
+![EvidenciaSwagger](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/execution_evidence_sprint_review/Swagger.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint, el desarrollo del backend se centró en la implementación de la arquitectura basada en **Domain-Driven Design (DDD)** y la creación de la **API real** de LogisPe. Toda la estructura de endpoints para los módulos Inventory, Suppliers y Stores fue documentada mediante **Swagger/OpenAPI**, permitiendo visualizar, probar y validar cada recurso del sistema.  
-La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, casos de uso, repositorios y flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
+La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, la estructura de servicios, repositorios, recursos expuestos por la API y el flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-- Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, la colaboración se centró en la construcción completa del backend, siguiendo una estructura por bounded contexts. El equipo trabajó de manera coordinada para desarrollar los módulos Inventory, Suppliers y Stores, documentar todos los endpoints con Swagger y preparar el despliegue del backend en un entorno de pruebas. La comunicación continua permitió revisar pull requests, resolver inconsistencias y asegurar estándares comunes entre todos los módulos.
 
-| Author | Task completed |
-|---|---|
-| Mathias Javier Murillo | Implementó entidades, controladores y despliegue de prueba del módulo Inventory. |
-| Rodrigo Aguilar | Implementó servicios clave en los módulos Inventory y Stores, y configuró Docker y despliegue. |
-| Alessandro Condori | Implementó entidades, repositorios y endpoints del módulo Suppliers. |
-| Katherine Mejia | Implementó controladores, validaciones y documentación Swagger para múltiples módulos. |
-| Augusto Sebastian Montes Maza | Documentó la arquitectura DDD, refinó casos de uso y realizó validaciones técnicas internas. |
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Author</th>
+    <th>Task completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>Implementó entidades, controladores y el despliegue de prueba del módulo Inventory.</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Aguilar</td>
+    <td>Implementó servicios clave en los módulos Inventory y Stores, y configuró Docker y despliegue.</td>
+  </tr>
+  <tr>
+    <td>Alessandro Condori</td>
+    <td>Implementó entidades, repositorios y endpoints del módulo Suppliers.</td>
+  </tr>
+  <tr>
+    <td>Katherine Mejia</td>
+    <td>Implementó controladores, validaciones y documentación Swagger para múltiples módulos.</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>Documentó la arquitectura DDD y realizó validaciones técnicas internas.</td>
+  </tr>
+</table>
 
-![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
+![EvidenciaCommits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/CommitsTP.png)
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/Commits.png)
 
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
@@ -2318,6 +3649,378 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
 Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend:
 
 ![Commits Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Frontend.PNG)
+
+![Insights - Tablero 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB2.jpg)
+
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+
+<tr align="left">
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+</tr>
+
+<tr align="left">
+    <td><b>Date</b></td>
+    <td>30/11/2025</td>
+</tr>
+
+<tr align="left">
+    <td><b>Time</b></td>
+    <td>21:00</td>
+</tr>
+
+<tr align="left">
+    <td><b>Location</b></td>
+    <td>Modalidad Online – Vía Discord</td>
+</tr>
+
+<tr align="left">
+    <td><b>Prepared By</b></td>
+    <td>Equipo de LogisPe</td>
+</tr>
+
+<tr align="left">
+    <td><b>Attendees (to planning meeting)</b></td>
+    <td>
+        - Murillo, Mathias Javier<br>
+        - Aguilar Untiveros, Rodrigo Fabrizio<br>
+        - Condori Lozano, Alessandro Ramiro<br>
+        - Mejia Aliaga, Katherine Maryory<br>
+        - Montes Maza, Augusto Sebastián<br>
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Review Summary</b></td>
+    <td>
+        Durante el Sprint 3 se culminó el desarrollo del backend de LogisPe bajo un enfoque de 
+        Domain-Driven Design (DDD), implementando los bounded contexts principales, entidades de dominio, 
+        value objects, services, repositories y controllers. Asimismo, se documentaron los endpoints 
+        mediante Swagger/OpenAPI y se validó el correcto funcionamiento de la API con pruebas funcionales, 
+        dejando la base técnica preparada para su consumo por el frontend.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Retrospective Summary</b></td>
+    <td>
+        En la retrospectiva del Sprint 3 se identificó como principal fortaleza la correcta alineación 
+        arquitectónica del equipo y la calidad del código backend. Como oportunidad de mejora, se resaltó 
+        la necesidad de integrar completamente el frontend con el backend real, reemplazando la Fake API, 
+        así como realizar pruebas end-to-end y fortalecer el manejo de errores y validaciones desde la 
+        interfaz de usuario.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 4 Goal</b></td>
+    <td>
+        El objetivo del Sprint 4 es realizar la integración completa entre el frontend y el backend real 
+        de LogisPe, asegurando el consumo correcto de los servicios REST implementados. Además, se busca 
+        validar los flujos funcionales end-to-end, garantizar la persistencia correcta de los datos, 
+        mejorar el manejo de errores y preparar la aplicación para su despliegue en un entorno de pruebas. 
+        Este sprint se considerará exitoso cuando los módulos principales funcionen de forma integrada 
+        desde la interfaz web hasta la base de datos.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 4 Velocity</b></td>
+    <td>26</td>
+</tr>
+
+<tr align="left">
+    <td><b>Sum of Story Points</b></td>
+    <td>26</td>
+</tr>
+
+</table>
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>Github Username</th>
+    <th>Integración Frontend–Backend Real Leader (L), Collaborator (C)</th>
+    <th>Pruebas E2E y Validación de Flujos Leader (L), Collaborator (C)</th>
+    <th>Manejo de Errores y Ajustes de UI/UX Leader (L), Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>K1ngHulk</td>
+    <td>(L)</td>
+    <td>(L)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Fabrizio Aguilar Untiveros</td>
+    <td>Rodri2712</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Alessandro Ramiro Condori Lozano</td>
+    <td>AlessandroRCL</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(L)</td>
+  </tr>
+  <tr>
+    <td>Katherine Maryory Mejia Aliaga</td>
+    <td>KathMJ</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>asmmaza</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+</table>
+
+### 5.2.4.3. Sprint Backlog 4
+
+El objetivo del Sprint 4 fue realizar la integración completa entre el frontend y el backend real de LogisPe, reemplazando la Fake API por los servicios REST implementados. Se enfocó en conectar los módulos principales, validar los flujos end-to-end, mejorar el manejo de errores y realizar ajustes de UI/UX basados en el feedback de las entrevistas de validación.
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th></th>
+    <th></th>
+    <th><strong>Work-Item/Task</strong></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td>US-04.01</td>
+    <td>Integración Módulo Inventory</td>
+    <td>TSK-01</td>
+    <td>Reemplazar Fake API por backend real en vista "Stock"</td>
+    <td>Modificar servicios frontend para consumir endpoints reales de Inventory.</td>
+    <td>6</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-02</td>
+    <td>Implementar CRUD de insumos con backend real</td>
+    <td>Conectar formularios de creación, edición y eliminación a la API real.</td>
+    <td>5</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.02</td>
+    <td>Integración Módulo Suppliers</td>
+    <td>TSK-03</td>
+    <td>Conectar vista "Suppliers" al backend real</td>
+    <td>Consumir endpoints de proveedores y mostrar datos persistentes.</td>
+    <td>4</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-04</td>
+    <td>Implementar registro y edición de proveedores en tiempo real</td>
+    <td>Validar formularios y enviar datos al backend.</td>
+    <td>5</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.03</td>
+    <td>Integración Módulo Stores</td>
+    <td>TSK-05</td>
+    <td>Conectar gestión de almacenes a backend</td>
+    <td>Mostrar y gestionar almacenes desde la API real.</td>
+    <td>6</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.04</td>
+    <td>Validación de Flujos E2E</td>
+    <td>TSK-06</td>
+    <td>Realizar pruebas de integración para flujo "Registro → Login → Dashboard"</td>
+    <td>Verificar persistencia de sesión y navegación tras autenticación real.</td>
+    <td>5</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-07</td>
+    <td>Probar flujo completo de "Crear insumo → Ver en stock → Actualizar stock"</td>
+    <td>Asegurar que los datos persistan y se reflejen correctamente en todas las vistas.</td>
+    <td>6</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.05</td>
+    <td>Mejora de Manejo de Errores</td>
+    <td>TSK-08</td>
+    <td>Implementar mensajes de error claros en formularios</td>
+    <td>Mostrar feedback específico para errores de validación del backend.</td>
+    <td>4</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-09</td>
+    <td>Manejar estados de carga y timeouts en llamadas API</td>
+    <td>Agregar spinners y manejo de errores de red.</td>
+    <td>3</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.06</td>
+    <td>Ajustes de UI/UX según feedback</td>
+    <td>TSK-10</td>
+    <td>Mejorar contraste y visibilidad de alertas de stock</td>
+    <td>Aplicar recomendaciones de heurísticas de usabilidad.</td>
+    <td>4</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-11</td>
+    <td>Simplificar formularios extensos</td>
+    <td>Agrupar campos y usar acordeones para mejorar la experiencia de usuario.</td>
+    <td>5</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.07</td>
+    <td>Despliegue Integrado</td>
+    <td>TSK-12</td>
+    <td>Actualizar variables de entorno para producción</td>
+    <td>Configurar URLs de backend real en el frontend desplegado.</td>
+    <td>3</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-13</td>
+    <td>Realizar despliegue simultáneo y verificar integración</td>
+    <td>Asegurar que frontend y backend comunican correctamente en entorno de producción.</td>
+    <td>4</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.08</td>
+    <td>Documentación de Integración</td>
+    <td>TSK-14</td>
+    <td>Actualizar documentación con flujos integrados</td>
+    <td>Documentar cambios en la integración y nuevos endpoints consumidos.</td>
+    <td>3</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+![Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0b86e5e8bde5c1b0ea60c845a59115cb2f07b06c/assets/chapter_V/execution_evidence_sprint_review/Swagger.png)
+
+![Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0b86e5e8bde5c1b0ea60c845a59115cb2f07b06c/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 se completó la integración del frontend con el backend real, reemplazando completamente la Fake API. Se actualizó la documentación de Swagger/OpenAPI para reflejar los endpoints consumidos por el frontend y se agregaron ejemplos específicos de request/response para las operaciones CRUD de los módulos Inventory, Suppliers y Stores. Además, se documentaron los flujos de error y los códigos de estado HTTP manejados por la interfaz, asegurando una referencia clara para el mantenimiento y futuras extensiones.
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+- **Landing Page desplegada:** https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
+- **Frontend integrado desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
+- **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
+- **Enlace de verificación de integración:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/stock (consumiendo backend real)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-backend, trabajando de manera coordinada para reemplazar la Fake API, validar flujos end-to-end y realizar ajustes de UI/UX basados en el feedback de las entrevistas. La comunicación fue clave para resolver dependencias y asegurar que los cambios fueran consistentes en todos los módulos.
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Author</th>
+    <th>Task completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>Lideró la integración del módulo Inventory y Stores, y configuró el despliegue integrado.</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Aguilar</td>
+    <td>Implementó la conexión CRUD de insumos y realizó pruebas de flujos E2E.</td>
+  </tr>
+  <tr>
+    <td>Alessandro Condori</td>
+    <td>Integró el módulo Suppliers y realizó ajustes de UI/UX para simplificar formularios.</td>
+  </tr>
+  <tr>
+    <td>Katherine Mejia</td>
+    <td>Conectó el registro/edición de proveedores y mejoró el manejo de errores en frontend.</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>Implementó mejoras de visibilidad de alertas y manejó estados de carga/errores.</td>
+  </tr>
+</table>
+
+![Insights - Tablero 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
+![Insights - Tablero Principal](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
+![Insights - Tablero 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB2.jpg)
+
 
 ### 5.3. Validation Interviews
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
@@ -2334,8 +4037,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 5. ¿Cuántos años de experiencia tienes en el rubro gastronómico?
 6. ¿Cuántas personas trabajan en tu negocio?
 7. ¿Cómo describirías un día típico de operación en tu negocio?
-
----
 
 # Segmento: Dueños de Restobares y Restaurantes
 
@@ -2356,8 +4057,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 10. ¿Qué no debería tener un sistema de inventario para no volverse complejo o estorboso?
 11. ¿Cómo medirías si la herramienta está funcionando para tu negocio?
 
----
-
 # Segmento: Dueños de Cafeterías y Bares
 
 ## Sobre posibles soluciones
@@ -2370,8 +4069,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 15. ¿Qué haría que un sistema como LogisPe realmente valga la pena para ti?
 16. ¿Qué función crees que no usarías nunca?
 17. ¿Qué características agregarías pensando en tu operación específica?
-
----
 
 # Segmento: Dueños de Emprendimientos Gastronómicos (food trucks, dark kitchens, pequeños negocios)
 
@@ -2404,7 +4101,12 @@ Entrevista 1
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
 **Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)  
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX): https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX
+
+**Resumen**
+Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.
 
 # Segmento: Dueños de Emprendimientos Gastronómicos (food trucks, dark kitchens, pequeños negocios)
 
@@ -2416,7 +4118,7 @@ Entrevista 2
 **Negocio:** Propietario de un restaurante  
 **Tiempo de operación:** 4 años  
 **Minuto de inicio:** 00:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip)
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip
 
 # Segmento: Dueños de Restobares y Restaurantes
 
@@ -2428,12 +4130,7 @@ Entrevista 3
 **Negocio:** Dueño y Gerente de cadena de bares  
 **Tiempo de operación:** 2 años  
 **Minuto de inicio:** 0:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr)
-
-**Resumen**  
-Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
-Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
-Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr
 
 ### 5.3.3. Evaluaciones según heurísticas
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información e inclusive design.  
@@ -2462,8 +4159,6 @@ Landing Page + Aplicaciones Web LogisPE
 7. Visualización de recetas y costos  
 8. Alertas de inventario bajo  
 9. Generación de reportes  
-
----
 
 ### Resultados de la Evaluación por Heurísticas
 
@@ -2523,6 +4218,24 @@ El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, des
 
 El despliegue exitoso de la landing page representa un primer paso fundamental para la validación del producto y la captación de usuarios iniciales. Además, este avance evidenció una comunicación efectiva y un trabajo colaborativo dentro del equipo, lo que sienta un precedente positivo para los siguientes sprints. En general, el Sprint 1 cumplió sus metas, aportando un entregable tangible y de calidad que sirve como base para futuras mejoras y nuevas funcionalidades.
 
+El Sprint 2 marcó la transición de una landing page estática a un prototipo funcional de la aplicación web de LogisPe, al implementar las vistas clave de autenticación (Login y Register), Home y los módulos de gestión (Stock, Orders, Recipes y Suppliers) conectados a una Fake API basada en JSON Server. Esto permitió validar los flujos principales de navegación, el manejo del estado y la interacción con datos simulados, sin depender aún del backend real, garantizando una experiencia más cercana al uso final del sistema. 
+GitHub
+
+Asimismo, este sprint fue clave para incorporar el feedback recibido en TB1, documentar los nuevos componentes y estandarizar el trabajo en el frontend. El uso de la Fake API favoreció el desarrollo en paralelo, fortaleció la colaboración entre los integrantes y preparó el terreno para una futura integración fluida con el backend. En conjunto, el Sprint 2 consolidó la capa visual y funcional de la aplicación, elevando el nivel de madurez del producto más allá de una simple propuesta visual. 
+
+El Sprint 3 consolidó la arquitectura técnica de LogisPe mediante la implementación completa del backend siguiendo un enfoque de Domain-Driven Design (DDD). Se desarrollaron los módulos Inventory, Suppliers y Stores con sus respectivas entidades, servicios, repositorios y controladores REST, además de documentar todos los endpoints con Swagger/OpenAPI. Esto permitió definir contratos de API claros, estables y alineados con las necesidades del frontend, dejando una base sólida para la integración real entre ambas capas. 
+GitHub
+
+Adicionalmente, la preparación del entorno de despliegue (Docker, servidor de pruebas y documentación interna) aseguró que el backend pudiera ejecutarse y probarse en un entorno controlado, reduciendo riesgos para futuros sprints. El trabajo colaborativo del equipo al revisar pull requests, resolver inconsistencias y unificar estándares técnicos demostró un nivel de madurez superior en la gestión del proyecto. En resumen, el Sprint 3 transformó el sistema en una solución técnicamente preparada para escalar, integrarse y seguir evolucionando sobre bases robustas. 
+
+El Sprint 4 representó el cierre del ciclo de desarrollo de LogisPe y estuvo enfocado en consolidar, integrar y estabilizar todos los entregables construidos en los sprints anteriores. En esta iteración, el equipo completó la integración real entre el frontend y el backend desplegados, afinando los flujos críticos de gestión de stock, órdenes, recetas y proveedores, y asegurando que la aplicación funcionara de manera coherente de extremo a extremo. Asimismo, se documentaron los pasos definitivos de configuración y despliegue, dejando una guía clara para reproducir el entorno y facilitar el mantenimiento futuro del sistema. 
+GitHub
++1
+
+Además, el Sprint 4 se centró en la validación y comunicación del valor del producto. El equipo realizó entrevistas de validación y evaluaciones según heurísticas, preparó la demo final y elaboró los videos About-the-Product y About-the-Team como evidencia del proceso y de los resultados alcanzados. Estas actividades permitieron recoger feedback directo de usuarios y reflejar el trabajo colaborativo del equipo, conectando la solución técnica con las necesidades reales del contexto logístico. En conjunto, el Sprint 4 transformó LogisPe de un sistema en construcción a un producto integrado, validado y listo para ser presentado, evidenciando el cumplimiento de los objetivos del curso y reforzando las competencias asociadas al Student Outcome ABET 5.
+
+<div style="page-break-after: always;"></div>
+
 # Bibliografía
 
 - Crockford, D. (2008). *JavaScript: The good parts*. O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-good/9780596517748/](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
@@ -2545,10 +4258,13 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 - Robbins, J. N. (2018). *Learning web design: A beginner’s guide to HTML, CSS, JavaScript, and web graphics* (5th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/learning-web-design/9781491960196/](https://www.oreilly.com/library/view/learning-web-design/9781491960196/)
 
+<div style="page-break-after: always;"></div>
+
 # Anexos
 
 - Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
-- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page <br>
-- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
+- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
+- Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis-pe-front-3tttgjlio.vercel.app?_vercel_share=lk3IhllUQgyD9BbcdOdYbgDXN5POlijP
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
