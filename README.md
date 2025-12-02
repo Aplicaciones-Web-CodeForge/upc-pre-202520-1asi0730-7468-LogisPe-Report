@@ -2509,9 +2509,9 @@ Los usuarios solicitaron tutoriales breves y accesibles desde la interfaz.
 
 ### 5.4. Video About-the-Product
 
-[Video About-the-Product (OneDrive)](https://1drv.ms/v/c/131b5cdffd607f3f/EbqGzFdPKfpGqhDEeP7Pr9kBBhsPyNmuRxbg_ncvzXJChA?e=gysMM4)
+[Video About-the-Product (OneDrive)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/IQBqloEwSqQWSo_ug6zlNmkwAfqgJAIbOxh81tNThr5gJnc?e=NLoaAK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-[Video About-the-Product (YouTube)](https://youtu.be/BdOGV9lqrGM)
+[Video About-the-Product (YouTube)](https://www.youtube.com/watch?v=hTyKtXQsork)
 
 
 ## Conclusiones y recomendaciones
