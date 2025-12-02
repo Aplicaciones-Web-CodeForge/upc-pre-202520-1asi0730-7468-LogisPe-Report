@@ -4263,9 +4263,6 @@ Además, el Sprint 4 se centró en la validación y comunicación del valor del 
 - Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
 - Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
 - Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
-<<<<<<< HEAD
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis-pe-front-3tttgjlio.vercel.app?_vercel_share=lk3IhllUQgyD9BbcdOdYbgDXN5POlijP
-=======
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
->>>>>>> develop
 - Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
