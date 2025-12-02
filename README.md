@@ -438,45 +438,55 @@ El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Stu
       <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
       <strong>TB1</strong>: Argumenté y defendí propuestas sobre la estructura de la landing page durante las reuniones de equipo (audiencia técnica). Moderé discusiones para sintetizar las ideas de todos en pilares de producto claros, facilitando un consenso sobre el mensaje a comunicar a nuestros futuros usuarios (audiencia externa).<br>
       <strong>TP1</strong>: Lideré la presentación del Product Backlog al equipo, explicando oralmente la priorización de User Stories y justificando su valor de negocio. Comuniqué las decisiones de diseño de la arquitectura de software (C4 Model) en términos claros, asegurando que todos los miembros, independientemente de su rol, comprendieran la estructura y el flujo de datos de la solución.<br>
-      <strong>TB2</strong>: Guié las reuniones técnicas de arquitectura del backend, explicando la estructura DDD, los bounded contexts y cómo se integrarían los módulos entre sí. Presenté oralmente la propuesta del backend avanzado, facilitando que todos los integrantes entendieran la interacción entre controladores, servicios, repositorios y la base de datos.<br><br>
+      <strong>TB2</strong>: Guié las reuniones técnicas de arquitectura del backend, explicando la estructura DDD, los bounded contexts y cómo se integrarían los módulos entre sí. Presenté oralmente la propuesta del backend avanzado, facilitando que todos los integrantes entendieran la interacción entre controladores, servicios, repositorios y la base de datos.<br>
+      <strong>TF</strong>: Durante el TF tomé el rol de coordinar al equipo en la integración final entre el frontend y el backend. Organicé reuniones cortas para destrabar bloqueos técnicos, guié al equipo en la revisión de los endpoints críticos y lideré la preparación del despliegue de la aplicación para la demo final. En cada sesión, expliqué el estado del proyecto, prioricé tareas de último minuto y aseguré que todos tuvieran claro qué entregar y en qué tiempos.<br><br>
       <strong>Alessandro Ramiro Condori Lozano</strong><br>
       <strong>TB1</strong>: Traduje los objetivos técnicos del proyecto a un lenguaje centrado en beneficios para el usuario durante nuestras sesiones de brainstorming. Esta explicación ayudó a que el equipo, como audiencia interna, pudiera visualizar y acordar el discurso comercial que se implementaría en la landing page.<br>
       <strong>TP1</strong>: Expuse los User Journey Maps al equipo, narrando la experiencia del usuario paso a paso para ilustrar los puntos de dolor y las oportunidades. Esta presentación oral fue clave para que el equipo empatizara con el usuario final y validara los flujos de la aplicación web.<br>
-      <strong>TB2</strong>: Expliqué verbalmente los flujos de comunicación de los endpoints del backend, detallando cómo las peticiones viajan desde el controlador hasta el repositorio. Presenté al equipo las validaciones y reglas de negocio para garantizar una comprensión clara de la lógica implementada.<br><br>
+      <strong>TB2</strong>: Expliqué verbalmente los flujos de comunicación de los endpoints del backend, detallando cómo las peticiones viajan desde el controlador hasta el repositorio. Presenté al equipo las validaciones y reglas de negocio para garantizar una comprensión clara de la lógica implementada.<br>
+      <strong>TF</strong>: En el TF asumí la responsabilidad de liderar la preparación del pitch y la demo funcional del producto. Organicé el guion de la presentación, asigné las partes que explicaría cada integrante y me encargué de articular el discurso de valor de LogisPe para que el equipo se enfocara en los beneficios clave al momento de presentar. Además, moderé los ensayos, dando feedback para mejorar el orden, el tiempo y la claridad del mensaje.<br><br>
       <strong>Mathias Javier Murillo</strong><br>
       <strong>TB1</strong>: Propuse y justifiqué verbalmente la adaptación del tono de comunicación para dos segmentos de audiencia distintos en la landing page. Expliqué al equipo cómo un mismo pilar del producto debía presentarse de forma diferente para un usuario técnico versus un usuario de negocio, logrando alinear la estrategia de contenido.<br>
       <strong>TP1</strong>: Presenté los Mockups y prototipos de la aplicación web, guiando al equipo a través de la interfaz y explicando las decisiones de diseño UX/UI. Adapté mi discurso para una audiencia de desarrolladores, enfocándome en la funcionalidad y componentes, y luego para una audiencia de "negocio", resaltando la facilidad de uso y los beneficios.<br>
-      <strong>TB2</strong>: Expliqué oralmente los modelos de dominio del backend, detallando entidades, agregados, value objects y su transformación en tablas. Clarifiqué al equipo cómo se estructurarían los módulos internos y cómo se validarían los datos en cada fase del backend.<br><br>
+      <strong>TB2</strong>: Expliqué oralmente los modelos de dominio del backend, detallando entidades, agregados, value objects y su transformación en tablas. Clarifiqué al equipo cómo se estructurarían los módulos internos y cómo se validarían los datos en cada fase del backend.<br>
+      <strong>TF</strong>: Durante el TF lideré la presentación de la interfaz y los flujos principales de usuario. Guié al equipo en cómo mostrar la navegación dentro del sistema, coordiné qué vistas se debían priorizar en la demo y propuse ajustes visuales de último minuto para que el producto se viera más consistente. También ayudé a ordenar el flujo de la demo para que la experiencia contada al público fuera clara y coherente.<br><br>
       <strong>Katherine Maryory Mejia Aliaga</strong><br>
       <strong>TB1</strong>: Expuse verbalmente propuestas para la arquitectura de la información y la jerarquía visual de la landing page. Mi rol fue transformar los conceptos abstractos del equipo en una narrativa oral clara que describía el "viaje" del usuario, permitiendo que todos entendieran cómo se comunicarían visualmente las ideas.<br>
       <strong>TP1</strong>: Expliqué al equipo los Style Guidelines definidos para el proyecto, comunicando de forma oral las reglas sobre tipografía, colores y espaciado. Mi presentación aseguró que todos tuvieran una comprensión compartida de la identidad visual que se implementaría en la aplicación web.<br>
-      <strong>TB2</strong>: Expliqué de forma oral la estructura de validaciones del backend, el manejo de excepciones y cómo se garantizaría la integridad de los datos. Facilitó la alineación entre frontend y backend comunicando cómo se consumirían los servicios API.<br><br>
+      <strong>TB2</strong>: Expliqué de forma oral la estructura de validaciones del backend, el manejo de excepciones y cómo se garantizaría la integridad de los datos. Facilitó la alineación entre frontend y backend comunicando cómo se consumirían los servicios API.<br>
+      <strong>TF</strong>: En el TF me encargué de organizar y explicar al equipo el recorrido del usuario dentro de la aplicación desde una perspectiva de experiencia de usuario. Propuse cómo estructurar la narración durante la demo, sugiriendo qué pantallas debían mostrarse primero y cómo conectar visualmente cada módulo. Además, apoyé en coordinar los tiempos de intervención de cada integrante para que la presentación se sintiera fluida y bien sincronizada.<br><br>
       <strong>Augusto Sebastian Montes Maza</strong><br>
       <strong>TB1</strong>: Participé activamente en los debates de planificación, enfocándome en asegurar la coherencia verbal entre los objetivos de negocio y las funcionalidades propuestas. Cuestioné y validé oralmente que nuestro discurso interno fuera lo suficientemente robusto como para sostener el mensaje público en la landing page.<br>
       <strong>TP1</strong>: Argumenté las decisiones sobre el diseño de la base de datos durante las sesiones técnicas. Simplifiqué conceptos complejos de modelado de datos para que todo el equipo pudiera participar en la validación, asegurando que el diseño fuera escalable y respondiera a las necesidades funcionales.<br>
-      <strong>TB2</strong>: Expliqué oralmente la estructura completa de la base de datos del backend, detallando relaciones, normalización y reglas de integridad. Presenté al equipo cómo se integraría la base de datos con los bounded contexts y cómo cada módulo consumiría los datos.
+      <strong>TB2</strong>: Expliqué oralmente la estructura completa de la base de datos del backend, detallando relaciones, normalización y reglas de integridad. Presenté al equipo cómo se integraría la base de datos con los bounded contexts y cómo cada módulo consumiría los datos.<br>
+      <strong>TF</strong>: Durante el TF lideré las explicaciones técnicas relacionadas con la base de datos y la consistencia de la información mostrada en la demo. Coordiné con el equipo para revisar los datos de prueba, validé que las operaciones críticas funcionaran correctamente y apoyé en la toma de decisiones rápidas cuando se detectaron errores cerca de la entrega. También asumí un rol activo en las reuniones finales para asegurar que los aspectos técnicos estuvieran listos para ser presentados.<br>
     </td>
     <td>
       <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
       <strong>TB1</strong>: La habilidad para mediar y sintetizar diferentes puntos de vista oralmente fue crucial para unificar la visión del equipo y asegurar que el mensaje final del producto fuera coherente y potente para nuestra audiencia objetivo.<br>
       <strong>TP1</strong>: Comunicar oralmente la arquitectura y el backlog demostró que traducir decisiones técnicas complejas a un lenguaje accesible para todo el equipo es fundamental para mantener la alineación y el enfoque durante el desarrollo.<br>
-      <strong>TB2</strong>: Explicar el diseño del backend reforzó la importancia de comunicar arquitecturas complejas de manera simple para evitar malinterpretaciones y asegurar cohesión técnica en el equipo.<br><br>
+      <strong>TB2</strong>: Explicar el diseño del backend reforzó la importancia de comunicar arquitecturas complejas de manera simple para evitar malinterpretaciones y asegurar cohesión técnica en el equipo.<br>
+      <strong>TF</strong>: Liderar la integración final y coordinar al equipo en el cierre del proyecto me permitió concluir que un liderazgo efectivo en la etapa crítica no solo consiste en tomar decisiones técnicas, sino en mantener al equipo enfocado, calmado y alineado con el objetivo común de entregar un producto funcional y presentable.<br><br>
       <strong>Alessandro Ramiro Condori Lozano</strong><br>
       <strong>TB1</strong>: La traducción de conceptos técnicos a un discurso oral centrado en el usuario demostró ser fundamental para alinear al equipo, permitiendo que la comunicación del producto fuera más empática y efectiva en la landing page.<br>
       <strong>TP1</strong>: Narrar la experiencia del usuario a través de los Journey Maps consolidó mi entendimiento de que la comunicación oral efectiva es una herramienta poderosa para generar empatía y guiar el diseño de productos centrado en las personas.<br>
-      <strong>TB2</strong>: Explicar los flujos del backend me permitió entender que la claridad técnica en la comunicación oral es clave para asegurar integraciones correctas y evitar retrasos en el desarrollo.<br><br>
+      <strong>TB2</strong>: Explicar los flujos del backend me permitió entender que la claridad técnica en la comunicación oral es clave para asegurar integraciones correctas y evitar retrasos en el desarrollo.<br>
+      <strong>TF</strong>: Encargarme del pitch y la organización de la demo final me reafirmó que una buena presentación es resultado de un trabajo en equipo bien coordinado. Entendí que alinear el discurso, los tiempos y las intervenciones de cada integrante es clave para transmitir con claridad el valor del proyecto.<br><br>
       <strong>Mathias Javier Murillo</strong><br>
       <strong>TB1</strong>: La comunicación oral adaptativa fue clave para definir una estrategia de contenido inclusiva, reconociendo que un mensaje efectivo no es universal, sino que debe ajustarse a las necesidades y perspectivas de cada audiencia.<br>
       <strong>TP1</strong>: Presentar los mismos prototipos a diferentes audiencias me enseñó a modular mi comunicación oral, concluyendo que la efectividad radica en resaltar los aspectos más relevantes para cada grupo, ya sea técnico o estratégico.<br>
-      <strong>TB2</strong>: Explicar verbalmente los modelos y estructuras del backend me enseñó que comunicar conceptos técnicos con claridad evita errores en la implementación y mejora la colaboración entre áreas.<br><br>
+      <strong>TB2</strong>: Explicar verbalmente los modelos y estructuras del backend me enseñó que comunicar conceptos técnicos con claridad evita errores en la implementación y mejora la colaboración entre áreas.<br>
+      <strong>TF</strong>: Liderar la demostración de la interfaz me hizo ver que la forma en la que mostramos el producto influye directamente en cómo se percibe el trabajo del equipo. Comprendí que ordenar el flujo visual y priorizar las pantallas correctas es una forma de liderazgo que ayuda a que el esfuerzo técnico de todos se valore mejor.<br><br>
       <strong>Katherine Maryory Mejia Aliaga</strong><br>
       <strong>TB1</strong>: La comunicación oral de una estrategia visual fue un puente esencial entre la idea y la ejecución, demostrando que la capacidad de "narrar" una interfaz es vital para que un equipo técnico y creativo trabaje hacia un mismo objetivo comunicacional.<br>
       <strong>TP1</strong>: La exposición oral de guías de estilo confirmó que establecer y comunicar reglas de diseño de manera clara previene inconsistencias y agiliza el trabajo de desarrollo, asegurando la cohesión visual del producto final.<br>
-      <strong>TB2</strong>: La comunicación oral sobre validaciones, excepciones y reglas de negocio del backend confirmó que explicar estos elementos en detalle permite una implementación más sólida y consistente.<br><br>
+      <strong>TB2</strong>: La comunicación oral sobre validaciones, excepciones y reglas de negocio del backend confirmó que explicar estos elementos en detalle permite una implementación más sólida y consistente.<br>
+      <strong>TF</strong>: Coordinar la experiencia del usuario durante la demo me llevó a concluir que pensar en el recorrido del público es tan importante como pensar en el recorrido dentro del sistema. Un equipo funciona mejor cuando todos entienden qué historia se quiere contar y cómo cada parte de la aplicación aporta a esa narrativa.<br><br>
       <strong>Augusto Sebastian Montes Maza</strong><br>
       <strong>TB1</strong>: Mantener la coherencia en la comunicación oral interna previno desviaciones conceptuales, concluyendo que un discurso de equipo sólido y bien alineado es la base para una comunicación externa clara y confiable.<br>
       <strong>TP1</strong>: La capacidad de simplificar y argumentar decisiones técnicas oralmente no solo valida el diseño, sino que también empodera a todo el equipo, permitiendo una toma de decisiones más informada y colaborativa.<br>
-      <strong>TB2</strong>: Comunicar oralmente la estructura de la base de datos y la interacción entre los módulos del backend demostró que la claridad técnica es esencial para garantizar un desarrollo sin ambigüedades.
+      <strong>TB2</strong>: Comunicar oralmente la estructura de la base de datos y la interacción entre los módulos del backend demostró que la claridad técnica es esencial para garantizar un desarrollo sin ambigüedades.<br>
+      <strong>TF</strong>: Ser responsable de garantizar la solidez técnica en la etapa final me enseñó que el liderazgo también se ejerce cuidando los detalles “invisibles” para la audiencia. Asegurar la consistencia de datos y el correcto funcionamiento del sistema fue clave para que el equipo pudiera presentar con confianza.<br>
     </td>
   </tr>
   <tr>
@@ -487,48 +497,59 @@ El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Stu
       <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
       <strong>TB1</strong>: Redacté la versión inicial de la propuesta de valor y los textos para la sección principal (Hero) de la landing page, utilizando un lenguaje persuasivo y claro dirigido a una audiencia no técnica.<br>
       <strong>TP1</strong>: Desarrollé y documenté las User Stories principales del proyecto, redactando los Criterios de Aceptación con la estructura Gherkin (Given-When-Then). Este formato técnico y preciso fue diseñado para que el equipo de desarrollo tuviera una guía sin ambigüedades.<br>
-      <strong>TB2</strong>: Documenté por escrito la arquitectura completa del backend, la estructura DDD, los bounded contexts, la definición de entidades y la descripción de endpoints, asegurando una comunicación técnica precisa para desarrollo y QA.<br><br>
+      <strong>TB2</strong>: Documenté por escrito la arquitectura completa del backend, la estructura DDD, los bounded contexts, la definición de entidades y la descripción de endpoints, asegurando una comunicación técnica precisa para desarrollo y QA.<br>
+      <strong>TF</strong>: En el TF documenté los pasos finales para el despliegue, la configuración del backend y los endpoints clave, dejando guías claras para que cualquier integrante pudiera replicar el entorno. Además, ayudé a definir las tareas de cierre en el tablero del proyecto, asignando responsables y verificando el estado de avance para cumplir con la fecha límite.<br><br>
       <strong>Alessandro Ramiro Condori Lozano</strong><br>
       <strong>TB1</strong>: Contribuí en la redacción de la sección "Introducción" del informe del proyecto y adapté estos conceptos a mensajes más directos y concisos para la landing page.<br>
       <strong>TP1</strong>: Redacté el análisis competitivo en el informe del proyecto, utilizando un lenguaje formal y analítico para una audiencia académica. Además, plasmé las conclusiones de este análisis en comentarios escritos dentro de Figma para guiar las decisiones de diseño del UI.<br>
-      <strong>TB2</strong>: Documenté la estructura de carpetas, el estándar de nombrado del backend y los lineamientos técnicos para mantener consistencia. Elaboré documentación escrita sobre el consumo de servicios y expectativas del contrato API.<br><br>
+      <strong>TB2</strong>: Documenté la estructura de carpetas, el estándar de nombrado del backend y los lineamientos técnicos para mantener consistencia. Elaboré documentación escrita sobre el consumo de servicios y expectativas del contrato API.<br>
+      <strong>TF</strong>: Durante el TF redacté y consolidé las secciones finales del informe relacionadas con la visión del producto, conclusiones generales y recomendaciones. Organicé comentarios escritos en las herramientas de colaboración para integrar sugerencias de todos, manteniendo un tono unificado y asegurando que cada aporte del equipo quedara reflejado en el documento final.<br><br>
       <strong>Mathias Javier Murillo</strong><br>
       <strong>TB1</strong>: Elaboré y ajusté los textos descriptivos de las características del producto, creando variantes del mensaje escrito para dos perfiles de usuario identificados.<br>
       <strong>TP1</strong>: Documenté por escrito las especificaciones de varios componentes de la aplicación web en el informe, describiendo su comportamiento y relación con otros elementos. Esta comunicación escrita fue esencial para guiar la implementación técnica posterior.<br>
-      <strong>TB2</strong>: Documenté los modelos del backend, sus relaciones, reglas de negocio y transformaciones de datos, produciendo descripciones claras para asegurar correcta implementación del dominio.<br><br>
+      <strong>TB2</strong>: Documenté los modelos del backend, sus relaciones, reglas de negocio y transformaciones de datos, produciendo descripciones claras para asegurar correcta implementación del dominio.<br>
+      <strong>TF</strong>: En el TF me dediqué a documentar por escrito los componentes principales del frontend, sus responsabilidades y su relación con los módulos del sistema. Dejé descripciones claras de los flujos de navegación y de cómo debían utilizarse ciertos componentes reutilizables, con el objetivo de que el equipo tuviera una guía de mantenimiento y futuras mejoras.<br><br>
       <strong>Katherine Maryory Mejia Aliaga</strong><br>
       <strong>TB1</strong>: Estructuré el contenido del informe en la sección de "Requisitos" para asegurar una lectura lógica y organicé la disposición de los bloques de texto en el wireframe de la landing page.<br>
       <strong>TP1</strong>: Contribuí a la redacción del capítulo de Arquitectura de la Información del informe. Documenté por escrito las decisiones sobre los sistemas de organización y etiquetado, creando una referencia formal para que el equipo consultara al construir la navegación de la aplicación.<br>
-      <strong>TB2</strong>: Redacté la documentación del manejo de validaciones, excepciones y reglas de negocio aplicadas en los bounded contexts del backend. Escribí guías técnicas sobre la estructura del API y las interacciones frontend-backend.<br><br>
+      <strong>TB2</strong>: Redacté la documentación del manejo de validaciones, excepciones y reglas de negocio aplicadas en los bounded contexts del backend. Escribí guías técnicas sobre la estructura del API y las interacciones frontend-backend.<br>
+      <strong>TF</strong>: Durante el TF estructuré y corregí partes del informe relacionadas con la experiencia de usuario, la arquitectura de la información y la coherencia visual del producto. Organicé el contenido para que la lectura fuera más clara y me aseguré de que las decisiones de diseño quedaran registradas de manera ordenada y accesible para todo el equipo.<br><br>
       <strong>Augusto Sebastian Montes Maza</strong><br>
       <strong>TB1</strong>: Realicé la revisión y edición de los textos finales tanto de la landing page como del informe TB1, unificando el tono de voz y asegurando la correcta aplicación de la terminología del proyecto.<br>
       <strong>TP1</strong>: Fui responsable de documentar el Ubiquitous Language del proyecto en el informe, creando un glosario de términos de negocio. Esta comunicación escrita fue vital para evitar malentendidos y asegurar que todos los miembros del equipo, tanto técnicos como no técnicos, hablaran el mismo "idioma".<br>
-      <strong>TB2</strong>: Documenté la estructura de la base de datos, normalización, entidades del modelo y estándares de desarrollo del backend, asegurando referencias claras para todos los integrantes del equipo.
+      <strong>TB2</strong>: Documenté la estructura de la base de datos, normalización, entidades del modelo y estándares de desarrollo del backend, asegurando referencias claras para todos los integrantes del equipo.<br>
+      <strong>TF</strong>: En el TF actualicé y documenté el modelo de datos final, las relaciones entre tablas y ejemplos de consultas clave utilizadas en el sistema. Además, revisé y ajusté diagramas técnicos para que reflejaran fielmente la implementación actual, dejando una base documental sólida para que el equipo pudiera seguir trabajando sobre la misma estructura.<br>
     </td>
     <td>
       <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
       <strong>TB1</strong>: La redacción orientada a la audiencia me permitió comprender que la comunicación escrita efectiva no se trata solo de informar, sino de conectar y persuadir, adaptando el mensaje al contexto del lector.<br>
       <strong>TP1</strong>: Redactar Criterios de Aceptación me enseñó que la precisión en la comunicación escrita técnica es fundamental para reducir errores y retrabajo, demostrando que un lenguaje claro y estructurado es una herramienta de productividad.<br>
-      <strong>TB2</strong>: Documentar el backend me enseñó que una arquitectura sólida depende de una comunicación escrita técnica clara, precisa y consistente.<br><br>
+      <strong>TB2</strong>: Documentar el backend me enseñó que una arquitectura sólida depende de una comunicación escrita técnica clara, precisa y consistente.<br>
+      <strong>TF</strong>: Documentar los procesos finales y organizar las tareas de cierre me permitió concluir que un entorno colaborativo se fortalece cuando todos saben exactamente qué hacer y dónde encontrar la información necesaria. Una buena planificación escrita reduce la incertidumbre y facilita que el equipo cumpla sus objetivos.<br><br>
       <strong>Alessandro Ramiro Condori Lozano</strong><br>
       <strong>TB1</strong>: La tarea de adaptar un mismo mensaje para un informe técnico y una web comercial me enseñó que la efectividad de la comunicación escrita reside en la capacidad de síntesis y en la selección precisa del lenguaje.<br>
       <strong>TP1</strong>: Documentar el análisis de competidores por escrito me demostró que la comunicación formal es clave para presentar hallazgos de manera objetiva y profesional, mientras que los comentarios escritos en herramientas de diseño son un canal ágil para la comunicación contextual.<br>
-      <strong>TB2</strong>: Documentar estándares técnicos y estructura del backend me confirmó que la claridad escrita es esencial para mantener escalabilidad y coherencia en el desarrollo.<br><br>
+      <strong>TB2</strong>: Documentar estándares técnicos y estructura del backend me confirmó que la claridad escrita es esencial para mantener escalabilidad y coherencia en el desarrollo.<br>
+      <strong>TF</strong>: Redactar las conclusiones y unificar el informe final me enseñó que la comunicación escrita es una herramienta clave para visibilizar el trabajo de todos. Comprendí que integrar distintas voces en un solo documento fortalece el sentido de pertenencia y hace que el resultado se sienta realmente colectivo.<br><br>
       <strong>Mathias Javier Murillo</strong><br>
       <strong>TB1</strong>: La redacción de contenidos para distintos perfiles de usuario reforzó mi entendimiento de que la comunicación escrita empática es clave; es necesario escribir para que cada audiencia sienta que le hablas directamente.<br>
       <strong>TP1</strong>: La documentación escrita de especificaciones funcionales me hizo concluir que un registro claro y detallado es indispensable para la escalabilidad del proyecto, sirviendo como una fuente de verdad para el equipo a lo largo del tiempo.<br>
-      <strong>TB2</strong>: Documentar el modelo de dominio del backend me enseñó que escribir con precisión evita errores de interpretación y facilita una implementación más sólida.<br><br>
+      <strong>TB2</strong>: Documentar el modelo de dominio del backend me enseñó que escribir con precisión evita errores de interpretación y facilita una implementación más sólida.<br>
+      <strong>TF</strong>: Documentar los componentes del frontend y los flujos de navegación me hizo ver que escribir pensando en otros desarrolladores es una forma concreta de colaboración. Un sistema mejor descrito permite que cualquier miembro pueda continuar el trabajo sin depender de explicaciones orales constantes.<br><br>
       <strong>Katherine Maryory Mejia Aliaga</strong><br>
       <strong>TB1</strong>: La organización del contenido demostró que la estructura es un componente silencioso pero poderoso de la comunicación escrita. Un texto bien ordenado guía al lector y refuerza la claridad del mensaje.<br>
       <strong>TP1</strong>: Documentar por escrito la Arquitectura de la Información me permitió valorar la importancia de formalizar las decisiones de diseño, concluyendo que un documento bien estructurado sirve como pilar para construir experiencias de usuario coherentes.<br>
-      <strong>TB2</strong>: Documentar reglas de negocio y validaciones del backend reforzó que la documentación técnica clara es esencial para evitar inconsistencias entre módulos.<br><br>
+      <strong>TB2</strong>: Documentar reglas de negocio y validaciones del backend reforzó que la documentación técnica clara es esencial para evitar inconsistencias entre módulos.<br>
+      <strong>TF</strong>: Estructurar y mejorar el contenido del informe desde la perspectiva de UX me llevó a concluir que la claridad en la documentación también es parte de crear un entorno inclusivo. Cuando la información está ordenada y bien explicada, todos pueden participar y aportar sin sentirse perdidos.<br><br>
       <strong>Augusto Sebastian Montes Maza</strong><br>
       <strong>TB1</strong>: El proceso de edición y unificación de textos me permitió concluir que la consistencia en la comunicación escrita es fundamental para construir una identidad de producto sólida y profesional.<br>
       <strong>TP1</strong>: Establecer un lenguaje ubicuo por escrito fue una lección clave sobre la importancia de crear una base terminológica común, concluyendo que esta práctica elimina la ambigüedad y fomenta una comunicación más eficiente y precisa en equipos multidisciplinarios.<br>
-      <strong>TB2</strong>: Documentar la estructura técnica del backend me permitió comprender que una documentación clara es vital para asegurar que todo el equipo trabaje con las mismas reglas y estándares.
+      <strong>TB2</strong>: Documentar la estructura técnica del backend me permitió comprender que una documentación clara es vital para asegurar que todo el equipo trabaje con las mismas reglas y estándares.<br>
+      <strong>TF</strong>: Actualizar y documentar el modelo de datos final me mostró que una base técnica bien registrada es esencial para que el equipo pueda seguir creciendo sobre el mismo proyecto. Comprendí que la colaboración efectiva requiere no solo programar, sino dejar huellas claras de lo que se hizo y por qué se decidió así.<br>
     </td>
   </tr>
 </table>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -3573,11 +3594,11 @@ Durante el Sprint 3, la colaboración se centró en la construcción completa de
   </tr>
 </table>
 
-![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
+![EvidenciaCommits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/CommitsTP.png)
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/Commits.png)
 
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
@@ -3903,15 +3924,15 @@ El objetivo del Sprint 4 fue realizar la integración completa entre el frontend
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 
-![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_1.png)
+![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/captura1.png)
 
-![Commits de Ajustes UI/UX](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_2.png)
+![Commits de Ajustes UI/UX](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/captura3.png)
 
-![Commits de Despliegue Integrado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_3.png)
+![Commits de Despliegue Integrado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/captura2.png)
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
-![Flujo Integrado de Creación de Insumo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/execution_evidence_sprint_review/sprint4_integration_flow.png)
+![Flujo Integrado de Creación de Insumo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/execution_evidence_sprint_review/Evidencia2-LogisPe.png)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -3955,9 +3976,9 @@ Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-b
   </tr>
 </table>
 
-![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_frontend_commits.png)
+![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/commits%20Frontend.PNG)
 
-![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_backend_commits.png)
+![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/commits%20Backend.PNG)
 
 
 
@@ -3976,8 +3997,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 5. ¿Cuántos años de experiencia tienes en el rubro gastronómico?
 6. ¿Cuántas personas trabajan en tu negocio?
 7. ¿Cómo describirías un día típico de operación en tu negocio?
-
----
 
 # Segmento: Dueños de Restobares y Restaurantes
 
@@ -3998,8 +4017,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 10. ¿Qué no debería tener un sistema de inventario para no volverse complejo o estorboso?
 11. ¿Cómo medirías si la herramienta está funcionando para tu negocio?
 
----
-
 # Segmento: Dueños de Cafeterías y Bares
 
 ## Sobre posibles soluciones
@@ -4012,8 +4029,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 15. ¿Qué haría que un sistema como LogisPe realmente valga la pena para ti?
 16. ¿Qué función crees que no usarías nunca?
 17. ¿Qué características agregarías pensando en tu operación específica?
-
----
 
 # Segmento: Dueños de Emprendimientos Gastronómicos (food trucks, dark kitchens, pequeños negocios)
 
