@@ -15,7 +15,7 @@
 
 **Informe de Trabajo Final**
 
-**Startup** CodeForce  
+**Startup** CodeForge  
 **Producto** LogisPE  
 
 <br>
@@ -2902,6 +2902,8 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
   </tr>
 </table>
 
+![Insights - TB1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
+
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
@@ -3259,6 +3261,8 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 ![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/Commits.png)
 
+![Insights - TP](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
+
 ## 5.2.3. Sprint 3
 
 ### 5.2.3.1. Sprint Planning 3
@@ -3597,7 +3601,7 @@ La documentación incluye esquemas de datos, ejemplos de request y response, có
 
 - Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -3645,6 +3649,9 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
 Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend:
 
 ![Commits Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Frontend.PNG)
+
+![Insights - Tablero 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB2.jpg)
+
 
 ## 5.2.4. Sprint 4
 
@@ -3978,7 +3985,7 @@ Durante el Sprint 4 se completó la integración del frontend con el backend rea
 
 - **Landing Page desplegada:** https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - **Frontend integrado desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
 - **Enlace de verificación de integración:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/stock (consumiendo backend real)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -4015,6 +4022,10 @@ Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-b
 ![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_frontend_commits.png)
 
 ![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_backend_commits.png)
+
+![Insights - Tablero 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
+![Insights - Tablero Principal](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
+![Insights - Tablero 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB2.jpg)
 
 
 ### 5.3. Validation Interviews
@@ -4258,5 +4269,9 @@ Además, el Sprint 4 se centró en la validación y comunicación del valor del 
 - Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
 - Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
 - Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
+<<<<<<< HEAD
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis-pe-front-3tttgjlio.vercel.app?_vercel_share=lk3IhllUQgyD9BbcdOdYbgDXN5POlijP
+=======
+- Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
+>>>>>>> develop
 - Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
