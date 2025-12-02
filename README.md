@@ -4180,13 +4180,17 @@ El Sprint 2 marcó la transición de una landing page estática a un prototipo f
 GitHub
 
 Asimismo, este sprint fue clave para incorporar el feedback recibido en TB1, documentar los nuevos componentes y estandarizar el trabajo en el frontend. El uso de la Fake API favoreció el desarrollo en paralelo, fortaleció la colaboración entre los integrantes y preparó el terreno para una futura integración fluida con el backend. En conjunto, el Sprint 2 consolidó la capa visual y funcional de la aplicación, elevando el nivel de madurez del producto más allá de una simple propuesta visual. 
+
 El Sprint 3 consolidó la arquitectura técnica de LogisPe mediante la implementación completa del backend siguiendo un enfoque de Domain-Driven Design (DDD). Se desarrollaron los módulos Inventory, Suppliers y Stores con sus respectivas entidades, servicios, repositorios y controladores REST, además de documentar todos los endpoints con Swagger/OpenAPI. Esto permitió definir contratos de API claros, estables y alineados con las necesidades del frontend, dejando una base sólida para la integración real entre ambas capas. 
 GitHub
 
 Adicionalmente, la preparación del entorno de despliegue (Docker, servidor de pruebas y documentación interna) aseguró que el backend pudiera ejecutarse y probarse en un entorno controlado, reduciendo riesgos para futuros sprints. El trabajo colaborativo del equipo al revisar pull requests, resolver inconsistencias y unificar estándares técnicos demostró un nivel de madurez superior en la gestión del proyecto. En resumen, el Sprint 3 transformó el sistema en una solución técnicamente preparada para escalar, integrarse y seguir evolucionando sobre bases robustas. 
-GitHub
 
-Si quieres, en el siguiente mensaje puedo unificarlas en un solo bloque de “Conclusiones y recomendaciones” para pegarlas tal cual al final del capítulo V.
+El Sprint 4 representó el cierre del ciclo de desarrollo de LogisPe y estuvo enfocado en consolidar, integrar y estabilizar todos los entregables construidos en los sprints anteriores. En esta iteración, el equipo completó la integración real entre el frontend y el backend desplegados, afinando los flujos críticos de gestión de stock, órdenes, recetas y proveedores, y asegurando que la aplicación funcionara de manera coherente de extremo a extremo. Asimismo, se documentaron los pasos definitivos de configuración y despliegue, dejando una guía clara para reproducir el entorno y facilitar el mantenimiento futuro del sistema. 
+GitHub
++1
+
+Además, el Sprint 4 se centró en la validación y comunicación del valor del producto. El equipo realizó entrevistas de validación y evaluaciones según heurísticas, preparó la demo final y elaboró los videos About-the-Product y About-the-Team como evidencia del proceso y de los resultados alcanzados. Estas actividades permitieron recoger feedback directo de usuarios y reflejar el trabajo colaborativo del equipo, conectando la solución técnica con las necesidades reales del contexto logístico. En conjunto, el Sprint 4 transformó LogisPe de un sistema en construcción a un producto integrado, validado y listo para ser presentado, evidenciando el cumplimiento de los objetivos del curso y reforzando las competencias asociadas al Student Outcome ABET 5.
 
 <div style="page-break-after: always;"></div>
 
