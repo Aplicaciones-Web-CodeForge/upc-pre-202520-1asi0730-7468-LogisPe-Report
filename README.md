@@ -2854,6 +2854,8 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
   </tr>
 </table>
 
+![Insights - TB1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
+
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
@@ -3210,6 +3212,8 @@ Durante el Sprint 2, la colaboración se centró en la construcción de las pant
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
 ![Commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/insights_during_sprint/Commits.png)
+
+![Insights - TP](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
 
 ## 5.2.3. Sprint 3
 
@@ -3598,6 +3602,9 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend
 
 ![Commits Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Frontend.PNG)
 
+![Insights - Tablero 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB2.jpg)
+
+
 ## 5.2.4. Sprint 4
 
 ### 5.2.4.1. Sprint Planning 4
@@ -3967,6 +3974,10 @@ Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-b
 ![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_frontend_commits.png)
 
 ![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_backend_commits.png)
+
+![Insights - Tablero 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
+![Insights - Tablero Principal](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
+![Insights - Tablero 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB2.jpg)
 
 
 ### 5.3. Validation Interviews
