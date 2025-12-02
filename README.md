@@ -420,7 +420,7 @@ Las funciones principales (creación, consulta, actualización y validación) se
 
 # Student Outcome
 
-Objetivo general, ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
 
 # Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
 
@@ -432,7 +432,7 @@ Objetivo general, ABET – EAC - Student Outcome 5: La capacidad de funcionar ef
   </tr>
   <tr>
     <td>
-      <strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong>
+      <strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</strong>
     </td>
     <td>
       <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
@@ -481,7 +481,7 @@ Objetivo general, ABET – EAC - Student Outcome 5: La capacidad de funcionar ef
   </tr>
   <tr>
     <td>
-      <strong>Comunica por escrito con efectividad a diferentes rangos de audiencia.</strong>
+      <strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong>
     </td>
     <td>
       <strong>Rodrigo Fabrizio Aguilar Untiveros</strong><br>
@@ -835,7 +835,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 - Finalmente, un módulo de capacitación digital permitiría que los usuarios accedan a tutoriales, manuales y webinars dentro del mismo sistema, facilitando la adopción tecnológica.
 
-**_Desde la cuenta de administración de PcPedia:_**
+**_Desde la cuenta de administración de LogisPe:_**
 
 - Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados. Esto debe incluir un mapa interactivo de clientes (geolocalización) para optimizar la distribución de técnicos y recursos.
 
@@ -847,7 +847,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 - Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing. Dicho repositorio debería estar acompañado de un sistema de benchmarking, que compare el desempeño de diferentes clientes y ofrezca insights personalizados para la optimización.
 
-- PcPedia también podría contar con un módulo de administración de inventario interno, que permita verificar la disponibilidad de equipos, repuestos y accesorios antes de aprobar solicitudes de clientes.
+- LogisPe también podría contar con un módulo de administración de inventario interno, que permita verificar la disponibilidad de equipos, repuestos y accesorios antes de aprobar solicitudes de clientes.
 
 - Finalmente, un sistema de auditoría y trazabilidad registrará todas las acciones realizadas por administradores y clientes, garantizando seguridad, transparencia y cumplimiento normativo (por ejemplo, GDPR o regulaciones locales de protección de datos).
 
@@ -3524,9 +3524,8 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
-![commits](assets/captura1.png)
-![commits](assets/captura2.png)
-![commits](assets/captura3.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/CommitsTP.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/Commits.png)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -3539,7 +3538,7 @@ La documentación incluye esquemas de datos, ejemplos de request y response, có
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-- Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
 - Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
 
@@ -3763,9 +3762,9 @@ Entrevista 1
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
 **Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)  
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX): https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX
 
-**Resumen**  
+**Resumen**
 Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
 Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
 Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.
@@ -3780,7 +3779,7 @@ Entrevista 2
 **Negocio:** Propietario de un restaurante  
 **Tiempo de operación:** 4 años  
 **Minuto de inicio:** 00:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip)
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip
 
 # Segmento: Dueños de Restobares y Restaurantes
 
@@ -3792,7 +3791,7 @@ Entrevista 3
 **Negocio:** Dueño y Gerente de cadena de bares  
 **Tiempo de operación:** 2 años  
 **Minuto de inicio:** 0:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr)
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr
 
 ### 5.3.3. Evaluaciones según heurísticas
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información e inclusive design.  
@@ -3866,9 +3865,9 @@ Los usuarios solicitaron tutoriales breves y accesibles desde la interfaz.
 
 ### 5.4. Video About-the-Product
 
-[Video About-the-Product (OneDrive)](https://1drv.ms/v/c/131b5cdffd607f3f/EbqGzFdPKfpGqhDEeP7Pr9kBBhsPyNmuRxbg_ncvzXJChA?e=gysMM4)
+[Video About-the-Product (OneDrive)](https://1drv.ms/v/c/131b5cdffd607f3f/EbqGzFdPKfpGqhDEeP7Pr9kBBhsPyNmuRxbg_ncvzXJChA?e=gysMM4): https://1drv.ms/v/c/131b5cdffd607f3f/EbqGzFdPKfpGqhDEeP7Pr9kBBhsPyNmuRxbg_ncvzXJChA?e=gysMM4
 
-[Video About-the-Product (YouTube)](https://youtu.be/BdOGV9lqrGM)
+[Video About-the-Product (YouTube)](https://youtu.be/BdOGV9lqrGM): https://youtu.be/BdOGV9lqrGM
 
 <div style="page-break-after: always;"></div>
 
@@ -3877,6 +3876,18 @@ Los usuarios solicitaron tutoriales breves y accesibles desde la interfaz.
 El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
 
 El despliegue exitoso de la landing page representa un primer paso fundamental para la validación del producto y la captación de usuarios iniciales. Además, este avance evidenció una comunicación efectiva y un trabajo colaborativo dentro del equipo, lo que sienta un precedente positivo para los siguientes sprints. En general, el Sprint 1 cumplió sus metas, aportando un entregable tangible y de calidad que sirve como base para futuras mejoras y nuevas funcionalidades.
+
+El Sprint 2 marcó la transición de una landing page estática a un prototipo funcional de la aplicación web de LogisPe, al implementar las vistas clave de autenticación (Login y Register), Home y los módulos de gestión (Stock, Orders, Recipes y Suppliers) conectados a una Fake API basada en JSON Server. Esto permitió validar los flujos principales de navegación, el manejo del estado y la interacción con datos simulados, sin depender aún del backend real, garantizando una experiencia más cercana al uso final del sistema. 
+GitHub
+
+Asimismo, este sprint fue clave para incorporar el feedback recibido en TB1, documentar los nuevos componentes y estandarizar el trabajo en el frontend. El uso de la Fake API favoreció el desarrollo en paralelo, fortaleció la colaboración entre los integrantes y preparó el terreno para una futura integración fluida con el backend. En conjunto, el Sprint 2 consolidó la capa visual y funcional de la aplicación, elevando el nivel de madurez del producto más allá de una simple propuesta visual. 
+El Sprint 3 consolidó la arquitectura técnica de LogisPe mediante la implementación completa del backend siguiendo un enfoque de Domain-Driven Design (DDD). Se desarrollaron los módulos Inventory, Suppliers y Stores con sus respectivas entidades, servicios, repositorios y controladores REST, además de documentar todos los endpoints con Swagger/OpenAPI. Esto permitió definir contratos de API claros, estables y alineados con las necesidades del frontend, dejando una base sólida para la integración real entre ambas capas. 
+GitHub
+
+Adicionalmente, la preparación del entorno de despliegue (Docker, servidor de pruebas y documentación interna) aseguró que el backend pudiera ejecutarse y probarse en un entorno controlado, reduciendo riesgos para futuros sprints. El trabajo colaborativo del equipo al revisar pull requests, resolver inconsistencias y unificar estándares técnicos demostró un nivel de madurez superior en la gestión del proyecto. En resumen, el Sprint 3 transformó el sistema en una solución técnicamente preparada para escalar, integrarse y seguir evolucionando sobre bases robustas. 
+GitHub
+
+Si quieres, en el siguiente mensaje puedo unificarlas en un solo bloque de “Conclusiones y recomendaciones” para pegarlas tal cual al final del capítulo V.
 
 <div style="page-break-after: always;"></div>
 
@@ -3906,8 +3917,8 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 # Anexos
 
-- Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
-- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page <br>
-- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report <br>
+- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
+- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
 - Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
