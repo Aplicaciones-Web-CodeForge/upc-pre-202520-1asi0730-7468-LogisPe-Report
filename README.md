@@ -948,7 +948,7 @@ Finalmente, es importante mencionar que algunos negocios en Perú aún recurren 
       cada competidor nombre y<br>
       logo)
     </th>
-    <th>Su Startup</th>
+    <th>LogisPe</th>
     <th>Nubefact</th>
     <th>Siigo Perú</th>
     <th>Factura Perú</th>
