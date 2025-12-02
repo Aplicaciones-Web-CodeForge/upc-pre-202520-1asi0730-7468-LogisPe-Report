@@ -2457,7 +2457,7 @@ El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para
 
 - URL para acceder a nuestro reporte en GitHub: https://github.com/Aplicaciones-Web-CodeForge/Report
 
-- URL para acceder nuestro repositorio de Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page
+- URL para acceder nuestro repositorio de Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
