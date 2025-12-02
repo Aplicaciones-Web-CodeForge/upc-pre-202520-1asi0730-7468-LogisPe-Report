@@ -427,6 +427,14 @@ El proceso colaborativo se adaptó una vez más para abordar las necesidades esp
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.2.4. Sprint 4](#523-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5231-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5233-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2434,26 +2442,26 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
-![Design-Level Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png)
+![Design-Level Event Storming](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/event_storming/DesignLevelEventStorming.png)
 
 ### 4.6.2. Software Architecture Context Diagram
-![Diagrama de Contexto](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/context_diagram/Software%20Architecture%20Context%20Diagram.png)
+![Diagrama de Contexto](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/context_diagram/ContextDiagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
-![Diagrama de Contenedores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/container_diagrams/Software%20Architecture%20Container%20Diagrams.png)
+![Diagrama de Contenedores](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/container_diagrams/ContainerDiagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
-![Diagrama de Componentes](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/components_diagrams/Software%20Architecture%20Components%20Diagrams.png)
+![Diagrama de Componentes](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/0e7acaf5a66d10729dbd11f31250259339b28403/assets/chapter_IV/components_diagrams/ComponentDiagram.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/class_diagrams/Diagrama%20de%20Clases.png)
+![Class Diagrams](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/4dcf90a3207db969fbc4bd03d8f7bcee59555cd4/assets/chapter_IV/class_diagrams/ClassDiagram.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/database_diagram/Diagrama%20de%20Base%20de%20Datos.png)
+![Database Diagram](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/73d31ef179410d3643be934f7708d2c5aaf380af/assets/chapter_IV/database_diagram/Database.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -2497,7 +2505,7 @@ El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para
 
 - URL para acceder a nuestro reporte en GitHub: https://github.com/Aplicaciones-Web-CodeForge/Report
 
-- URL para acceder nuestro repositorio de Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page
+- URL para acceder nuestro repositorio de Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -2859,7 +2867,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 4. ![Evidence5](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b9d24639c7381777c3bcf657029198d37e4c252b/assets/chapter_V/deployment_evidence_sprint_review/Evidencia2-LogisPe.png)
 
-Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
@@ -3572,8 +3580,9 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
-![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/CommitsTP.png)
-![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/Commits.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura1.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura2.png)
+![commits](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0811f6e50df9b104ebf92c7c56bae46889de9595/assets/chapter_V/development_evidence_sprint_review/captura3.png)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -3951,15 +3960,15 @@ El objetivo del Sprint 4 fue realizar la integración completa entre el frontend
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 
-![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/captura1.png)
+![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_1.png)
 
-![Commits de Ajustes UI/UX](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/captura3.png)
+![Commits de Ajustes UI/UX](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_2.png)
 
-![Commits de Despliegue Integrado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/captura2.png)
+![Commits de Despliegue Integrado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_3.png)
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
-![Flujo Integrado de Creación de Insumo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/execution_evidence_sprint_review/Evidencia2-LogisPe.png)
+![Flujo Integrado de Creación de Insumo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/execution_evidence_sprint_review/sprint4_integration_flow.png)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -4003,10 +4012,9 @@ Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-b
   </tr>
 </table>
 
-![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/commits%20Frontend.PNG)
+![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_frontend_commits.png)
 
-![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/commits%20Backend.PNG)
-
+![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_backend_commits.png)
 
 
 ### 5.3. Validation Interviews
@@ -4247,7 +4255,7 @@ Además, el Sprint 4 se centró en la validación y comunicación del valor del 
 
 # Anexos
 
-- Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report <br>
+- Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
 - Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
 - Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
