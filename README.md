@@ -2395,7 +2395,7 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ![Diagrama de Contenedores](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/container_diagrams/Software%20Architecture%20Container%20Diagrams.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
-![Diagrama de Componentes](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/148ca7b27a0096920f3ea21e06b9efb71a29ecf4/assets/chapter_IV/components_diagrams/Software%20Architecture%20Components%20Diagrams.png)
+![Diagrama de Componentes](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/blob/0e7acaf5a66d10729dbd11f31250259339b28403/assets/chapter_IV/components_diagrams/ComponentDiagram.png)
 
 ## 4.7. Software Object-Oriented Design
 
