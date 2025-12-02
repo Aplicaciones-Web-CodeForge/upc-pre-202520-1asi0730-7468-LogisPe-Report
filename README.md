@@ -2513,6 +2513,9 @@ Los usuarios solicitaron tutoriales breves y accesibles desde la interfaz.
 
 [Video About-the-Product (YouTube)](https://www.youtube.com/watch?v=hTyKtXQsork)
 
+### 5.5. Video About-the-Team
+
+[Video About-the-Team (OneDrive)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/IQDROPXxQSImTZ7UGwuyZXq_ARgah4wWFJqGMULEpTcdGaE?e=KgSdfc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones y recomendaciones
 
