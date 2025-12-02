@@ -291,6 +291,33 @@ Las funciones principales (creación, consulta, actualización y validación) se
 7. **Documentación Técnica del Backend:**  
    Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de los módulos, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
 
+### **Entrega N°4: TF**
+
+Para la cuarta entrega, el foco principal fue el cierre integral del proyecto LogisPe: estabilización de la aplicación, integración final entre el frontend y el backend, corrección de observaciones y elaboración del Informe de Trabajo Final. Cada integrante reforzó su rol aportando tanto en el código (front y back) como en el orden y corrección del reporte escrito, tal como se evidencia en el registro de versiones del informe. :contentReference[oaicite:0]{index=0}  
+
+#### Proceso de Colaboración:
+
+El proceso colaborativo se adaptó una vez más para abordar las necesidades específicas del Trabajo Final:
+
+1. **Consolidación de ramas y limpieza del repositorio**  
+   El equipo revisó las ramas `feature/*` utilizadas en entregas anteriores, fusionando cambios pendientes hacia la rama de trabajo principal y resolviendo conflictos. Se mantuvo el uso de commits convencionales para conservar un historial de cambios limpio y trazable, alineado con el flujo GitFlow definido en entregas previas. :contentReference[oaicite:1]{index=1}  
+
+2. **Integración final Frontend–Backend**  
+   Se organizaron sesiones de trabajo conjunto para conectar todos los flujos críticos de la aplicación (gestión de stock, órdenes, recetas y proveedores) con los endpoints reales del backend definidos en TB2. Durante estas sesiones se identificaron y corrigieron inconsistencias en contratos API, tipos de datos y respuestas, apoyándose en pruebas manuales y herramientas como Postman y las funciones de consumo desde el frontend. :contentReference[oaicite:2]{index=2}  
+
+3. **Cierre de aspectos técnicos y despliegue**  
+   A partir de la base de arquitectura, DDD y base de datos ya establecida en TB2, el equipo ajustó configuraciones y scripts necesarios para el despliegue del sistema en un entorno estable. Se documentaron los pasos finales para levantar backend y frontend, asegurando que cualquier integrante pudiera replicar el entorno del TF siguiendo el informe y el repositorio. :contentReference[oaicite:3]{index=3}  
+
+4. **Coautoría y refinamiento del Informe de Trabajo Final**  
+   Cada miembro actualizó y refinó las secciones del informe relacionadas con su aporte (sprints, evidencias de desarrollo, diagramas, despliegue y resultados), mientras que otros integrantes revisaban redacción, coherencia y alineación con los objetivos del curso y el Student Outcome ABET 5. Este trabajo en paralelo permitió unificar el tono, corregir inconsistencias y reflejar de manera clara la contribución de todos en la versión final del documento. :contentReference[oaicite:4]{index=4}  
+
+5. **Preparación de la demo y alineamiento con las evidencias previas**  
+   Para la presentación del TF, el equipo reutilizó y articuló los artefactos generados en TB1, TP1 y TB2 (landing page, aplicación web, backend DDD, entrevistas y heurísticas, videos) dentro de un guion coherente. Se definió quién presentaría cada parte, qué flujos se mostrarían en vivo y qué evidencias se usarían como soporte, reforzando la conexión entre el trabajo técnico y los resultados documentados en el informe. :contentReference[oaicite:5]{index=5}  
+
+6. **Retrospectiva y cierre de colaboración**  
+   Finalmente, el equipo realizó una retrospectiva centrada en la forma de trabajo: uso de GitHub para trazabilidad, definición de responsabilidades por versión del informe y coordinación para integrar front y back en tiempos de entrega ajustados. Las lecciones aprendidas durante el TF se consolidaron en las conclusiones del Sprint 4 y en las secciones de Student Outcome, evidenciando cómo la colaboración mejoró a lo largo de todo el proyecto. :contentReference[oaicite:6]{index=6}  
+
+
 <div style="page-break-after: always;"></div>
 
 # Contenido
