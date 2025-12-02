@@ -3549,7 +3549,7 @@ La documentación incluye esquemas de datos, ejemplos de request y response, có
 
 - Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -3930,7 +3930,7 @@ Durante el Sprint 4 se completó la integración del frontend con el backend rea
 
 - **Landing Page desplegada:** https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - **Frontend integrado desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
 - **Enlace de verificación de integración:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/stock (consumiendo backend real)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -4201,4 +4201,4 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 - Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page <br>
 - Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
 - Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
-- Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- Link del Backend desplegado: https://upc-pre-202520-1asi0730-7468-logispe-back-end-production.up.railway.app/docs/index.html
