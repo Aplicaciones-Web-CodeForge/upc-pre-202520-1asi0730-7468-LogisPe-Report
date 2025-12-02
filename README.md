@@ -15,7 +15,7 @@
 
 **Informe de Trabajo Final**
 
-**Startup** CodeForce  
+**Startup** CodeForge  
 **Producto** LogisPE  
 
 <br>
