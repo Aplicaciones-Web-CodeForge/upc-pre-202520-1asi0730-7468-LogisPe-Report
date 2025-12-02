@@ -4212,8 +4212,6 @@ Los usuarios solicitaron tutoriales breves y accesibles desde la interfaz.
 
 [Video About-the-Team (OneDrive)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/IQDROPXxQSImTZ7UGwuyZXq_ARgah4wWFJqGMULEpTcdGaE?e=KgSdfc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-<div style="page-break-after: always;"></div>
-
 ## Conclusiones y recomendaciones
 
 El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
