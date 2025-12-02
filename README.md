@@ -3967,15 +3967,13 @@ El objetivo del Sprint 4 fue realizar la integración completa entre el frontend
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 
-![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_1.png)
-
-![Commits de Ajustes UI/UX](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_2.png)
-
-![Commits de Despliegue Integrado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_3.png)
+![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
-![Flujo Integrado de Creación de Insumo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/execution_evidence_sprint_review/sprint4_integration_flow.png)
+![Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0b86e5e8bde5c1b0ea60c845a59115cb2f07b06c/assets/chapter_V/execution_evidence_sprint_review/Swagger.png)
+
+![Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/0b86e5e8bde5c1b0ea60c845a59115cb2f07b06c/assets/chapter_V/development_evidence_sprint_review/Evidencia-Tp.png)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -4018,10 +4016,6 @@ Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-b
     <td>Implementó mejoras de visibilidad de alertas y manejó estados de carga/errores.</td>
   </tr>
 </table>
-
-![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_frontend_commits.png)
-
-![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_backend_commits.png)
 
 ![Insights - Tablero 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TB1.jpg)
 ![Insights - Tablero Principal](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/76733ba15b1ac3a90111e6f2db8170466e3280a7/assets/chapter_V/Insights/TP.jpg)
