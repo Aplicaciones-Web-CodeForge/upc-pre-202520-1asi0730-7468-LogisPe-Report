@@ -3677,6 +3677,290 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend
 </table>
 
 
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>Github Username</th>
+    <th>Integración Frontend–Backend Real Leader (L), Collaborator (C)</th>
+    <th>Pruebas E2E y Validación de Flujos Leader (L), Collaborator (C)</th>
+    <th>Manejo de Errores y Ajustes de UI/UX Leader (L), Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>K1ngHulk</td>
+    <td>(L)</td>
+    <td>(L)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Fabrizio Aguilar Untiveros</td>
+    <td>Rodri2712</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Alessandro Ramiro Condori Lozano</td>
+    <td>AlessandroRCL</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(L)</td>
+  </tr>
+  <tr>
+    <td>Katherine Maryory Mejia Aliaga</td>
+    <td>KathMJ</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>asmmaza</td>
+    <td>(C)</td>
+    <td>(C)</td>
+    <td>(C)</td>
+  </tr>
+</table>
+
+### 5.2.4.3. Sprint Backlog 4
+
+El objetivo del Sprint 4 fue realizar la integración completa entre el frontend y el backend real de LogisPe, reemplazando la Fake API por los servicios REST implementados. Se enfocó en conectar los módulos principales, validar los flujos end-to-end, mejorar el manejo de errores y realizar ajustes de UI/UX basados en el feedback de las entrevistas de validación.
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>User Story</strong></th>
+    <th></th>
+    <th></th>
+    <th><strong>Work-Item/Task</strong></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Id</strong></th>
+    <th><strong>Title</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Estimation (Hours)</strong></th>
+    <th><strong>Assigned To</strong></th>
+    <th><strong>Status</strong></th>
+  </tr>
+  <tr>
+    <td>US-04.01</td>
+    <td>Integración Módulo Inventory</td>
+    <td>TSK-01</td>
+    <td>Reemplazar Fake API por backend real en vista "Stock"</td>
+    <td>Modificar servicios frontend para consumir endpoints reales de Inventory.</td>
+    <td>6</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-02</td>
+    <td>Implementar CRUD de insumos con backend real</td>
+    <td>Conectar formularios de creación, edición y eliminación a la API real.</td>
+    <td>5</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.02</td>
+    <td>Integración Módulo Suppliers</td>
+    <td>TSK-03</td>
+    <td>Conectar vista "Suppliers" al backend real</td>
+    <td>Consumir endpoints de proveedores y mostrar datos persistentes.</td>
+    <td>4</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-04</td>
+    <td>Implementar registro y edición de proveedores en tiempo real</td>
+    <td>Validar formularios y enviar datos al backend.</td>
+    <td>5</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.03</td>
+    <td>Integración Módulo Stores</td>
+    <td>TSK-05</td>
+    <td>Conectar gestión de almacenes a backend</td>
+    <td>Mostrar y gestionar almacenes desde la API real.</td>
+    <td>6</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.04</td>
+    <td>Validación de Flujos E2E</td>
+    <td>TSK-06</td>
+    <td>Realizar pruebas de integración para flujo "Registro → Login → Dashboard"</td>
+    <td>Verificar persistencia de sesión y navegación tras autenticación real.</td>
+    <td>5</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-07</td>
+    <td>Probar flujo completo de "Crear insumo → Ver en stock → Actualizar stock"</td>
+    <td>Asegurar que los datos persistan y se reflejen correctamente en todas las vistas.</td>
+    <td>6</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.05</td>
+    <td>Mejora de Manejo de Errores</td>
+    <td>TSK-08</td>
+    <td>Implementar mensajes de error claros en formularios</td>
+    <td>Mostrar feedback específico para errores de validación del backend.</td>
+    <td>4</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-09</td>
+    <td>Manejar estados de carga y timeouts en llamadas API</td>
+    <td>Agregar spinners y manejo de errores de red.</td>
+    <td>3</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.06</td>
+    <td>Ajustes de UI/UX según feedback</td>
+    <td>TSK-10</td>
+    <td>Mejorar contraste y visibilidad de alertas de stock</td>
+    <td>Aplicar recomendaciones de heurísticas de usabilidad.</td>
+    <td>4</td>
+    <td>Montes A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-11</td>
+    <td>Simplificar formularios extensos</td>
+    <td>Agrupar campos y usar acordeones para mejorar la experiencia de usuario.</td>
+    <td>5</td>
+    <td>Condori A.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.07</td>
+    <td>Despliegue Integrado</td>
+    <td>TSK-12</td>
+    <td>Actualizar variables de entorno para producción</td>
+    <td>Configurar URLs de backend real en el frontend desplegado.</td>
+    <td>3</td>
+    <td>Murillo M.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TSK-13</td>
+    <td>Realizar despliegue simultáneo y verificar integración</td>
+    <td>Asegurar que frontend y backend comunican correctamente en entorno de producción.</td>
+    <td>4</td>
+    <td>Aguilar R.</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04.08</td>
+    <td>Documentación de Integración</td>
+    <td>TSK-14</td>
+    <td>Actualizar documentación con flujos integrados</td>
+    <td>Documentar cambios en la integración y nuevos endpoints consumidos.</td>
+    <td>3</td>
+    <td>Mejia K.</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+![Commits Integración Frontend-Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_1.png)
+
+![Commits de Ajustes UI/UX](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_2.png)
+
+![Commits de Despliegue Integrado](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/development_evidence_sprint_review/sprint4_commits_3.png)
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+![Flujo Integrado de Creación de Insumo](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/execution_evidence_sprint_review/sprint4_integration_flow.png)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 se completó la integración del frontend con el backend real, reemplazando completamente la Fake API. Se actualizó la documentación de Swagger/OpenAPI para reflejar los endpoints consumidos por el frontend y se agregaron ejemplos específicos de request/response para las operaciones CRUD de los módulos Inventory, Suppliers y Stores. Además, se documentaron los flujos de error y los códigos de estado HTTP manejados por la interfaz, asegurando una referencia clara para el mantenimiento y futuras extensiones.
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+- **Landing Page desplegada:** https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0730-7468-LogisPe-Landing-Page/
+- **Frontend integrado desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
+- **Backend desplegado (Swagger):** https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+- **Enlace de verificación de integración:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/stock (consumiendo backend real)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo se enfocó en la integración completa frontend-backend, trabajando de manera coordinada para reemplazar la Fake API, validar flujos end-to-end y realizar ajustes de UI/UX basados en el feedback de las entrevistas. La comunicación fue clave para resolver dependencias y asegurar que los cambios fueran consistentes en todos los módulos.
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th>Author</th>
+    <th>Task completed</th>
+  </tr>
+  <tr>
+    <td>Mathias Javier Murillo</td>
+    <td>Lideró la integración del módulo Inventory y Stores, y configuró el despliegue integrado.</td>
+  </tr>
+  <tr>
+    <td>Rodrigo Aguilar</td>
+    <td>Implementó la conexión CRUD de insumos y realizó pruebas de flujos E2E.</td>
+  </tr>
+  <tr>
+    <td>Alessandro Condori</td>
+    <td>Integró el módulo Suppliers y realizó ajustes de UI/UX para simplificar formularios.</td>
+  </tr>
+  <tr>
+    <td>Katherine Mejia</td>
+    <td>Conectó el registro/edición de proveedores y mejoró el manejo de errores en frontend.</td>
+  </tr>
+  <tr>
+    <td>Augusto Sebastian Montes Maza</td>
+    <td>Implementó mejoras de visibilidad de alertas y manejó estados de carga/errores.</td>
+  </tr>
+</table>
+
+![Commits Sprint 4 - Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_frontend_commits.png)
+
+![Commits Sprint 4 - Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/upc-pre-202520-1asi0730-7468-LogisPe-Report/refs/heads/develop/assets/chapter_V/insights_during_sprint/sprint4_backend_commits.png)
+
+
+
 ### 5.3. Validation Interviews
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
 
